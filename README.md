@@ -34,7 +34,7 @@ Directly running the pre-trained system and get the labels.(Training the System 
 * Extract and place doc2vec and word2vec models in model_run/pre_trained_models.
 * Extract and place the pagerank file,svm_rank_classify and svm_rank_learn in model_run/support_files.
 * Make sure your data topic file is in csv format. . Then put it in model_run/data. Update the path for your topic file in get_labels.py (in parameter data). Currently it points to toy_data/toytopics.csv.
-* Run get_labels.py by "python get_labels.py -cg -us -s" (will give you candidate labels in a file with supervised and unsupervised labels printed on console as well as in output files. By default 3 output files namely output)candidates, output_unsupervised and output_supervised be created in the same directory)
+* Run get_labels.py by "python get_labels.py -cg -us -s" (will give you candidate labels in a file with supervised and unsupervised labels printed on console as well as in output files. By default 3 output files namely output_candidates, output_unsupervised and output_supervised will be created in the same directory)
 * Can update any other parameters in get_labels.py file such as number of supervised or unsupervised labels needed etc.
 
 Train the System.
