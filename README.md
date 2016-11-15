@@ -1,6 +1,6 @@
 # NETL-Automatic-Topic-Labelling-
 
-This package contains script, code files and tools to compute labels for topics automatically using Doc2vec and Word2vec (over phrases) models. URls to Pre-trained models along with annotated datasets are also present over here.
+This package contains script, code files and tools to compute labels for topics automatically using Doc2vec and Word2vec (over phrases) models. URLs to Pre-trained models along with annotated datasets are also present over here.
 
 Pre-Trained Models
 ==========================
@@ -43,7 +43,7 @@ Train the System.
 * Place Stanford parser(the whole directory) and WikiExtractor.py in training/support_packages.
 * Place word2vec phrase List file in training/additional_files.
 * Run main_train.py "python main_train.py -e -td -ng -dv -wv". 
-* Word2vec and Doc2vec models will be saved in training/trained_models and additional tokenisd documents and other documents will be placed in training/processed_documents.
+* Word2vec and Doc2vec models will be saved in training/trained_models and additional tokenised documents and other documents will be placed in training/processed_documents.
 
 * If you need your own word2vec phrase file can run word2vec_phrase.py but will need to alter the procedure a bit. Run "python main_train.py -e -td" and then run word2vec_phrases.py. After that again run "python main_train.py -ng -dv -wv" 
 
