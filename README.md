@@ -95,6 +95,8 @@ Some additional code files:
 
 NOTE: While running the training models make sure that you move all previously generated directories to other location or chage the name of output files in main_train.py else files or directories may be over written.
 
+Wikipedia internal pageRank were calculated using the help of https://www.nayuki.io/page/computing-wikipedias-internal-pageranks
+
 Datasets
 ==========================
 * A Topic file given which has 228 topics with its 10 terms from four domains namely blogs,books,news and pubmed.
