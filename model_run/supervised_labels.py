@@ -24,9 +24,10 @@ parser = argparse.ArgumentParser()
 parser.add_argument("num_sup_labels") # num of supervised labels needed.
 parser.add_argument("pagerank_model") # path to the pagerank file
 parser.add_argument("data") # path to the topic data file.
-parser.add_argument("output_unsupervised") # path of generated candidate file.
+parser.add_argument("output_candidates") # path of generated candidate file.
 parser.add_argument("svm_classify") # path to the SVM Ranker classify binary file. Needs to be downloaded from the path provided in Readme.
 parser.add_argument("trained_svm_model") # This is the pre existing trained SVM model, trained on our SVM model.
+parser.add_argument("output_supervised") # Output file for supervised labels
 args = parser.parse_args()
 
 # Load the pagerank File nto a dictionary
@@ -39,7 +40,7 @@ print "page Rank models loaded"
 
 # Get the candidate labels form candiate label file
 label_list =[]
-with open(args.output_unsupervised,'r') as k:
+with open(args.output_candidates,'r') as k:
     for line in k:
         labels = line.split()
         label_list.append(labels[1:])
@@ -229,13 +230,19 @@ def get_predictions(test_set,num):
         list_max.append(max_sort)
     print "\n"
     print "Printing Labels for supervised model"
+    g = open(args.output_supervised,'w')
     for cnt, (x,y) in enumerate(zip(test_chunks,list_max)):
         print "Top "+args.num_sup_labels+" labels for topic "+str(cnt)+" are:"
+        g.write( "Top "+args.num_sup_labels+" labels for topic "+str(cnt)+" are:" +"\n")
         for i2 in y:
             m= re.search('# (.*)',x[i2])
             print m.group(1)
-            
+            g.write(m.group(1)+"\n")
+
         print "\n"
+        g.write("\n")
+    g.close()
+
     query3 ="rm test_temp.dat predictionstemp"   # deleting the ttest file and prediction file generated as part of code to run svm_classify
     os.system(query3)
 
