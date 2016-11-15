@@ -48,7 +48,7 @@ parser.add_argument("-s", "--supervised", help ="get supervised labels", action 
 
 args = parser.parse_args()
 if args.candidates:  # It calls unsupervised_labels python file to get labels in unsupervised way
-    query1 = "python cand_generation.py "+str(num_candidates)+" "+doc2vecmodel+" "+word2vecmodel+" "+data+" "+output_filename +" "+doc2vec_indices_file+" "+word2vec_indi$
+    query1 = "python cand_generation.py "+str(num_candidates)+" "+doc2vecmodel+" "+word2vecmodel+" "+data+" "+output_filename +" "+doc2vec_indices_file+" "+word2vec_indices_file
     print "Extracting candidate labels"
     os.system(query1)
 
