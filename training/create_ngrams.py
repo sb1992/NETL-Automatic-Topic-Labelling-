@@ -62,7 +62,7 @@ def get_phrases(filenames):
         if "<doc" in line:
             doc_number =doc_number +1        # Just to keep a track that documents are being processed and their count.
             if (doc_number % 5000 ==0):      # Print number every 500 documents. Since files are multiprocessed count numbers can be repititive.
-                print doc_number
+                print "Documents processed "+str(doc_number)
         else:
             words = line.split(" ")
             bigram = ngrams(words,2)
