@@ -10,7 +10,7 @@ A XML dump is needed to start training from scratch.
 Put the path to Wikiextractor(wiki_extractor_path), Stanford tokeiniser(loc_parser) in this file if different
 from one menrioned in readme.md
 
-To run thwe whole model with all paramters . python main_train.py -e -td -dv-ng -wv
+To run thwe whole model with all paramters . python main_train.py -e -td -dv -ng -wv
 
 -e  The extract parameter which will call Wiki-Extractor to process our XML dump file.
 - td This tokenizes the proceesed dump documents. It uses stanford tokeniser. This processed documents will be
