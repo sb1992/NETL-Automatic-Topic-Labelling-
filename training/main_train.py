@@ -28,7 +28,7 @@ parser = argparse.ArgumentParser()
 
 # Parameters for extract.py
 wiki_extractor_path = "support_packages/WikiExtractor.py" # Give the Path to WikiExtractor.py file after you download it. URL given in readme.
-input_dump = "dump/convertedfile4" # The path to your Wikipedia XML dump.
+input_dump = "dump/dumpfile" # The path to your Wikipedia XML dump.
 size ="500M"             # Size of each individual file extracted (you can vary file sizes)
 template ="no-templates" # Does not allow WikiExtractor to use any pre installed templates (avoid changing it till you are sure)
 output_processed_directory = "processed_documents/docs"   # output directory whre you want documents extracted from dump (path for the directory)
