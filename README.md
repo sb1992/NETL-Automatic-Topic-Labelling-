@@ -38,7 +38,7 @@ Directly running the pre-trained system and get the labels.(Training the System 
 * Can update any other parameters in get_labels.py file such as number of supervised or unsupervised labels needed etc.
 
 Train the System.
-* Download a Wiki xml dump and place it in training/dump
+* Download a Wiki xml dump and place it in training/dump. Update the parameter input_dump with the right dump filename in main_train.py.
 * Download and Exttract the Standford Parser, WikiExtractor.py, word2vec phrase List from the URLs provided above.
 * Place Stanford parser(the whole directory) and WikiExtractor.py in training/support_packages.
 * Place word2vec phrase List file in training/additional_files.
