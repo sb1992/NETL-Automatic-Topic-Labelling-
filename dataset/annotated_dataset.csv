@@ -1,0 +1,4333 @@
+label	topic_id	annotator1	annotator2	annotator3	annotator4	annotator5	annotator6	annotator7	annotator8	annotator9	annotator10
+cloud computing	0.0	3	2	2.0	3.0	2.0	2.0				
+hypervisor	0.0	2	1	2.0	0.0	1.0					
+microsoft exchange server	0.0	2	3	2.0							
+vmware	0.0	1	3	2.0	3.0	2.0	1.0				
+windows 2000	0.0	2	2	2.0	1.0	1.0	1.0	1.0	2.0	3.0	
+postgresql	0.0	1	1	1.0	1.0	1.0	0.0	1.0	1.0		
+application server	0.0	2	0	2.0	1.0	2.0					
+sharepoint	0.0	2	1	2.0	3.0	2.0	1.0	1.0	1.0	1.0	
+web application	0.0	2	1	3.0	2.0	3.0	2.0	1.0	3.0		
+netware	0.0	1	2	1.0	2.0	3.0	1.0	1.0	3.0	1.0	2.0
+sun microsystems	0.0	0	2	2.0	3.0	1.0	2.0	2.0	1.0		
+oracle database	0.0	2	2	1.0	1.0	0.0	1.0				
+virtualization	0.0	2	2	2.0	2.0	3.0	3.0	3.0			
+windows server 2008	0.0	0	2	1.0	0.0	3.0					
+windows server 2003	0.0	1	1	2.0	1.0	2.0	1.0				
+hyper-v	0.0	1	1	3.0	1.0						
+microsoft sql server	0.0	1	0	1.0	2.0	2.0	1.0	1.0			
+desktop virtualization	0.0	1	3	2.0	1.0	1.0	1.0	1.0			
+operating system	0.0	2	3	3.0	3.0	1.0	3.0	1.0	1.0	2.0	
+hillary clinton	1.0	2	0	0.0	3.0	3.0					
+mitt romney	1.0	0	0	0.0	1.0						
+john kerry	1.0	1	1	1.0	0.0	2.0	0.0				
+walter mondale	1.0	1	1	2.0	2.0	0.0	1.0				
+conservative democrat	1.0	3	2	1.0	3.0	1.0					
+joe biden	1.0	2	2	1.0	1.0	2.0	0.0				
+barack obama	1.0	1	1	1.0	2.0	2.0	2.0				
+joe lieberman	1.0	0	2	0.0	1.0	1.0	1.0	1.0	1.0		
+john mccain	1.0	2	3	2.0	0.0	2.0	1.0				
+howard dean	1.0	1	1	2.0	0.0	0.0	1.0				
+george w. bush	1.0	1	1	1.0	2.0	1.0	1.0	1.0	1.0		
+ted cruz	1.0	2	3	1.0	0.0	0.0	0.0				
+george h. w. bush	1.0	1	3	0.0	1.0	0.0	0.0				
+democratic party (united states)	1.0	3	3	3.0	2.0	3.0	3.0	2.0	3.0		
+presidential nominee	1.0	3	3	3.0	2.0	3.0	3.0				
+republican party (united states)	1.0	3	2	0.0	1.0	1.0					
+al gore	1.0	0	0	1.0	0.0	2.0	0.0				
+bob dole	1.0	1	1	1.0	1.0	1.0	0.0	1.0			
+bill clinton	1.0	2	2	2.0	3.0	2.0	3.0	1.0	2.0	3.0	
+windows 10	2.0	2	1	1.0	3.0	3.0	3.0				
+windows mobile	2.0	1	2	1.0	1.0						
+windows 8.1	2.0	3	3	3.0	0.0	3.0	2.0	1.0			
+application programming interface	2.0	1	1	1.0	2.0	2.0	1.0	1.0			
+windows xp	2.0	1	2	1.0	3.0	3.0	2.0	1.0	2.0		
+windows server 2008	2.0	2	2	1.0	2.0	0.0	0.0				
+operating system	2.0	3	2	1.0	2.0	3.0	2.0	1.0	3.0	2.0	2.0
+windows 8	2.0	2	3	2.0	3.0	3.0					
+internet explorer	2.0	3	2	2.0	1.0	2.0					
+windows server 2003	2.0	2	3	1.0	2.0	2.0	3.0				
+windows 2000	2.0	2	2	2.0	2.0						
+linux	2.0	1	2	2.0	3.0	1.0	1.0	1.0			
+microsoft windows	2.0	1	3	2.0	2.0	1.0					
+os x	2.0	2	1	2.0	2.0	0.0	0.0	1.0			
+windows 7	2.0	1	3	2.0	2.0	3.0	2.0	1.0			
+windows vista	2.0	1	0	2.0	3.0	3.0					
+microsoft office	2.0	3	2	1.0	2.0	3.0	2.0	1.0			
+microsoft visual studio	2.0	2	1	2.0	2.0	3.0	2.0	2.0	2.0	2.0	
+web browser	2.0	2	2	2.0	1.0	1.0					
+floppy disk	3.0	2	1	0.0	1.0	1.0	2.0				
+expansion card	3.0	0	3	1.0	1.0	0.0					
+chipset	3.0	0	0	2.0	2.0	1.0					
+pc card	3.0	2	2	0.0	3.0	3.0	2.0				
+operating system	3.0	2	2	2.0	3.0	3.0					
+flash memory	3.0	2	2	2.0	3.0	3.0	2.0	3.0	1.0	1.0	3.0
+bios	3.0	1	1	1.0	1.0	1.0	1.0	0.0			
+solid-state drive	3.0	1	2	1.0	2.0	3.0	1.0	2.0	1.0		
+motherboard	3.0	2	2	2.0	2.0	3.0	2.0	3.0			
+hard disk drive	3.0	2	0	1.0	1.0	3.0	2.0	2.0	3.0		
+desktop computer	3.0	3	1	3.0	3.0	3.0	3.0	2.0			
+personal computer	3.0	2	3	1.0	3.0	1.0	2.0				
+usb flash drive	3.0	2	2	2.0	1.0	1.0					
+video card	3.0	2	3	0.0	3.0	1.0					
+hdmi	3.0	1	1	2.0	1.0	1.0	1.0				
+microprocessor	3.0	3	1	3.0	2.0						
+microcontroller	3.0	1	3	2.0	0.0	1.0					
+compactflash	3.0	0	0	3.0	2.0						
+usb	3.0	2	3	3.0	2.0	1.0	2.0	2.0			
+wii u	4.0	2	1	1.0	2.0						
+xbox one	4.0	3	2	2.0	1.0	1.0	3.0	3.0			
+dreamcast	4.0	2	2	2.0	1.0	1.0	1.0				
+gamecube	4.0	2	2	1.0	1.0	3.0	2.0	2.0			
+xbox 360	4.0	2	3	2.0	3.0	3.0	3.0				
+playstation 2	4.0	0	0	0.0	3.0						
+playstation vita	4.0	0	2	2.0	0.0	3.0	1.0				
+playstation portable	4.0	2	2	1.0	0.0	1.0	2.0	2.0	2.0	2.0	
+playstation 4	4.0	2	1	0.0	2.0	2.0	3.0				
+virtual console	4.0	1	3	2.0	2.0	1.0	3.0				
+playstation	4.0	0	1	2.0	3.0	1.0	0.0				
+playstation (console)	4.0	2	2	0.0	3.0	1.0	3.0				
+nintendo 3ds	4.0	2	2	2.0	1.0	0.0	3.0	3.0	2.0		
+nintendo ds	4.0	2	2	1.0							
+nintendo 64	4.0	2	2	2.0	1.0	1.0	2.0	1.0	3.0	1.0	
+wii	4.0	2	3	2.0	3.0	3.0					
+xbox (console)	4.0	3	2	3.0	2.0	2.0	1.0	1.0			
+video game console	4.0	3	3	2.0	2.0	3.0	2.0	3.0			
+playstation 3	4.0	2	2	3.0	1.0	1.0					
+independent politician	5.0	3	2	1.0	3.0	1.0	1.0	2.0			
+state senator	5.0	1	3	1.0	2.0						
+election	5.0	3	3	3.0	2.0	1.0	1.0	2.0			
+majority leader	5.0	2	2	2.0	1.0	2.0	2.0	1.0	2.0		
+ballot	5.0	2	3	3.0	0.0	2.0	2.0	1.0	1.0		
+congressional district	5.0	3	1	1.0	2.0	1.0	1.0	1.0	2.0		
+electoral college	5.0	2	3	3.0	3.0	1.0					
+minor party	5.0	0	1	2.0	1.0	2.0	2.0	1.0	2.0		
+electoral college (united states)	5.0	0	1	2.0	3.0	1.0	1.0	3.0			
+faithless elector	5.0	1	1	2.0							
+by-election	5.0	3	2	2.0	3.0	2.0	2.0	2.0	2.0		
+incumbent	5.0	1	1	2.0	0.0	0.0	0.0				
+conservative democrat	5.0	1	2	1.0	1.0	1.0	2.0				
+general election	5.0	3	1	3.0	3.0	3.0	1.0	3.0			
+primary election	5.0	2	2	2.0	3.0	1.0	2.0	2.0			
+write-in candidate	5.0	2	2	2.0	1.0	1.0	2.0	2.0			
+democratic party (united states)	5.0	0	0	3.0	3.0	3.0					
+independent democrat	5.0	1	2	0.0	3.0	0.0					
+running mate	5.0	1	1	2.0	2.0	3.0	3.0	0.0	2.0	3.0	
+hospital	6.0	3	2	2.0	3.0	1.0	2.0	3.0	3.0		
+pain management	6.0	1	2	1.0	1.0	2.0	1.0	1.0			
+patient	6.0	2	2	1.0	3.0						
+surgery	6.0	2	2	2.0	1.0	1.0	0.0				
+primary care	6.0	1	1	0.0	1.0	3.0					
+intensive care unit	6.0	2	2	2.0	2.0	1.0	1.0	3.0			
+rheumatology	6.0	2	1	1.0	1.0						
+mental health	6.0	1	2	2.0	1.0	2.0	3.0				
+pathology	6.0	1	2	3.0	0.0	1.0					
+health	6.0	3	2	1.0	1.0	2.0	3.0	3.0	2.0		
+psychiatry	6.0	2	2	2.0	1.0	3.0	1.0	1.0	1.0	0.0	
+medicine	6.0	3	3	3.0	3.0	3.0					
+neurology	6.0	2	2	2.0	1.0	2.0	2.0	3.0			
+oncology	6.0	3	3	3.0	1.0	3.0	3.0	2.0			
+tuberculosis	6.0	2	2	1.0	1.0	1.0					
+cancer	6.0	3	2	1.0	3.0	2.0	2.0	3.0			
+geriatrics	6.0	0	0	2.0	1.0	1.0	0.0				
+palliative care	6.0	1	2	1.0	0.0	0.0					
+nephrology	6.0	2	1	0.0	3.0						
+sauce	7.0	3	1	1.0	2.0	1.0	2.0	2.0	0.0	2.0	
+tomato sauce	7.0	1	1	2.0	2.0	2.0	3.0	2.0			
+soup	7.0	0	0	3.0	3.0	3.0	2.0	0.0			
+salad	7.0	1	2	1.0	1.0	1.0	0.0				
+offal	7.0	1	1	2.0	1.0	2.0	1.0	0.0			
+bread	7.0	1	2	2.0	2.0	1.0	1.0	1.0	2.0	1.0	0.0
+broth	7.0	1	2	1.0	2.0	2.0					
+cooking	7.0	3	2	3.0	3.0	3.0	2.0				
+yogurt	7.0	0	0	1.0	2.0	1.0					
+steak	7.0	1	2	3.0	2.0	1.0	0.0	1.0	0.0		
+pasta	7.0	2	3	3.0	0.0						
+gravy	7.0	0	1	0.0	3.0	3.0	2.0	3.0	1.0		
+sausage	7.0	3	2	1.0	1.0	2.0	0.0	2.0			
+barbecue sauce	7.0	2	3	2.0	3.0						
+condiment	7.0	2	1	1.0	3.0	2.0	0.0	0.0			
+dessert	7.0	3	1	0.0	1.0	0.0	2.0				
+mayonnaise	7.0	1	2	1.0	2.0	2.0	1.0				
+french fries	7.0	0	2	0.0	1.0	0.0	0.0				
+potato	7.0	1	1	1.0	1.0	0.0	0.0	1.0	1.0	1.0	1.0
+sanctification	8.0	1	2	1.0	1.0	2.0	2.0				
+son of god	8.0	3	3	2.0	1.0	2.0	1.0	3.0			
+christ	8.0	3	2	2.0	1.0	2.0	1.0				
+eucharist	8.0	0	3	1.0	1.0						
+salvation (christianity)	8.0	0	0	3.0	3.0	3.0	1.0	3.0	0.0		
+mary (mother of jesus)	8.0	3	2	3.0	0.0	3.0	1.0	1.0	1.0	3.0	
+holy spirit (christian denominational variations)	8.0	3	1	0.0	2.0	2.0	2.0				
+infant baptism	8.0	3	1	1.0	0.0	3.0	1.0				
+catholicism	8.0	3	2	3.0	1.0	2.0	2.0				
+holy spirit (christianity)	8.0	0	3	2.0	2.0	3.0					
+john the baptist	8.0	2	2	0.0	1.0	2.0	1.0	1.0			
+baptism	8.0	2	3	2.0	3.0	3.0					
+faith	8.0	1	3	3.0	3.0	2.0	3.0	3.0			
+christian theology	8.0	1	3	3.0	3.0	3.0	3.0	1.0			
+sacrament	8.0	1	1	2.0	3.0	3.0	3.0	1.0	2.0		
+jesus	8.0	0	3	1.0	3.0	3.0	1.0				
+god the father	8.0	1	2	1.0	3.0	3.0	3.0	1.0			
+christian church	8.0	3	3	1.0	3.0	1.0					
+christianity	8.0	3	3	3.0	3.0	3.0	2.0	3.0	1.0		
+olympic gold	9.0	3	2	1.0	3.0	3.0	3.0				
+summer olympic games	9.0	3	2	1.0	3.0	2.0	3.0	2.0			
+winter olympic games	9.0	2	3	2.0	3.0	3.0	1.0				
+gold medal	9.0	1	3	2.0	3.0	3.0	1.0	0.0			
+2008 summer olympics	9.0	3	3	2.0	2.0						
+1996 summer olympics	9.0	1	2	3.0	2.0	1.0	2.0	2.0	2.0	2.0	
+commonwealth games	9.0	2	2	1.0							
+olympic sports	9.0	2	3	2.0	1.0	3.0	3.0	3.0			
+paralympic games	9.0	0	1	2.0	2.0	1.0	3.0				
+asian games	9.0	1	2	1.0	2.0	2.0	1.0				
+chinese taipei	9.0	2	1	2.0	3.0	0.0					
+demonstration sport	9.0	1	0	1.0							
+2000 summer olympics	9.0	2	3	0.0	1.0	2.0	0.0				
+silver medal	9.0	2	2	1.0	1.0	2.0	2.0	2.0			
+2004 summer olympics	9.0	3	3	3.0	2.0	1.0	3.0				
+olympic games	9.0	2	1	2.0	3.0	2.0	3.0	3.0	3.0	3.0	3.0
+olympic medal	9.0	0	0	2.0	2.0	3.0					
+1948 summer olympics	9.0	1	1	1.0	3.0	1.0	1.0				
+2012 summer olympics	9.0	1	3	3.0							
+joe biden	10.0	0	0	3.0							
+john mccain	10.0	3	1	3.0	3.0	0.0	1.0	2.0			
+michael dukakis	10.0	2	1	0.0	2.0	0.0	0.0				
+bill clinton	10.0	1	1	0.0	1.0						
+democratic senatorial campaign committee	10.0	0	2	2.0	1.0	2.0	1.0	2.0	1.0		
+running mate	10.0	2	1	2.0	2.0	1.0	2.0	0.0			
+democratic leadership council	10.0	1	1	1.0	1.0	0.0	2.0				
+presidential nominee	10.0	0	0	1.0	1.0	1.0					
+democratic party (united states)	10.0	1	3	1.0	0.0	0.0	2.0	1.0	1.0	2.0	
+hillary clinton	10.0	3	0	0.0	1.0	1.0	0.0	2.0	1.0		
+joe lieberman	10.0	1	1	2.0	2.0	1.0	0.0				
+state senator	10.0	1	2	1.0	2.0	2.0	1.0	1.0			
+howard dean	10.0	1	1	1.0	1.0	0.0					
+walter mondale	10.0	1	0	0.0	0.0	1.0					
+conservative democrat	10.0	2	3	2.0	2.0	3.0					
+mitt romney	10.0	1	1	1.0	1.0	1.0	2.0	1.0	2.0		
+john kerry	10.0	2	1	1.0	2.0	2.0	2.0	3.0			
+state treasurer	10.0	1	1	2.0	1.0	1.0	0.0	0.0	0.0	0.0	
+sarah palin	10.0	3	3	2.0	2.0	3.0	3.0	3.0			
+shades of green	11.0	1	1	1.0	0.0	1.0	1.0	1.0	2.0	2.0	2.0
+blue	11.0	3	3	3.0	1.0	1.0					
+white	11.0	1	2	1.0	2.0	1.0	2.0				
+black	11.0	2	2	3.0	2.0	2.0	1.0				
+purple	11.0	0	1	2.0	1.0	0.0					
+green	11.0	2	2	2.0	2.0	0.0					
+yellow	11.0	1	1	0.0	1.0	2.0	3.0	2.0			
+bright red	11.0	1	1	0.0	1.0	1.0	1.0	1.0			
+color	11.0	0	2	1.0	2.0	3.0	2.0	3.0			
+grey	11.0	1	2	0.0	1.0	3.0	1.0	1.0	2.0	1.0	
+brown	11.0	0	1	1.0	1.0	1.0	1.0	1.0			
+pink	11.0	1	3	1.0	1.0	1.0	0.0	0.0	0.0	1.0	
+dark purple	11.0	0	0	2.0	1.0	0.0	1.0	1.0	0.0		
+violet (color)	11.0	0	0	2.0	1.0	3.0	2.0	0.0			
+beige	11.0	1	1	1.0	1.0	0.0					
+red	11.0	1	1	1.0	2.0	2.0	3.0	3.0	1.0		
+blue-green	11.0	0	0	2.0	1.0						
+light blue	11.0	1	2	1.0	3.0	2.0					
+cream (colour)	11.0	3	0	0.0	3.0	3.0					
+investment banking	12.0	3	2	1.0	3.0	2.0	3.0	1.0			
+subprime mortgage crisis	12.0	2	1	2.0	3.0	3.0	3.0	1.0	2.0		
+deposit insurance	12.0	3	3	2.0	1.0	1.0	1.0	1.0	1.0	2.0	2.0
+debt crisis	12.0	1	0	0.0	3.0	1.0					
+citigroup	12.0	1	0	2.0	1.0	1.0					
+great recession	12.0	2	3	2.0	3.0	3.0	1.0	2.0	2.0	2.0	2.0
+central bank	12.0	1	2	2.0	3.0	3.0	2.0	2.0	0.0		
+capital market	12.0	3	2	2.0	2.0	3.0	1.0	2.0	3.0		
+financial crisis	12.0	2	2	2.0	3.0	3.0	3.0				
+bank of america	12.0	1	2	1.0	1.0						
+liquidity crisis	12.0	1	2	3.0	3.0	2.0	2.0	1.0	0.0		
+troubled asset relief program	12.0	1	0	1.0	0.0	2.0	1.0	2.0	2.0	1.0	
+refinancing	12.0	1	3	3.0	2.0	2.0	3.0	3.0	2.0	3.0	
+goldman sachs	12.0	2	3	0.0	2.0	2.0	1.0	1.0	1.0	1.0	
+federal deposit insurance corporation	12.0	1	0	0.0	3.0	2.0	3.0	0.0			
+jpmorgan chase	12.0	0	0	2.0	1.0	1.0	3.0	1.0			
+government debt	12.0	0	0	2.0	3.0	2.0	2.0	3.0	0.0		
+financial services	12.0	2	2	2.0	3.0	2.0	2.0	1.0	2.0	3.0	
+investment	12.0	1	2	2.0	2.0	1.0	2.0	2.0	3.0		
+basal metabolic rate	13.0	3	1	1.0	3.0	0.0	0.0				
+weight loss	13.0	3	2	2.0	2.0						
+meat	13.0	1	1	1.0	0.0	1.0	2.0	0.0			
+food energy	13.0	2	2	1.0							
+dietary fiber	13.0	2	2	3.0	2.0	1.0	2.0	2.0	1.0		
+appetite	13.0	1	3	2.0	3.0	2.0	1.0	2.0			
+weight management	13.0	3	3	3.0	2.0	3.0	2.0	1.0			
+dieting	13.0	3	3	3.0	2.0	3.0					
+diet (nutrition)	13.0	3	1	2.0	2.0	3.0	3.0	2.0			
+obesity	13.0	3	1	3.0	3.0	1.0	2.0				
+glycemic index	13.0	3	2	0.0	1.0	1.0	1.0	1.0	1.0	0.0	1.0
+eating	13.0	3	2	1.0	2.0	2.0	3.0	2.0			
+healthy diet	13.0	2	1	2.0	3.0	1.0					
+weight gain	13.0	2	2	2.0	2.0	1.0	2.0				
+high-protein diet	13.0	2	2	2.0	1.0	0.0					
+nutrition	13.0	0	2	2.0							
+insulin resistance	13.0	2	2	2.0	1.0	1.0	1.0				
+malnutrition	13.0	0	2	1.0	0.0	0.0					
+saturated fat	13.0	2	2	2.0	2.0	2.0					
+brake	14.0	1	1	2.0	0.0	1.0	1.0	2.0	2.0		
+turbocharger	14.0	1	2	1.0	2.0						
+landing gear	14.0	0	1	1.0	3.0	1.0					
+power steering	14.0	1	1	2.0	3.0	1.0	1.0				
+front-wheel drive	14.0	2	2	2.0	2.0	2.0					
+supercharger	14.0	2	1	1.0	2.0	3.0	0.0	0.0			
+drive shaft	14.0	1	3	1.0	2.0	2.0	0.0	1.0			
+diesel engine	14.0	1	0	1.0	2.0	1.0	2.0	1.0	2.0	1.0	
+manual transmission	14.0	1	2	1.0	1.0	3.0	1.0	2.0			
+v8 engine	14.0	2	2	2.0	2.0	0.0	1.0	1.0			
+transaxle	14.0	2	1	0.0	1.0	1.0	0.0				
+air suspension	14.0	1	3	2.0	2.0	2.0	1.0	1.0	1.0	2.0	2.0
+engine	14.0	2	3	2.0	3.0	3.0	0.0	1.0			
+automatic transmission	14.0	2	2	3.0	1.0	3.0					
+drivetrain	14.0	2	2	1.0	0.0	2.0	2.0	2.0	0.0		
+four-wheel drive	14.0	2	1	2.0	2.0	2.0	1.0				
+honda civic (ninth generation)	14.0	1	1	1.0							
+axle	14.0	0	1	1.0	0.0	1.0					
+steering wheel	14.0	2	1	1.0	3.0	1.0					
+internet	15.0	2	3	2.0	3.0	3.0					
+social media	15.0	1	2	3.0	1.0	3.0	1.0				
+web portal	15.0	3	2	2.0	3.0	2.0	1.0	2.0			
+google search	15.0	3	2	2.0	1.0	3.0	1.0				
+mobile app	15.0	3	1	2.0	3.0	1.0	2.0	2.0	2.0	3.0	
+website	15.0	2	3	1.0	3.0	1.0					
+web browser	15.0	2	2	2.0	3.0	3.0					
+user-generated content	15.0	2	2	2.0	2.0	2.0	3.0				
+flickr	15.0	2	2	2.0	1.0	0.0	2.0	0.0			
+web content	15.0	2	2	2.0	1.0	2.0	2.0				
+social bookmarking	15.0	2	1	2.0	1.0	3.0	2.0	3.0	1.0		
+home page	15.0	3	2	1.0	2.0	1.0	1.0				
+google analytics	15.0	3	1	3.0	2.0	3.0	2.0				
+gmail	15.0	2	2	1.0	3.0	1.0	2.0	2.0	1.0		
+social networking service	15.0	2	3	2.0	2.0	2.0	2.0	1.0			
+facebook	15.0	3	0	2.0	2.0	2.0					
+adsense	15.0	2	2	2.0	2.0	3.0	2.0				
+yahoo!	15.0	1	3	1.0	2.0	2.0	1.0				
+web 2.0	15.0	1	2	1.0	1.0	1.0	1.0	2.0	2.0	3.0	1.0
+liquefied natural gas	16.0	1	2	2.0	3.0	1.0	2.0				
+biofuel	16.0	1	2	2.0	2.0	2.0	2.0	3.0			
+petroleum	16.0	3	0	0.0	3.0	3.0	3.0				
+diesel fuel	16.0	1	2	2.0	3.0	1.0	3.0				
+alternative fuel	16.0	2	2	1.0	3.0	2.0	1.0				
+sustainable energy	16.0	1	2	3.0	1.0						
+renewable energy	16.0	1	1	0.0	2.0	0.0					
+energy development	16.0	2	2	2.0	2.0	3.0	2.0	2.0			
+carbon capture and storage	16.0	1	1	2.0	2.0	2.0	2.0				
+fossil fuel	16.0	2	1	1.0	3.0	3.0	2.0				
+electricity generation	16.0	0	2	3.0	3.0	2.0	0.0				
+carbon dioxide	16.0	0	2	0.0	1.0	2.0					
+cogeneration	16.0	1	0	2.0	1.0	1.0	1.0	2.0			
+natural gas	16.0	3	2	3.0	2.0	3.0	2.0				
+enhanced oil recovery	16.0	2	1	2.0	1.0	1.0	1.0	1.0	2.0		
+biomass	16.0	2	2	2.0	1.0	3.0					
+oil sands	16.0	1	2	1.0	0.0	1.0	1.0				
+combined cycle	16.0	1	3	3.0	1.0	0.0	1.0				
+alternative energy	16.0	1	2	3.0	3.0	3.0	1.0	2.0			
+transcription factor	17.0	2	2	2.0	1.0	1.0	1.0	3.0			
+alternative splicing	17.0	2	0	1.0	0.0	0.0	0.0				
+actin	17.0	1	1	1.0	2.0	1.0	2.0	0.0			
+apoptosis	17.0	3	2	0.0	2.0	2.0					
+dna methylation	17.0	1	2	0.0	2.0	2.0					
+signal transduction	17.0	2	1	0.0	0.0	3.0	0.0	1.0	0.0		
+microrna	17.0	1	2	1.0	1.0	1.0	2.0				
+nf-κb	17.0	1	0	1.0	1.0	0.0	0.0	0.0			
+survivin	17.0	0	1	0.0	1.0	1.0	0.0				
+long non-coding rna	17.0	1	2	1.0	1.0	2.0	2.0	1.0			
+gene product	17.0	1	2	1.0	1.0	3.0	2.0				
+telomerase	17.0	2	1	2.0	2.0	2.0					
+dna repair	17.0	1	1	2.0	1.0	3.0	2.0	3.0	2.0		
+mutation	17.0	2	2	2.0	2.0	2.0	1.0	1.0			
+beta-catenin	17.0	1	3	2.0	1.0	2.0					
+cell growth	17.0	0	2	2.0	0.0	2.0					
+gene expression	17.0	2	3	2.0	2.0						
+carcinogenesis	17.0	1	1	2.0	2.0	1.0	3.0				
+p53	17.0	1	2	0.0	1.0	1.0	2.0	0.0	0.0		
+ipad	18.0	2	2	2.0	0.0	3.0	2.0				
+mobile device	18.0	3	2	3.0	3.0	3.0	1.0	3.0			
+google talk	18.0	0	0	3.0	2.0	3.0					
+skype	18.0	2	2	2.0	1.0	2.0	1.0	2.0	2.0		
+gmail	18.0	3	3	0.0	0.0	1.0	0.0				
+windows mobile	18.0	1	2	0.0	2.0	2.0	3.0	2.0	1.0	3.0	1.0
+windows phone	18.0	0	0	3.0	1.0	1.0	2.0	0.0			
+google voice	18.0	1	2	1.0	1.0	1.0	1.0	1.0	2.0	2.0	2.0
+windows phone 7	18.0	0	3	3.0	1.0	1.0	3.0				
+google play	18.0	1	2	3.0	2.0	1.0	1.0	2.0	1.0	2.0	
+mobile web	18.0	2	3	3.0	2.0	3.0	2.0	2.0	2.0		
+mobile app	18.0	3	3	1.0	0.0	2.0	1.0				
+ipod touch	18.0	1	1	1.0	1.0	2.0	1.0	1.0	2.0	2.0	1.0
+android (operating system)	18.0	2	3	2.0	3.0	0.0					
+ios	18.0	1	2	1.0	2.0						
+iphone	18.0	1	3	2.0	1.0						
+web browser	18.0	1	1	3.0	1.0	2.0	2.0	2.0			
+smartphone	18.0	3	3	3.0	3.0	2.0	2.0	3.0	2.0		
+mobile phone	18.0	2	3	2.0	3.0	2.0	3.0	2.0	3.0		
+third album	19.0	3	2	2.0	1.0	1.0					
+rhythm section	19.0	2	1	2.0	2.0	2.0	1.0				
+guitar solo	19.0	1	3	2.0	1.0	3.0	2.0	1.0			
+funk	19.0	0	2	1.0	1.0	2.0	2.0	0.0	0.0		
+lead vocalist	19.0	2	1	1.0	1.0	2.0	2.0	2.0	1.0	1.0	2.0
+rock music	19.0	3	2	3.0	2.0	3.0	2.0	3.0	2.0	2.0	
+the beat (american band)	19.0	1	2	1.0	1.0	2.0					
+electric guitar	19.0	2	2	1.0	2.0	3.0	1.0				
+cover version	19.0	1	1	2.0	1.0	2.0					
+the band	19.0	3	0	2.0	2.0	3.0	3.0				
+progressive rock	19.0	2	2	2.0	1.0	1.0	0.0	3.0			
+synthpop	19.0	2	1	3.0	1.0	2.0	0.0	1.0			
+some songs	19.0	0	2	1.0	2.0						
+pop music	19.0	0	0	1.0	1.0						
+one song	19.0	2	1	1.0	3.0	1.0	2.0	0.0	1.0	1.0	
+cover songs	19.0	1	3	1.0	3.0	1.0	1.0	0.0			
+album	19.0	3	3	2.0	2.0	3.0	2.0				
+heavy metal music	19.0	2	1	3.0	1.0	2.0	2.0	2.0	2.0		
+love songs (nat king cole album)	19.0	3	1	1.0							
+no-hitter	20.0	2	2	1.0	3.0	1.0					
+andruw jones	20.0	2	1	2.0	2.0	3.0	0.0	0.0	2.0	1.0	
+world series	20.0	0	3	2.0							
+alfonso soriano	20.0	2	2	0.0	1.0	2.0					
+scoring position	20.0	1	1	1.0	2.0	1.0	2.0				
+brooklyn dodgers (basketball)	20.0	1	1	3.0	2.0						
+extra innings	20.0	0	2	2.0	1.0	2.0					
+home run	20.0	1	2	1.0	3.0	2.0					
+opening day	20.0	2	2	0.0	1.0	1.0	0.0				
+starting lineup	20.0	2	1	2.0	1.0	0.0	3.0	1.0	3.0	2.0	
+playoffs	20.0	3	3	1.0	3.0	2.0	2.0	3.0	2.0		
+shutout	20.0	2	1	1.0	1.0	0.0	0.0				
+championship	20.0	0	2	0.0	0.0						
+new york yankees	20.0	2	2	2.0	3.0	0.0	0.0				
+inning	20.0	1	2	1.0	2.0	1.0	2.0				
+complete game	20.0	3	2	1.0	1.0	1.0	1.0	2.0	3.0		
+perfect season	20.0	1	2	3.0	2.0	2.0	1.0	1.0	1.0	2.0	
+exhibition game	20.0	1	1	3.0	1.0	1.0					
+all-star game	20.0	1	2	2.0	3.0	2.0	2.0	1.0	1.0		
+marriage	21.0	3	1	0.0	0.0	1.0	1.0	3.0			
+his family	21.0	2	1	2.0	1.0	2.0	2.0	2.0	3.0		
+son	21.0	0	2	2.0	0.0						
+husband	21.0	1	2	1.0	1.0	3.0					
+their son	21.0	0	0	1.0	2.0	1.0					
+uncle	21.0	0	0	3.0	0.0	2.0	0.0				
+only child	21.0	1	3	1.0	0.0	1.0	1.0	1.0			
+sisters (tv series)	21.0	0	2	2.0	2.0	2.0	0.0	2.0	2.0		
+sister	21.0	2	2	2.0	3.0	2.0	1.0	2.0	1.0		
+father	21.0	1	2	3.0	2.0	3.0	1.0	3.0	1.0		
+mother	21.0	0	3	0.0	3.0	3.0					
+grandchild	21.0	1	2	1.0	1.0	1.0	1.0	1.0			
+cousin	21.0	1	1	1.0	1.0	3.0	1.0	1.0	3.0	1.0	
+youngest son	21.0	2	3	2.0	1.0	1.0					
+wife	21.0	1	1	1.0	2.0	1.0	2.0	2.0			
+daughter	21.0	2	3	3.0	2.0	1.0	1.0	1.0	1.0		
+the youngest son	21.0	1	1	1.0	1.0	2.0	1.0	2.0			
+aunt	21.0	2	1	2.0	2.0	1.0	2.0				
+brother	21.0	3	3	2.0	2.0	3.0					
+criminal procedure	22.0	3	0	0.0	2.0	3.0	1.0				
+state prosecutor	22.0	3	1	2.0	2.0	2.0	2.0				
+attorney general	22.0	2	1	3.0	2.0	1.0	1.0	0.0	1.0		
+supreme court	22.0	3	1	2.0	0.0	3.0					
+prosecutor	22.0	2	2	3.0	0.0	1.0	1.0				
+grand jury	22.0	2	3	2.0	2.0	3.0					
+indictment	22.0	1	3	2.0	1.0	2.0	3.0	2.0			
+federal court	22.0	0	3	0.0	2.0	2.0	0.0				
+jury trial	22.0	3	1	2.0	3.0	2.0	2.0	3.0			
+criminal law	22.0	2	3	3.0	2.0	3.0	3.0	3.0	2.0	1.0	
+acquittal	22.0	1	2	3.0	3.0	3.0	2.0	2.0	2.0	2.0	
+state court (united states)	22.0	3	2	3.0	2.0	0.0					
+magistrate (england and wales)	22.0	3	2	2.0	1.0	0.0	1.0				
+superior court	22.0	3	2	2.0	2.0	2.0	2.0				
+director of public prosecutions	22.0	1	2	2.0	3.0	2.0	1.0	1.0			
+judiciary	22.0	2	2	2.0	2.0	2.0	2.0				
+private prosecution	22.0	0	2	3.0	2.0	1.0					
+district court	22.0	1	3	3.0	2.0	2.0	3.0	1.0			
+contempt of court	22.0	2	1	2.0	2.0	2.0	2.0				
+footwear	23.0	1	2	1.0	3.0	3.0	3.0	2.0	3.0	2.0	1.0
+dress shirt	23.0	2	1	0.0	2.0	0.0					
+headgear	23.0	0	1	0.0	0.0	0.0	0.0	0.0	1.0		
+skirt	23.0	1	2	0.0	0.0	1.0	1.0	0.0			
+cargo pants	23.0	1	1	3.0	0.0	1.0	1.0				
+leggings	23.0	1	2	2.0	1.0	2.0					
+cuff	23.0	0	1	1.0	0.0	2.0	0.0				
+shoe	23.0	1	3	1.0	2.0	3.0	3.0				
+webbing	23.0	0	1	2.0	0.0	1.0	0.0	1.0	1.0	1.0	
+underpants	23.0	1	1	2.0	0.0	0.0	0.0	1.0	0.0	0.0	
+jacket	23.0	1	1	2.0	0.0	2.0	1.0				
+backpack	23.0	2	0	1.0	1.0	2.0	2.0				
+the waist	23.0	0	1	2.0	0.0	0.0	1.0				
+waistcoat	23.0	1	1	1.0	1.0	2.0	1.0	2.0	1.0	2.0	
+shoulder strap	23.0	1	1	0.0	0.0	2.0	1.0				
+neoprene	23.0	2	2	0.0	2.0	0.0	1.0	1.0			
+waist	23.0	1	0	2.0	1.0	1.0	1.0	1.0	1.0		
+strap	23.0	1	2	0.0	1.0	2.0	0.0	1.0	0.0		
+trousers	23.0	1	2	2.0	0.0	0.0	1.0	1.0	1.0		
+primary education	24.0	3	2	3.0	3.0	1.0	3.0	1.0	0.0	2.0	
+undergraduate degree	24.0	3	3	2.0	0.0	1.0					
+undergraduate education	24.0	2	2	1.0	1.0	2.0	2.0	2.0			
+school	24.0	2	2	3.0	3.0	3.0	3.0				
+vocational education	24.0	2	1	2.0	3.0	3.0	0.0	2.0	0.0		
+secondary education	24.0	3	3	2.0	3.0	0.0	3.0	1.0			
+matriculation	24.0	1	3	2.0	3.0	3.0	2.0	3.0	1.0		
+university	24.0	1	3	2.0	2.0	3.0	3.0	2.0	2.0	3.0	3.0
+high school	24.0	2	3	2.0							
+college	24.0	2	1	2.0	3.0	1.0	1.0	1.0			
+secondary school	24.0	2	2	1.0	1.0	1.0					
+student	24.0	3	1	3.0	2.0	1.0					
+graduate school	24.0	3	2	3.0	1.0						
+graduate	24.0	3	1	3.0	2.0	2.0	1.0				
+teacher	24.0	3	2	2.0	2.0	1.0	3.0	2.0	3.0	1.0	1.0
+pre-medical	24.0	0	0	1.0	2.0	2.0	0.0	0.0			
+education	24.0	3	3	3.0	3.0	1.0	3.0	3.0	2.0	3.0	
+curriculum	24.0	2	3	2.0	2.0	2.0	1.0	1.0			
+private school	24.0	2	2	2.0	3.0	2.0					
+perfect season	25.0	1	1	2.0	1.0	2.0	3.0	2.0	1.0		
+starting lineup	25.0	1	1	3.0	2.0	1.0	0.0				
+playoffs	25.0	2	2	2.0	2.0	1.0	1.0	3.0			
+player-coach	25.0	3	2	2.0	2.0	2.0	2.0				
+football team	25.0	3	3	2.0	2.0	3.0					
+wild card (sports)	25.0	2	0	2.0	1.0	2.0	3.0	1.0			
+the first team	25.0	2	1	1.0	1.0	2.0					
+one-game playoff	25.0	2	2	2.0	1.0	1.0	1.0	2.0			
+championship	25.0	2	3	3.0	2.0	1.0	2.0	3.0			
+basketball	25.0	3	1	0.0	1.0	0.0	3.0	2.0	2.0	0.0	
+head coach	25.0	1	1	2.0	2.0	3.0	1.0				
+professional football (gridiron)	25.0	3	3	1.0	2.0	2.0	2.0	3.0			
+penn state nittany lions	25.0	1	3	1.0	1.0	1.0	2.0	3.0	0.0	2.0	
+exhibition game	25.0	1	1	2.0	2.0	3.0	1.0				
+penalty shoot-out (association football)	25.0	3	1	3.0	1.0	1.0					
+winning streak (sports)	25.0	3	2	1.0	1.0	2.0	0.0	1.0			
+all-star game	25.0	0	2	2.0	3.0						
+playoff format	25.0	1	2	2.0	1.0	2.0	2.0	1.0			
+tournament	25.0	1	2	2.0	2.0	1.0	2.0				
+michael williams (defensive back)	26.0	0	0	1.0	2.0	3.0	2.0	3.0	0.0	0.0	
+san josé	26.0	1	0	0.0	1.0	1.0	1.0	1.0			
+francisco rodríguez (mexican pitcher)	26.0	0	1	0.0	1.0	0.0	0.0	0.0			
+monterrey	26.0	2	1	0.0	2.0	1.0	0.0	2.0	1.0	3.0	
+santiago	26.0	1	0	1.0	0.0	0.0	1.0				
+san gabriel valley	26.0	1	1	1.0	0.0	1.0	0.0	1.0	1.0		
+san juan	26.0	1	2	2.0	1.0	0.0	0.0				
+san luis	26.0	0	0	1.0							
+los angeles salsa	26.0	2	2	0.0	1.0	1.0					
+san diego	26.0	2	2	2.0	3.0	1.0	1.0				
+los angeles	26.0	0	2	3.0	1.0	0.0	3.0				
+san martin (caltrain station)	26.0	1	1	1.0	0.0	0.0	0.0				
+jose	26.0	1	0	0.0	0.0	1.0	0.0				
+andres	26.0	1	0	0.0	1.0	0.0	0.0	0.0			
+san francisco	26.0	0	0	1.0	2.0	2.0	1.0				
+santa barbara	26.0	1	0	1.0	1.0	3.0	1.0	1.0	0.0	0.0	1.0
+san antonio	26.0	2	0	1.0	1.0	0.0	0.0	1.0			
+southern california	26.0	1	1	1.0	1.0						
+san mateo (caltrain station)	26.0	1	1	0.0	0.0	0.0	1.0				
+auction	27.0	0	1	1.0	1.0	2.0	1.0	1.0			
+wholesale	27.0	2	1	3.0	2.0	1.0					
+grocery store	27.0	3	3	1.0	3.0	1.0	1.0	1.0	3.0	3.0	
+mail order	27.0	1	1	2.0	2.0	2.0	2.0	1.0			
+coupon	27.0	2	2	3.0	3.0	2.0	1.0	2.0	2.0	2.0	
+sales	27.0	2	2	2.0	1.0	2.0	3.0	2.0			
+buyer	27.0	2	2	2.0	2.0	3.0	3.0	1.0			
+private label	27.0	2	0	2.0	1.0	1.0	1.0	1.0			
+costco	27.0	2	2	1.0	3.0	2.0	2.0	2.0			
+shopkeeper	27.0	2	2	1.0	2.0	2.0					
+consignment	27.0	1	0	0.0	1.0	0.0	1.0				
+supermarket	27.0	2	2	3.0	2.0	3.0	1.0	2.0			
+retail	27.0	2	2	2.0	3.0	2.0	1.0	1.0			
+the sale	27.0	3	1	1.0	1.0	1.0	2.0	1.0	1.0		
+convenience store	27.0	2	0	1.0	1.0	2.0	3.0	0.0	1.0		
+antique shop	27.0	1	2	1.0	2.0	1.0	2.0	1.0			
+variety store	27.0	2	2	1.0	2.0	1.0	1.0	2.0			
+purchasing	27.0	3	3	2.0	3.0	3.0	3.0	2.0			
+drugstore (album)	27.0	2	1	1.0	0.0	1.0	1.0	0.0	1.0	0.0	
+automation	28.0	1	1	2.0	1.0	1.0	1.0	1.0	1.0	2.0	
+manufacturing	28.0	0	0	2.0	2.0	1.0	2.0	0.0			
+product lifecycle	28.0	2	0	0.0							
+marketing	28.0	2	3	2.0	2.0						
+business development	28.0	3	2	3.0	1.0						
+logistics	28.0	1	0	2.0	2.0	1.0	0.0				
+industry	28.0	1	3	3.0	2.0	2.0	2.0				
+supply chain management	28.0	2	0	3.0	3.0	2.0	2.0	3.0	1.0		
+supply chain	28.0	1	3	1.0	0.0	0.0					
+value chain	28.0	1	2	2.0	1.0						
+project management	28.0	2	3	2.0	2.0	2.0	2.0	2.0			
+technical support	28.0	3	2	2.0	2.0	1.0	3.0	2.0			
+business	28.0	1	1	2.0	3.0	3.0	3.0				
+technology company	28.0	2	3	2.0	1.0	2.0	2.0				
+business model	28.0	3	2	3.0							
+customer relationship management	28.0	3	2	1.0	2.0	0.0	2.0				
+engineering	28.0	1	1	3.0	1.0	1.0					
+risk management	28.0	2	2	1.0	2.0	3.0	2.0				
+enterprise resource planning	28.0	3	1	2.0	1.0	0.0	1.0				
+close air support	29.0	1	2	2.0	1.0	3.0	1.0	2.0			
+cavalry	29.0	1	3	2.0	2.0	1.0	1.0				
+united states army	29.0	3	2	3.0	1.0	2.0					
+military police	29.0	3	2	3.0	1.0	2.0	2.0	3.0			
+artillery	29.0	2	3	2.0	2.0	2.0	2.0	2.0			
+infantry	29.0	2	3	1.0	1.0	1.0					
+third army (france)	29.0	1	3	3.0	0.0	1.0					
+aerial warfare	29.0	3	3	2.0	2.0	3.0	1.0	2.0	2.0	3.0	1.0
+militia	29.0	1	3	2.0	0.0	2.0	1.0	2.0			
+navy	29.0	2	2	2.0	0.0	2.0	0.0				
+united states marine corps	29.0	2	2	2.0	2.0	2.0	2.0				
+army	29.0	3	3	3.0	2.0	3.0	2.0	2.0	2.0		
+military	29.0	2	2	1.0	2.0	1.0	3.0				
+infantry tactics	29.0	2	3	2.0	3.0	2.0					
+special forces	29.0	2	0	3.0	2.0						
+iraqi army	29.0	2	2	1.0	1.0	0.0	0.0				
+commander	29.0	2	0	3.0	2.0	2.0	1.0				
+marines	29.0	2	3	2.0	1.0						
+airborne forces	29.0	3	2	3.0	2.0	2.0	2.0	1.0			
+patio	30.0	1	1	1.0	0.0	0.0					
+house	30.0	3	1	3.0	2.0	3.0	3.0	0.0			
+the living room	30.0	3	0	1.0	3.0	2.0	3.0	2.0	1.0	3.0	
+bedroom	30.0	1	1	2.0	2.0	2.0					
+living room	30.0	1	2	2.0	2.0						
+hall	30.0	0	2	2.0	3.0	1.0	1.0				
+dining room	30.0	0	2	3.0	3.0						
+laundry room	30.0	1	2	1.0	1.0	1.0	1.0				
+courtyard	30.0	0	1	2.0	0.0	1.0	1.0	2.0	1.0		
+fireplace	30.0	1	0	1.0	1.0	1.0	1.0				
+dormitory	30.0	0	0	3.0	3.0						
+cafeteria	30.0	0	0	3.0	1.0	0.0	1.0	1.0	0.0	0.0	
+room	30.0	3	2	2.0	2.0	2.0	2.0				
+kitchen	30.0	3	2	2.0	1.0	2.0					
+the kitchen	30.0	1	2	1.0	2.0	2.0	2.0	0.0	0.0		
+parlour	30.0	0	2	3.0	1.0	0.0	1.0	1.0	1.0	1.0	
+closet	30.0	1	1	1.0	2.0	1.0	1.0				
+basement	30.0	1	1	1.0	2.0	1.0	1.0				
+bathroom	30.0	1	1	1.0	2.0	2.0	2.0	1.0	2.0		
+value added	31.0	1	1	2.0	3.0	2.0	2.0	1.0	1.0		
+percentage	31.0	2	1	1.0	3.0	3.0	2.0	1.0	1.0	1.0	
+tax revenue	31.0	3	2	2.0	2.0	2.0					
+inflation	31.0	2	2	1.0	2.0	2.0					
+consumer spending	31.0	3	2	1.0	2.0						
+total revenue	31.0	1	2	3.0	3.0	0.0	2.0				
+purchasing power parity	31.0	1	1	1.0	2.0	2.0	1.0				
+market share	31.0	3	3	2.0							
+percentage point	31.0	2	1	3.0	3.0						
+tax rate	31.0	2	3	2.0	2.0	3.0	3.0				
+rate of return	31.0	2	2	1.0	2.0	1.0	0.0	0.0			
+gross domestic product	31.0	3	3	1.0	1.0	1.0	2.0				
+purchasing power	31.0	1	2	1.0	2.0	2.0					
+revenue	31.0	2	1	2.0	2.0	3.0					
+average cost	31.0	2	2	0.0	2.0	0.0					
+household income	31.0	2	2	0.0	1.0	1.0					
+annual growth rate	31.0	2	2	3.0	1.0	1.0	2.0	2.0	3.0	3.0	2.0
+market value	31.0	3	2	3.0	2.0	2.0	1.0	1.0	1.0		
+profit margin	31.0	2	1	2.0	2.0	0.0					
+fish	32.0	1	1	1.0	2.0	2.0	3.0	1.0			
+squirrel	32.0	1	0	2.0	2.0	0.0	1.0	1.0	2.0	2.0	
+wild boar	32.0	0	0	1.0	1.0	1.0	0.0	3.0	1.0	1.0	
+animal	32.0	1	1	0.0	2.0	3.0	3.0				
+mammal	32.0	0	0	1.0	1.0	3.0					
+turtle	32.0	1	1	2.0	2.0	1.0	1.0				
+brackish water	32.0	0	1	1.0	0.0	1.0					
+pig	32.0	1	0	1.0	0.0						
+crayfish	32.0	2	2	1.0	1.0	1.0	0.0	3.0	0.0		
+white-tailed deer	32.0	1	1	2.0	1.0	1.0	2.0	1.0			
+rabbit	32.0	1	1	0.0	2.0	0.0	1.0	1.0			
+rodent	32.0	1	1	1.0	1.0						
+raccoon	32.0	1	1	1.0	2.0	2.0	1.0	1.0			
+insect	32.0	3	1	0.0	2.0						
+bird	32.0	2	0	2.0	3.0	1.0					
+pond	32.0	0	1	1.0	0.0	2.0	1.0				
+crocodile	32.0	2	2	2.0	1.0	0.0	1.0	1.0			
+deer	32.0	1	1	1.0	0.0	0.0	1.0	1.0	0.0	1.0	
+frog	32.0	0	1	1.0							
+hugh	33.0	2	0	1.0	2.0	0.0	2.0	2.0	1.0		
+ralph	33.0	0	1	2.0	3.0						
+richard	33.0	1	1	1.0	2.0	1.0	1.0				
+leonard	33.0	0	2	1.0	1.0	2.0	0.0				
+edward	33.0	1	2	2.0	2.0	1.0	0.0	0.0			
+anthony	33.0	1	1	1.0	0.0	1.0	0.0				
+larry	33.0	1	1	0.0	0.0	2.0	3.0	2.0			
+charles	33.0	3	0	0.0	0.0						
+george douglas (bishop)	33.0	1	0	0.0	2.0	1.0	1.0	0.0			
+peter	33.0	0	0	0.0	0.0	1.0					
+daniel	33.0	0	1	0.0	3.0	2.0					
+andrew	33.0	0	2	1.0	0.0	3.0	0.0				
+david	33.0	1	1	1.0	1.0	1.0	1.0				
+stephen	33.0	1	0	0.0	2.0	2.0					
+michael	33.0	2	0	0.0							
+christopher	33.0	1	1	3.0	2.0	1.0	0.0	0.0			
+kenneth	33.0	0	1	0.0	1.0	1.0	1.0	2.0			
+thomas	33.0	1	0	1.0	2.0	2.0	1.0	1.0	0.0		
+robert	33.0	0	1	1.0	1.0	2.0	3.0	1.0	1.0	2.0	2.0
+costume	34.0	2	3	1.0							
+hairstyle	34.0	1	1	1.0	0.0	0.0	1.0				
+trousers	34.0	0	1	2.0	1.0	1.0	0.0	0.0			
+bodysuit	34.0	2	1	1.0	2.0	3.0					
+wig	34.0	1	0	0.0	1.0	1.0	1.0				
+clothing	34.0	1	3	2.0	2.0	2.0	1.0				
+hair	34.0	1	0	0.0	1.0	0.0	1.0	1.0			
+girl	34.0	0	1	1.0	3.0						
+in love	34.0	2	0	1.0	3.0	2.0	1.0	0.0	0.0		
+dress	34.0	2	2	1.0	0.0	1.0	2.0	2.0	2.0		
+a woman	34.0	3	2	1.0	2.0	2.0	0.0	0.0			
+womanizer (song)	34.0	0	0	0.0	1.0	0.0	0.0	1.0			
+beloved (jewelry album)	34.0	2	0	2.0	1.0	0.0	3.0	2.0			
+long hair	34.0	0	0	1.0	0.0	0.0	1.0				
+this girl	34.0	2	1	3.0	1.0	1.0	1.0	1.0	1.0		
+blouse	34.0	1	1	1.0	2.0	2.0	1.0				
+wedding dress	34.0	1	3	0.0	2.0	0.0					
+boyfriend	34.0	2	2	1.0	1.0	0.0					
+gown	34.0	0	0	3.0	2.0	2.0	0.0	0.0			
+marriage	35.0	2	3	3.0	3.0	2.0	0.0				
+uncle	35.0	2	1	1.0	2.0	1.0	1.0				
+orphan	35.0	1	0	2.0	1.0	1.0					
+child	35.0	2	0	0.0	2.0						
+housewife	35.0	1	1	2.0	1.0	1.0	1.0				
+sister	35.0	2	1	1.0	1.0	2.0	1.0				
+mother	35.0	2	3	0.0	3.0	0.0					
+father	35.0	1	3	1.0	1.0	2.0	2.0	1.0			
+aunt	35.0	2	0	2.0	3.0	1.0	2.0	1.0	1.0		
+grandchild	35.0	1	3	1.0	1.0	1.0	2.0				
+wife	35.0	1	1	1.0	1.0	2.0	3.0	3.0			
+nanny	35.0	2	2	2.0	1.0	2.0	1.0	1.0	3.0		
+only child	35.0	2	1	1.0	1.0						
+girl	35.0	2	1	0.0	1.0	2.0					
+spinster	35.0	1	0	0.0							
+sisters (tv series)	35.0	1	0	0.0	1.0	0.0	1.0	0.0			
+husband	35.0	3	3	1.0	2.0	3.0	3.0	2.0	1.0	3.0	
+daughter	35.0	1	2	2.0	2.0	1.0	3.0	1.0	1.0		
+a woman	35.0	1	2	1.0	1.0	1.0	2.0				
+literature	36.0	2	1	2.0	3.0	1.0	1.0	2.0			
+book	36.0	3	2	3.0	3.0	3.0	2.0	2.0	3.0		
+novelist	36.0	3	2	2.0							
+library journal	36.0	3	2	2.0	3.0						
+bibliography	36.0	2	2	3.0	2.0	2.0	0.0	3.0	0.0		
+author	36.0	3	1	2.0	2.0	3.0					
+publishing	36.0	2	0	2.0	2.0	1.0	3.0	3.0	3.0	3.0	
+literary editor	36.0	2	1	2.0	0.0	2.0	3.0	2.0			
+prose	36.0	2	2	1.0	0.0	2.0	1.0	1.0			
+novel	36.0	0	2	3.0	3.0						
+writer	36.0	1	1	3.0	2.0	3.0	1.0	3.0	2.0		
+biography	36.0	2	3	3.0	2.0	3.0	1.0				
+non-fiction	36.0	0	1	0.0	1.0	1.0	0.0	3.0			
+fiction	36.0	2	2	1.0	1.0	1.0					
+the writer	36.0	2	3	2.0	2.0	2.0	3.0	1.0			
+journal	36.0	3	2	1.0	1.0	2.0	2.0	2.0	2.0		
+the novel	36.0	0	0	3.0	3.0	3.0					
+essay	36.0	3	1	2.0	2.0	3.0	2.0	3.0	2.0	3.0	
+book review	36.0	1	1	3.0	1.0						
+forget	37.0	0	1	0.0	3.0	1.0	0.0				
+be honest	37.0	1	3	1.0	1.0	2.0	0.0				
+want to	37.0	1	2	0.0	3.0	0.0	0.0	1.0			
+my	37.0	0	1	0.0	2.0	0.0	0.0				
+made me	37.0	0	0	0.0	1.0						
+in love	37.0	2	2	1.0							
+the truth (aaron hall album)	37.0	0	0	1.0	0.0	1.0	1.0				
+to me	37.0	0	1	1.0	0.0	0.0	1.0	0.0	0.0	0.0	
+we	37.0	1	0	0.0	1.0	0.0					
+you do	37.0	2	0	0.0	0.0	0.0					
+i could	37.0	0	2	0.0	0.0	1.0	0.0	0.0	0.0		
+fall in love	37.0	2	2	2.0	2.0						
+fun	37.0	2	1	0.0	1.0	3.0	3.0				
+do something	37.0	1	0	1.0	2.0	0.0	1.0	2.0	0.0		
+you	37.0	1	0	0.0	2.0	1.0	1.0	1.0			
+and i	37.0	0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+feels	37.0	1	0	0.0	3.0	1.0	3.0	1.0			
+want	37.0	0	1	0.0	2.0	1.0	0.0	1.0			
+friends	37.0	3	1	3.0	1.0	0.0					
+ipod touch	38.0	3	1	2.0	1.0	2.0	1.0				
+windows mobile	38.0	1	0	1.0	0.0	2.0	0.0				
+ipad (3rd generation)	38.0	2	1	2.0	0.0						
+ios	38.0	2	3	2.0	2.0	1.0					
+palm os	38.0	1	1	0.0	1.0	0.0	3.0	0.0	1.0		
+ipad (1st generation)	38.0	1	1	3.0	1.0	3.0	1.0	2.0	3.0		
+quicktime	38.0	1	1	1.0	1.0	1.0					
+apple tv	38.0	1	1	1.0	1.0	1.0	1.0	1.0	1.0	2.0	1.0
+ipad	38.0	1	3	1.0	3.0	1.0	2.0	1.0			
+zune	38.0	1	1	1.0	0.0						
+ipad 2	38.0	1	2	2.0	1.0	1.0	2.0				
+smartphone	38.0	2	2	2.0	2.0	2.0					
+windows phone 7	38.0	1	0	1.0	1.0	2.0					
+iphone	38.0	2	2	3.0	3.0						
+blackberry 10	38.0	1	1	1.0	1.0	0.0					
+iphone 4s	38.0	1	2	2.0	1.0	1.0	1.0	2.0			
+apple inc.	38.0	3	2	2.0	3.0	2.0	2.0	3.0			
+windows phone	38.0	0	0	2.0	0.0	1.0	2.0	0.0			
+ipad (4th generation)	38.0	3	1	2.0	2.0	2.0	1.0				
+learning to read	39.0	1	2	2.0	3.0	3.0					
+dialect	39.0	1	1	1.0	1.0	2.0	3.0	2.0			
+arabic	39.0	0	3	1.0	1.0	0.0	1.0	1.0			
+alphabet	39.0	3	2	3.0	3.0	2.0	2.0	2.0	1.0		
+vocabulary	39.0	3	3	2.0	1.0	2.0	3.0				
+writing system	39.0	3	2	2.0	2.0	2.0	2.0	2.0	2.0	3.0	
+pidgin	39.0	2	0	1.0	0.0	3.0	0.0	0.0			
+arabic alphabet	39.0	0	1	1.0	1.0	1.0	0.0	2.0	3.0		
+word	39.0	3	1	1.0	2.0	3.0	3.0				
+written language	39.0	3	0	1.0	2.0	2.0	2.0	3.0			
+speaking	39.0	3	3	2.0	2.0	1.0	3.0	3.0			
+language	39.0	3	0	1.0	3.0	2.0	3.0	2.0			
+latin script	39.0	0	0	2.0	3.0	2.0					
+english language	39.0	3	2	2.0	3.0	3.0	2.0	3.0	2.0	2.0	
+latin alphabet	39.0	2	1	2.0	2.0	3.0	1.0	2.0			
+writing	39.0	3	3	2.0	3.0	2.0	3.0	2.0	2.0	3.0	
+orthography	39.0	3	2	3.0	0.0	3.0	3.0	2.0			
+translation	39.0	2	1	2.0	2.0	3.0	1.0	2.0			
+letter (alphabet)	39.0	1	2	2.0							
+camera phone	40.0	0	3	0.0	3.0	3.0	3.0				
+camera	40.0	3	0	2.0	3.0	0.0	3.0	1.0			
+1080p	40.0	1	1	1.0	2.0	3.0	1.0				
+digital video	40.0	0	0	2.0	3.0	3.0					
+mobile device	40.0	1	2	2.0	2.0	2.0	2.0	1.0	1.0		
+computer monitor	40.0	3	2	1.0	1.0	3.0	0.0	1.0			
+video capture	40.0	2	2	2.0	1.0	3.0	1.0	2.0			
+camcorder	40.0	3	2	2.0	0.0	3.0					
+image capture	40.0	0	0	2.0	3.0						
+remote control	40.0	1	0	2.0	2.0	1.0	2.0	2.0			
+touchscreen	40.0	3	1	2.0	1.0	3.0	2.0				
+video	40.0	3	2	2.0	2.0	3.0	2.0	2.0	3.0	2.0	
+digital camera	40.0	0	3	0.0	3.0						
+image processing	40.0	1	0	1.0	2.0						
+webcam	40.0	1	2	1.0	2.0	3.0	2.0	3.0	2.0	2.0	
+viewfinder	40.0	3	3	0.0	0.0	1.0	2.0	2.0	3.0	2.0	
+hdmi	40.0	2	1	1.0	1.0	1.0	2.0				
+augmented reality	40.0	0	1	1.0	2.0	0.0	1.0	1.0	3.0	1.0	
+high-definition video	40.0	2	3	1.0	1.0	1.0	2.0	3.0	2.0		
+database	41.0	3	3	2.0	3.0	3.0	3.0	1.0	3.0		
+data structure	41.0	2	0	2.0	1.0	1.0					
+reference (computer science)	41.0	2	1	1.0	3.0	1.0	3.0	1.0			
+pointer (computer programming)	41.0	0	1	1.0							
+data model	41.0	1	3	2.0	1.0	1.0	1.0				
+application programming interface	41.0	1	0	0.0	1.0	2.0	1.0	1.0			
+metadata	41.0	3	1	2.0	2.0	3.0	1.0	2.0			
+parameter	41.0	1	2	1.0	2.0	2.0					
+c++	41.0	2	3	3.0	2.0	1.0	2.0	1.0			
+data dictionary	41.0	3	1	1.0	0.0	2.0	2.0	1.0			
+subroutine	41.0	1	1	1.0	3.0	1.0	0.0	3.0			
+data type	41.0	3	2	2.0	2.0	2.0	2.0				
+pl/sql	41.0	0	2	2.0	1.0						
+executable	41.0	1	2	1.0	1.0	1.0	2.0	0.0			
+file format	41.0	2	2	1.0	1.0	1.0	3.0	0.0	0.0	1.0	2.0
+iterator	41.0	0	1	0.0	2.0	3.0	1.0				
+namespace	41.0	2	1	0.0	2.0	1.0	1.0	1.0			
+regular expression	41.0	2	1	1.0	1.0	0.0	2.0	1.0	2.0		
+sql	41.0	1	0	3.0	1.0	0.0	2.0	1.0	2.0	2.0	
+george w. bush	42.0	1	3	1.0	3.0	3.0	2.0	1.0	3.0	2.0	2.0
+mahmoud abbas	42.0	3	1	2.0	2.0						
+iraq	42.0	3	2	1.0	2.0	3.0					
+syria	42.0	1	0	2.0	2.0	3.0	1.0	2.0	3.0	2.0	
+saddam hussein	42.0	3	2	2.0	3.0	3.0	3.0				
+gulf war	42.0	2	2	1.0	3.0	0.0	3.0	0.0			
+mahmoud ahmadinejad	42.0	0	2	1.0	1.0	2.0	1.0	1.0	3.0	2.0	
+nouri al-maliki	42.0	0	2	1.0	1.0	1.0	1.0	3.0	0.0	1.0	
+iraqi army	42.0	2	2	2.0	2.0	2.0	1.0	1.0			
+iraq war	42.0	3	3	3.0	3.0	3.0					
+war on terror	42.0	3	3	3.0	1.0	0.0	0.0				
+bashar al-assad	42.0	0	0	2.0	1.0						
+invasion of kuwait	42.0	2	2	0.0	0.0	2.0	0.0	0.0			
+syrian civil war	42.0	1	0	1.0	2.0	0.0	1.0	1.0	0.0		
+benjamin netanyahu	42.0	2	2	1.0	0.0	2.0	2.0	2.0	2.0	0.0	
+hezbollah	42.0	1	1	3.0	1.0	2.0					
+mohamed morsi	42.0	1	3	1.0	0.0	2.0	1.0	1.0	0.0	1.0	
+2003 invasion of iraq	42.0	1	2	3.0							
+iraqi kurdistan	42.0	2	1	1.0	2.0	3.0					
+afternoon	43.0	3	1	2.0	2.0	0.0	0.0	1.0	1.0		
+6 am	43.0	1	2	1.0	1.0	0.0	1.0	0.0	1.0		
+day	43.0	1	1	1.0	2.0	1.0	1.0	0.0			
+into the morning (album)	43.0	0	3	1.0	0.0	0.0					
+sunday	43.0	2	1	2.0	1.0	1.0	2.0				
+that night	43.0	1	2	3.0	1.0						
+no sleep (album)	43.0	0	1	3.0	2.0	0.0	0.0	1.0	1.0	1.0	
+11am	43.0	0	2	2.0	1.0	0.0	1.0	0.0			
+woke	43.0	1	1	3.0	1.0	1.0					
+morning	43.0	1	1	1.0	2.0	1.0					
+half an hour	43.0	1	1	1.0	0.0	0.0	1.0				
+live (alison krauss album)	43.0	0	2	2.0	0.0	0.0	0.0	2.0			
+that day	43.0	0	0	1.0	0.0						
+evening	43.0	3	1	2.0	1.0	3.0	1.0				
+in the evening	43.0	3	2	1.0	2.0	2.0	2.0	2.0			
+sunday afternoon	43.0	2	0	2.0	1.0	1.0	1.0	1.0	2.0		
+on christmas day	43.0	1	1	0.0	0.0	0.0	1.0	1.0			
+tuesday (you am i song)	43.0	1	0	0.0	1.0	1.0	1.0				
+two weeks	43.0	0	1	0.0	1.0	1.0	1.0	0.0			
+earth	44.0	2	2	1.0	2.0	2.0	3.0	1.0			
+sun	44.0	2	0	0.0	1.0	2.0					
+planet	44.0	2	3	2.0	1.0	2.0	2.0	3.0	2.0	1.0	
+moon	44.0	2	3	1.0							
+on the moon	44.0	0	0	1.0	2.0	1.0					
+phobos (moon)	44.0	1	1	2.0	2.0	1.0					
+milky way	44.0	1	2	1.0	2.0	0.0	3.0	0.0	0.0		
+ganymede (moon)	44.0	2	3	3.0	1.0						
+titan (moon)	44.0	2	1	3.0							
+saturn	44.0	1	0	1.0	1.0						
+uranus	44.0	1	1	2.0	1.0	1.0					
+hyperspace (science fiction)	44.0	2	1	1.0	2.0	2.0	1.0	3.0			
+venus	44.0	1	1	1.0	1.0						
+planetary surface	44.0	0	0	3.0	0.0	2.0	2.0	0.0			
+solar system	44.0	0	3	2.0	0.0	2.0					
+sunlight	44.0	2	2	1.0	2.0	0.0	1.0	1.0			
+mars	44.0	2	2	1.0	0.0	0.0	0.0	0.0	1.0	1.0	
+martian	44.0	0	2	1.0	2.0						
+jupiter	44.0	1	1	1.0	2.0	1.0	1.0				
+gothic architecture	45.0	3	1	2.0	1.0	3.0	1.0	2.0			
+bell tower	45.0	1	1	1.0	2.0	2.0	3.0	3.0	1.0		
+aisle	45.0	1	3	0.0	1.0	1.0	0.0				
+rose window	45.0	1	0	2.0	1.0	0.0					
+spire	45.0	2	1	3.0	0.0	0.0	3.0	2.0	3.0		
+nave	45.0	1	3	1.0	1.0	0.0	1.0				
+clerestory	45.0	2	2	1.0	2.0	0.0					
+narthex	45.0	1	1	2.0	1.0	0.0	1.0				
+tracery	45.0	2	1	2.0	0.0	2.0	0.0	1.0	1.0	2.0	
+barrel vault	45.0	2	1	0.0	1.0	2.0	1.0	0.0			
+chancel	45.0	3	1	2.0	1.0	1.0	0.0	1.0			
+baptistery	45.0	3	1	2.0	2.0	1.0	1.0	1.0			
+transept	45.0	1	0	0.0	1.0	2.0	2.0	2.0	3.0		
+romanesque architecture	45.0	1	2	1.0	1.0	2.0	3.0				
+arch	45.0	0	0	2.0	2.0	3.0					
+apse	45.0	0	2	1.0	3.0						
+porch	45.0	1	0	0.0	1.0	3.0	1.0	1.0			
+rood screen	45.0	1	1	0.0	2.0	1.0					
+church architecture	45.0	3	2	2.0	3.0	3.0	3.0	3.0			
+peter paul rubens	46.0	2	1	1.0	3.0	3.0	0.0	0.0	1.0	1.0	
+nicolas poussin	46.0	3	1	1.0	0.0	0.0	1.0				
+frans hals	46.0	2	1	0.0	1.0	1.0					
+grisaille	46.0	1	1	0.0	0.0	0.0	1.0				
+landscape painting	46.0	0	0	2.0	1.0						
+hans holbein the younger	46.0	0	1	3.0	0.0	0.0	1.0	3.0	0.0	2.0	
+self-portrait (giorgione)	46.0	2	1	3.0	1.0	2.0	1.0	3.0	2.0		
+albrecht dürer	46.0	2	1	1.0	2.0	1.0					
+anthony van dyck	46.0	1	1	0.0	1.0						
+titian	46.0	2	1	1.0	3.0	2.0	2.0	1.0	3.0	2.0	
+still life	46.0	2	3	0.0	1.0						
+painting	46.0	3	2	3.0	1.0	1.0					
+oil painting	46.0	1	2	1.0	2.0	2.0					
+renaissance art	46.0	1	3	1.0	3.0	2.0	2.0	2.0			
+self-portrait	46.0	2	3	2.0	2.0	3.0					
+portrait painting	46.0	2	2	3.0	2.0	3.0	2.0				
+rembrandt	46.0	3	1	0.0	1.0	0.0	2.0	1.0	1.0	2.0	2.0
+diego velázquez	46.0	2	2	0.0	1.0	2.0					
+jan van eyck	46.0	2	2	1.0	2.0	2.0	1.0	2.0	2.0	1.0	
+tuber	47.0	1	0	1.0	2.0	0.0	0.0	1.0			
+bract	47.0	0	0	0.0	1.0	0.0	1.0	1.0	0.0		
+secondary growth	47.0	1	1	3.0	1.0						
+drupe	47.0	2	1	1.0	2.0	1.0					
+panicle	47.0	3	1	0.0							
+fruit	47.0	1	1	2.0	0.0	2.0	0.0				
+leaf	47.0	3	1	2.0							
+germination	47.0	1	2	1.0	1.0	1.0					
+rootstock	47.0	1	3	3.0	1.0						
+corm	47.0	2	1	2.0							
+raceme	47.0	0	0	2.0	1.0	1.0					
+rhizome	47.0	0	0	1.0	1.0	0.0					
+shrub	47.0	2	1	2.0	0.0	2.0	1.0	1.0			
+inflorescence	47.0	3	2	3.0	1.0						
+cactus	47.0	2	0	1.0	1.0						
+deciduous	47.0	1	1	1.0	2.0	0.0					
+perennial plant	47.0	2	2	3.0	1.0	1.0	2.0	1.0			
+tree	47.0	2	0	0.0	3.0	3.0	1.0				
+seedling	47.0	2	2	3.0	3.0	3.0	2.0	1.0	3.0	3.0	
+jesus	48.0	2	3	2.0	3.0	2.0					
+god	48.0	2	2	2.0	3.0	0.0	3.0	0.0			
+god the father	48.0	3	3	3.0							
+christian theology	48.0	2	3	2.0	2.0	0.0	3.0	3.0			
+faith	48.0	3	3	1.0	3.0	1.0					
+salvation (christianity)	48.0	0	3	0.0	3.0	2.0	0.0				
+salvation	48.0	3	1	2.0	2.0						
+eternal life (christianity)	48.0	2	0	3.0	3.0	2.0	2.0				
+idolatry	48.0	1	1	2.0	2.0	3.0	2.0				
+righteousness	48.0	2	0	0.0	0.0	2.0					
+repentance	48.0	2	2	0.0	3.0	2.0	0.0	2.0			
+son of god	48.0	3	1	1.0	3.0	2.0	3.0	3.0			
+sanctification	48.0	2	0	2.0							
+christianity	48.0	1	3	3.0	3.0	3.0					
+baptism	48.0	2	2	1.0	2.0	1.0	2.0				
+sacrament	48.0	0	1	3.0	3.0	2.0	2.0	1.0			
+holy spirit (christianity)	48.0	3	3	2.0	2.0	2.0	3.0	2.0	3.0		
+holy spirit (christian denominational variations)	48.0	2	3	1.0	0.0	2.0	0.0				
+new testament	48.0	3	2	2.0	2.0	2.0	0.0	1.0	3.0	2.0	
+duomo	49.0	3	2	3.0	2.0	1.0					
+naples	49.0	1	1	2.0	1.0	1.0					
+ferrara	49.0	1	3	2.0	1.0	0.0	1.0	1.0	1.0	0.0	
+florence	49.0	1	3	2.0	3.0	2.0	3.0	2.0			
+urbino	49.0	1	1	0.0	1.0	1.0	1.0	2.0	1.0		
+santa croce	49.0	1	1	1.0	1.0	1.0	2.0	1.0			
+perugia	49.0	1	2	0.0	2.0						
+bartolomeo	49.0	2	1	0.0	1.0	2.0	1.0				
+san giovanni	49.0	2	2	1.0	3.0	2.0	3.0				
+venice	49.0	1	0	2.0	2.0	2.0	2.0				
+bologna	49.0	0	1	2.0	3.0	0.0	1.0	0.0			
+padua	49.0	2	1	1.0	1.0	2.0	1.0	1.0			
+camerino	49.0	1	1	0.0	2.0	1.0	2.0	2.0	1.0		
+orvieto	49.0	0	0	1.0	2.0	1.0	1.0	2.0	1.0		
+rome	49.0	1	2	3.0	1.0	2.0					
+lucca	49.0	3	1	2.0	3.0	1.0					
+viterbo	49.0	1	1	0.0	1.0	1.0					
+verona	49.0	1	2	1.0	1.0	1.0	1.0				
+città di castello	49.0	1	1	2.0	0.0	1.0	0.0				
+illustrator	50.0	2	3	2.0	2.0						
+abstract art	50.0	2	3	2.0	3.0	2.0					
+modern art	50.0	1	2	3.0	2.0	0.0	1.0	0.0			
+oil painting	50.0	2	3	2.0	1.0	2.0	3.0				
+sculpture	50.0	1	1	1.0	3.0	3.0					
+printmaking	50.0	1	3	3.0	2.0	2.0	3.0	1.0	2.0	3.0	
+portrait painting	50.0	2	3	2.0	1.0	2.0	3.0				
+gouache	50.0	2	1	3.0	1.0	1.0					
+art history	50.0	3	2	2.0	2.0	3.0					
+visual arts	50.0	2	3	3.0	1.0	3.0	2.0				
+fine art	50.0	2	1	3.0	2.0	2.0	2.0	2.0	2.0	2.0	
+art	50.0	3	2	3.0	2.0	2.0	1.0				
+watercolor painting	50.0	2	2	3.0	2.0	2.0					
+landscape painting	50.0	3	2	1.0	2.0	1.0					
+still life	50.0	2	2	1.0	2.0	0.0	3.0	1.0	0.0		
+western painting	50.0	1	3	1.0	3.0	2.0	1.0				
+pastel	50.0	1	1	2.0	1.0	1.0					
+painting	50.0	3	3	2.0	1.0	3.0	3.0	3.0			
+self-portrait	50.0	1	2	1.0	1.0	0.0					
+hysterectomy	51.0	0	3	0.0							
+cervix	51.0	3	2	2.0	1.0	2.0	2.0	2.0			
+fetus	51.0	1	1	1.0	2.0	0.0	0.0				
+caesarean section	51.0	0	3	3.0	2.0						
+pre-eclampsia	51.0	2	2	2.0	0.0	2.0					
+placenta	51.0	1	3	3.0	1.0						
+pregnancy	51.0	2	2	2.0	2.0	3.0	2.0				
+perineum	51.0	0	2	1.0	0.0	1.0					
+childbirth	51.0	2	1	2.0	2.0	2.0	3.0				
+ectopic pregnancy	51.0	3	2	2.0	2.0	3.0	1.0	2.0			
+vaginal bleeding	51.0	1	1	1.0	3.0	1.0					
+breastfeeding	51.0	1	1	2.0	1.0	1.0	2.0	1.0			
+infertility	51.0	1	1	1.0	2.0	1.0	2.0	1.0			
+miscarriage	51.0	1	1	3.0	0.0	2.0	0.0				
+endometriosis	51.0	2	3	0.0	2.0						
+uterine rupture	51.0	1	2	1.0	1.0	3.0	1.0	1.0	3.0	2.0	
+vagina	51.0	0	1	2.0	2.0	1.0	1.0	0.0	2.0	2.0	1.0
+endometrium	51.0	2	1	2.0	3.0	3.0	1.0				
+uterus	51.0	2	2	3.0	1.0						
+frigate	52.0	1	2	1.0	1.0	2.0	3.0	1.0	1.0		
+destroyer	52.0	1	2	0.0	1.0	1.0	1.0	3.0	2.0		
+ship	52.0	3	2	2.0	3.0	3.0					
+united states navy	52.0	3	1	2.0	1.0						
+torpedo	52.0	1	1	2.0	2.0	1.0	3.0				
+aircraft carrier	52.0	1	3	3.0	2.0	3.0	2.0				
+battlecruiser	52.0	2	1	1.0	2.0	3.0	3.0				
+navy	52.0	2	2	3.0	3.0	3.0	2.0	3.0	3.0	2.0	
+naval aviation	52.0	2	2	2.0	2.0	3.0	2.0	3.0			
+royal navy	52.0	0	3	3.0	3.0	0.0	3.0	1.0			
+warship	52.0	2	3	3.0							
+spanish navy	52.0	0	0	2.0	3.0	2.0	1.0	0.0			
+submarine	52.0	2	3	2.0	3.0	3.0	2.0	3.0	2.0	3.0	
+torpedo boat	52.0	3	2	3.0	2.0	3.0	1.0	0.0			
+naval warfare	52.0	3	3	2.0	3.0	2.0	3.0	3.0			
+kriegsmarine	52.0	1	3	1.0	2.0	0.0	3.0				
+cruiser	52.0	2	1	2.0	2.0	2.0	2.0	1.0			
+battleship	52.0	3	1	1.0	2.0	3.0	1.0	2.0	0.0	2.0	
+gunboat	52.0	0	2	2.0	2.0	1.0					
+sepsis	53.0	1	1	3.0	2.0	1.0	2.0				
+patient	53.0	1	2	1.0	2.0	3.0	2.0	1.0			
+infection	53.0	2	2	0.0	1.0	1.0	1.0	1.0	3.0		
+pain management	53.0	0	1	3.0	1.0						
+appendicitis	53.0	1	2	2.0	1.0	1.0	1.0				
+chemotherapy	53.0	2	3	3.0	2.0	1.0	1.0	0.0	2.0	2.0	
+ovarian cancer	53.0	2	3	3.0	2.0	3.0	1.0	1.0	2.0	2.0	
+radiation therapy	53.0	0	0	3.0	3.0	0.0	3.0	0.0			
+intensive care unit	53.0	2	2	3.0	2.0	0.0	0.0				
+brain tumor	53.0	1	3	1.0	1.0	3.0	3.0	3.0			
+myocardial infarction	53.0	0	0	3.0	1.0	2.0	1.0	0.0			
+abdominal surgery	53.0	2	1	1.0	0.0	3.0	3.0	2.0	2.0		
+liver transplantation	53.0	1	2	2.0	2.0	1.0	3.0	1.0			
+pathology	53.0	2	2	1.0	3.0	1.0					
+lymphedema	53.0	2	0	0.0	2.0	1.0					
+neurosurgery	53.0	2	2	2.0	2.0	2.0	1.0	2.0			
+surgery	53.0	1	2	2.0	1.0	2.0	3.0	3.0			
+medical procedure	53.0	3	1	3.0	2.0						
+cancer	53.0	2	2	2.0	3.0	2.0	1.0	1.0			
+high school	54.0	2	2	2.0	3.0	3.0	2.0	3.0			
+music education	54.0	1	2	2.0	3.0						
+education	54.0	3	3	2.0	3.0	2.0	3.0				
+private school	54.0	2	2	1.0	1.0	2.0					
+vocational education	54.0	3	1	2.0	2.0	3.0	2.0				
+state school	54.0	3	2	3.0	2.0	1.0	2.0	2.0			
+preschool	54.0	0	2	0.0	2.0	2.0	3.0				
+teacher	54.0	0	3	2.0	3.0	3.0	1.0				
+boarding school	54.0	2	3	2.0	3.0	2.0	2.0	2.0			
+primary education	54.0	1	1	3.0	3.0	1.0	2.0				
+tutor	54.0	0	2	3.0							
+school	54.0	3	3	3.0	2.0	3.0	3.0				
+student	54.0	3	2	3.0	2.0	1.0	1.0				
+kindergarten	54.0	1	2	2.0	1.0	2.0	2.0	1.0			
+college	54.0	2	3	1.0	1.0	1.0					
+secondary school	54.0	3	3	2.0	2.0	2.0	3.0	2.0			
+curriculum	54.0	2	3	3.0	3.0	3.0	3.0				
+art school	54.0	2	3	2.0	3.0	2.0	3.0				
+university	54.0	0	0	2.0	3.0	3.0					
+116th street (manhattan)	55.0	3	2	1.0	1.0	2.0	1.0	2.0			
+figueroa street	55.0	1	1	1.0	1.0	2.0	2.0	0.0	0.0		
+broadway (manhattan)	55.0	3	3	2.0	3.0	0.0	1.0	0.0			
+u.s. route 20	55.0	1	1	0.0	2.0	1.0	1.0	1.0	2.0		
+boulevard east	55.0	1	1	1.0	2.0	0.0	2.0				
+lafayette street	55.0	1	1	1.0	1.0	0.0	1.0				
+u.s. route 11	55.0	2	1	2.0	2.0	1.0					
+parkway	55.0	1	1	2.0	0.0	2.0	1.0				
+street	55.0	1	2	3.0	1.0	2.0	2.0				
+boulevard	55.0	2	1	2.0	1.0	1.0	2.0	1.0	2.0	1.0	
+summit avenue (hudson palisades)	55.0	1	3	0.0	0.0	0.0	2.0	1.0			
+division street	55.0	1	0	1.0	1.0	2.0	2.0				
+park avenue	55.0	0	2	2.0	1.0	3.0	3.0				
+95th street (manhattan)	55.0	2	2	1.0	1.0	1.0	1.0	1.0	2.0	2.0	
+west broadway	55.0	1	3	2.0	1.0	3.0	1.0	2.0			
+charles street (baltimore)	55.0	2	0	1.0	3.0	0.0					
+59th street (manhattan)	55.0	0	0	2.0	3.0	0.0	2.0	2.0	0.0		
+third avenue	55.0	1	2	0.0	2.0	2.0	3.0				
+north avenue (chicago)	55.0	1	1	1.0	1.0	1.0					
+symphony	56.0	2	1	2.0	2.0	1.0	3.0	3.0	2.0	2.0	
+piano concerto	56.0	2	1	2.0	3.0	0.0	0.0				
+chamber music	56.0	2	3	2.0	2.0	3.0	2.0	3.0			
+leonard bernstein	56.0	3	1	2.0	1.0						
+song	56.0	2	2	3.0	3.0						
+operetta	56.0	2	0	2.0	2.0	0.0	3.0	1.0			
+chamber music (berio)	56.0	2	1	3.0	3.0	1.0	1.0	2.0	2.0		
+choir	56.0	0	0	0.0	0.0						
+music	56.0	3	3	1.0	2.0	3.0	2.0	3.0			
+composer	56.0	1	2	3.0	2.0	0.0	3.0	0.0			
+repertoire	56.0	2	1	2.0	1.0	3.0	1.0				
+concert performance	56.0	3	3	2.0	3.0	1.0	3.0				
+pianist	56.0	2	2	1.0	1.0	3.0	2.0	1.0	2.0	2.0	2.0
+ragtime	56.0	2	1	0.0	1.0	1.0	1.0	1.0	2.0	0.0	
+classical music	56.0	3	1	2.0	2.0	2.0	3.0	3.0	3.0		
+opera	56.0	2	3	2.0	2.0	2.0	3.0	1.0	0.0	3.0	
+orchestra	56.0	1	2	3.0	3.0	3.0	3.0	1.0			
+symphony no. 9 (beethoven)	56.0	3	2	3.0	3.0	0.0	3.0	2.0			
+concerto	56.0	1	3	3.0	1.0	3.0	3.0	3.0	3.0	2.0	
+door	57.0	1	1	2.0	3.0	3.0	1.0	2.0	2.0	1.0	
+colonnade	57.0	1	2	2.0	1.0	1.0	1.0	1.0	1.0	0.0	
+clerestory	57.0	0	1	1.0	0.0	1.0	2.0				
+basement	57.0	2	1	0.0	1.0						
+bedroom	57.0	0	0	1.0	2.0	3.0	3.0				
+hall	57.0	0	0	1.0	1.0	2.0	1.0				
+fireplace	57.0	2	1	1.0	2.0	0.0	1.0	1.0	1.0		
+courtyard	57.0	1	2	0.0	1.0	0.0	1.0	1.0	2.0	1.0	
+building	57.0	1	2	3.0	3.0	2.0	2.0	3.0			
+roof	57.0	1	0	1.0	2.0	3.0	0.0	1.0			
+floor	57.0	1	2	3.0	1.0	3.0					
+porch	57.0	1	3	3.0	0.0	1.0	1.0	3.0			
+entrance hall	57.0	1	2	1.0	1.0	2.0	0.0	1.0	2.0		
+window	57.0	2	1	2.0	1.0	3.0	3.0	3.0	2.0	2.0	3.0
+balcony	57.0	0	0	1.0	3.0	3.0	3.0				
+kitchen	57.0	3	1	2.0	1.0	2.0	1.0	2.0	2.0		
+entryway	57.0	2	2	2.0	2.0	3.0	1.0				
+oriel window	57.0	1	1	1.0	1.0	2.0	2.0	1.0			
+the ceiling	57.0	2	3	2.0	1.0	1.0	2.0	1.0			
+byzantine art	58.0	2	3	1.0	3.0	1.0	3.0	2.0	2.0	3.0	
+saint peter	58.0	2	3	3.0	3.0	3.0					
+pope gregory i	58.0	3	2	2.0	2.0						
+baptistery	58.0	2	2	2.0	3.0						
+catacombs of rome	58.0	0	2	1.0	2.0	0.0	2.0	2.0	0.0		
+hagia sophia	58.0	0	0	0.0	0.0	0.0	0.0	2.0	1.0	1.0	
+constantine the great	58.0	1	2	2.0	1.0	1.0	3.0				
+byzantine empire	58.0	1	3	2.0	1.0	3.0	1.0	1.0			
+cathedral	58.0	1	2	3.0	3.0	2.0	1.0	2.0	3.0		
+catholic church	58.0	2	2	2.0	3.0	1.0	1.0	2.0			
+church architecture	58.0	3	3	3.0	2.0	2.0	1.0	2.0			
+late antiquity	58.0	1	2	1.0	1.0	2.0	2.0	3.0	3.0		
+early middle ages	58.0	2	2	1.0	1.0	2.0	3.0	1.0			
+aquileia	58.0	0	1	2.0							
+byzantine architecture	58.0	2	1	1.0	2.0	1.0	2.0	3.0			
+basilica	58.0	3	1	3.0	2.0	2.0	3.0	2.0	2.0	3.0	
+history of christianity	58.0	2	3	2.0	3.0	1.0	2.0				
+christianity	58.0	3	1	1.0	3.0	2.0	2.0	1.0	3.0		
+church fathers	58.0	0	2	0.0	1.0	2.0					
+molybdenum	59.0	3	1	1.0	0.0						
+cobalt	59.0	1	1	1.0	1.0	2.0	1.0	2.0	1.0		
+hydrochloric acid	59.0	2	2	2.0	2.0	3.0	2.0	1.0	2.0	2.0	
+antimony	59.0	1	1	2.0	2.0	0.0	2.0	2.0	2.0	2.0	
+chloride	59.0	1	1	2.0	0.0	2.0	0.0				
+copper	59.0	1	1	2.0	2.0	0.0	3.0	0.0			
+magnesium	59.0	1	1	0.0	3.0	2.0	2.0	0.0			
+titanium	59.0	1	1	1.0	2.0	2.0	3.0	1.0	3.0	3.0	
+bismuth	59.0	1	1	2.0	3.0	1.0	1.0				
+chromium	59.0	1	1	0.0	3.0	1.0					
+sodium hydroxide	59.0	0	1	1.0	3.0	2.0	0.0	1.0			
+sodium chloride	59.0	1	1	2.0	2.0	2.0	2.0	1.0	1.0	1.0	3.0
+sulfuric acid	59.0	2	2	2.0	1.0	2.0					
+sulfide	59.0	1	1	3.0	0.0	2.0	1.0				
+nitric acid	59.0	2	3	3.0	2.0						
+zinc	59.0	1	3	1.0	2.0	1.0	2.0	2.0	0.0		
+sulfur	59.0	1	1	3.0	2.0						
+iron	59.0	0	1	0.0	1.0	1.0	0.0				
+hydroxide	59.0	3	2	2.0	1.0	0.0	3.0				
+temple	60.0	3	2	3.0	1.0	2.0	2.0	2.0			
+shrine	60.0	2	3	3.0	2.0	2.0	1.0	3.0	2.0	2.0	
+portico	60.0	0	1	1.0	0.0	0.0					
+roman temple	60.0	3	3	1.0	3.0	2.0	2.0	2.0			
+palace	60.0	3	2	2.0	2.0	1.0	2.0	1.0			
+altar	60.0	0	0	3.0	2.0	0.0	1.0	0.0			
+roman art	60.0	3	3	2.0	2.0	2.0	3.0	3.0	1.0		
+peristyle	60.0	1	2	2.0	1.0	1.0	2.0	1.0			
+basilica	60.0	1	1	3.0	1.0	2.0	1.0				
+ancient roman architecture	60.0	1	3	2.0	3.0	3.0	0.0	0.0			
+capitoline hill	60.0	0	1	1.0	0.0	0.0	3.0				
+triumphal arch	60.0	0	1	2.0	1.0	0.0	1.0	0.0			
+baptistery	60.0	1	0	1.0	1.0	1.0					
+exedra	60.0	0	1	1.0	1.0	0.0	0.0	1.0			
+hierapolis	60.0	1	2	1.0	3.0	2.0	1.0	1.0			
+grotto	60.0	1	0	0.0	1.0						
+roman sculpture	60.0	2	2	2.0	2.0	2.0	2.0				
+mausoleum	60.0	1	2	1.0	2.0						
+roman forum	60.0	3	2	2.0	3.0	3.0	1.0	1.0	2.0	1.0	
+church architecture	61.0	3	2	3.0	1.0						
+modern architecture	61.0	2	3	3.0	2.0	3.0					
+history of architecture	61.0	3	2	2.0	1.0	3.0	2.0	1.0			
+neoclassical architecture	61.0	0	1	2.0	3.0	2.0	0.0	3.0	0.0		
+beaux-arts architecture	61.0	2	0	1.0	3.0	2.0	2.0	2.0			
+architectural style	61.0	2	3	3.0	2.0	2.0	3.0	3.0	3.0	2.0	
+baroque architecture	61.0	1	2	2.0	3.0	2.0	0.0	0.0			
+renaissance architecture	61.0	1	3	2.0	2.0	2.0	3.0	2.0			
+renaissance revival architecture	61.0	1	1	2.0	3.0	3.0	0.0	0.0			
+international style (architecture)	61.0	2	1	2.0	2.0	2.0					
+gothic revival architecture	61.0	2	2	2.0	2.0	3.0	1.0	1.0	2.0	3.0	
+classical architecture	61.0	0	0	3.0	0.0	3.0	0.0				
+architect	61.0	3	2	3.0	2.0	3.0	2.0	3.0			
+vernacular architecture	61.0	1	3	1.0	0.0	0.0					
+georgian architecture	61.0	3	1	2.0	2.0	2.0	2.0	2.0	1.0	2.0	3.0
+palladian architecture	61.0	3	2	1.0	1.0	2.0	3.0	2.0	2.0		
+architecture	61.0	3	3	2.0	3.0	2.0	3.0	3.0			
+architectural design	61.0	0	0	3.0	3.0	3.0	3.0				
+gothic architecture	61.0	1	0	2.0	2.0	2.0	3.0				
+distance	62.0	1	3	1.0	3.0	1.0	2.0	0.0			
+square metre	62.0	0	3	0.0	3.0	3.0					
+weight	62.0	1	1	3.0	0.0	1.0	1.0	1.0	3.0	1.0	
+buoyancy	62.0	3	0	1.0	1.0	0.0					
+long ton	62.0	1	1	0.0	0.0	0.0					
+overall length	62.0	2	0	3.0	1.0	0.0	3.0	1.0			
+cubic foot	62.0	2	2	1.0	3.0						
+relative density	62.0	2	2	1.0							
+1 metre	62.0	1	2	1.0	3.0	1.0	1.0	2.0	2.0		
+wheelbase	62.0	2	1	3.0	1.0	0.0	1.0	1.0	0.0		
+length	62.0	1	2	1.0	2.0	3.0	2.0	3.0	3.0	2.0	
+size	62.0	1	3	2.0	0.0	0.0					
+diameter	62.0	1	1	1.0	0.0	1.0	3.0	1.0			
+kg	62.0	1	1	0.0	2.0	3.0	1.0				
+circumference	62.0	2	2	2.0	1.0	0.0	2.0	0.0	0.0	3.0	
+pounds per square inch	62.0	2	2	2.0	2.0						
+speed	62.0	1	1	3.0	0.0	0.0	1.0				
+height	62.0	1	1	1.0	0.0	1.0	1.0				
+centimetre	62.0	1	1	1.0	2.0	3.0	2.0	1.0			
+connective tissue	63.0	1	3	2.0	3.0	3.0					
+peritoneum	63.0	0	0	2.0	1.0	0.0					
+periosteum	63.0	2	2	2.0	2.0	2.0					
+muscle tissue	63.0	0	0	2.0	2.0	3.0					
+dermis	63.0	0	1	1.0	0.0	2.0	1.0	1.0			
+soft tissue	63.0	0	0	1.0	1.0	2.0	2.0	0.0	1.0		
+bone	63.0	0	0	2.0							
+skeletal muscle	63.0	2	2	1.0	2.0	1.0	2.0	1.0			
+cartilage	63.0	2	2	1.0	2.0	3.0					
+cell membrane	63.0	1	3	2.0	2.0	2.0	1.0	1.0			
+epithelium	63.0	1	2	2.0	2.0	3.0	2.0	0.0	2.0		
+lymph node	63.0	2	0	0.0	1.0	1.0					
+necrosis	63.0	1	2	1.0	2.0	2.0	2.0	1.0			
+tendon	63.0	2	0	1.0	3.0	0.0	1.0				
+muscle	63.0	2	2	1.0	1.0	2.0	3.0	3.0	2.0		
+abdominal wall	63.0	1	1	1.0	0.0	2.0	1.0	1.0	1.0	1.0	
+extracellular matrix	63.0	0	1	1.0	1.0	2.0	1.0	1.0			
+inflammation	63.0	2	2	2.0							
+collagen	63.0	0	2	3.0	1.0	1.0	3.0	1.0	2.0	2.0	
+woodblock printing	64.0	2	0	0.0	1.0	0.0					
+celadon	64.0	0	3	0.0	1.0	1.0	0.0	2.0			
+tang dynasty	64.0	1	2	2.0	3.0						
+blue and white porcelain	64.0	3	2	2.0	1.0	2.0	0.0	1.0			
+chinese culture	64.0	1	1	1.0	2.0	1.0	2.0	2.0			
+qing dynasty	64.0	0	2	1.0	1.0	3.0	2.0	1.0			
+japanese art	64.0	3	2	2.0	2.0	3.0	3.0	3.0	2.0	3.0	
+lacquerware	64.0	3	0	1.0	2.0	0.0	0.0	0.0	1.0	1.0	2.0
+goryeo	64.0	0	1	1.0	1.0	1.0	3.0	0.0	0.0		
+ceramic art	64.0	2	2	2.0	3.0	1.0	3.0				
+chinese ceramics	64.0	3	3	2.0	2.0	2.0	3.0	1.0			
+buddhist art	64.0	1	2	0.0	2.0	0.0	1.0	0.0			
+jingdezhen	64.0	2	2	0.0	0.0	1.0	3.0	0.0	1.0		
+japanese painting	64.0	1	2	2.0	1.0	1.0					
+porcelain	64.0	3	0	2.0	3.0	3.0					
+earthenware	64.0	0	2	1.0	0.0	2.0	0.0				
+fujian	64.0	1	0	2.0	1.0	1.0	0.0	0.0			
+chinese art	64.0	3	2	0.0							
+cloisonné	64.0	3	1	3.0	0.0	3.0	3.0	1.0			
+southwestern united states	65.0	0	3	3.0	1.0	2.0	1.0	1.0			
+santa ana river	65.0	1	2	1.0	2.0	1.0	3.0	0.0			
+los angeles	65.0	2	2	3.0	3.0	2.0	2.0				
+sonora	65.0	2	0	2.0	1.0	0.0	2.0	1.0			
+san antonio	65.0	1	2	1.0	0.0	1.0	1.0	1.0	2.0		
+san gabriel valley	65.0	2	1	1.0	1.0	1.0	1.0				
+san bernardino mountains	65.0	1	2	2.0	1.0	2.0	0.0				
+california	65.0	2	3	2.0	3.0	0.0	0.0				
+san bernardino valley	65.0	1	3	1.0	2.0	0.0	1.0	0.0			
+southern california	65.0	1	2	2.0	2.0	3.0					
+san joaquin valley	65.0	0	0	0.0	1.0						
+new mexico	65.0	2	2	1.0	1.0	2.0	2.0				
+san fernando valley	65.0	2	3	3.0	2.0	2.0	1.0				
+san diego	65.0	1	2	1.0	1.0	0.0	1.0	2.0			
+colorado	65.0	0	2	1.0	1.0	1.0	1.0	1.0	2.0		
+san francisco	65.0	2	2	1.0	1.0	3.0	1.0	2.0	0.0	3.0	
+baja california	65.0	2	3	0.0	3.0						
+northern california	65.0	2	1	2.0	1.0	2.0	2.0	2.0	2.0		
+mexicali	65.0	2	1	1.0	1.0	2.0	0.0	1.0			
+louis philippe i	66.0	1	3	3.0	2.0	0.0	1.0	0.0			
+prince	66.0	3	2	2.0							
+louis xiii of france	66.0	3	2	2.0	2.0	3.0	3.0				
+duke	66.0	1	1	2.0	2.0	3.0					
+louis xi of france	66.0	2	3	1.0	3.0	2.0	0.0	3.0	0.0		
+grand duke	66.0	2	2	0.0	3.0	1.0	0.0				
+louis xii of france	66.0	1	1	1.0	1.0	2.0	1.0	2.0	2.0	1.0	
+house of bourbon	66.0	2	2	2.0	2.0	0.0	2.0	2.0	0.0	2.0	
+louis xiv of france	66.0	0	2	3.0	3.0						
+prince of orange	66.0	1	2	0.0	1.0						
+king of italy	66.0	0	1	1.0	1.0	1.0	1.0	1.0	1.0		
+louis xv of france	66.0	2	1	2.0	2.0	2.0	1.0	1.0			
+duke of orléans	66.0	1	1	2.0	2.0	0.0	3.0	2.0	1.0	1.0	
+francis i of france	66.0	3	2	2.0	2.0	2.0					
+german emperor	66.0	2	1	2.0	3.0	1.0	1.0	2.0			
+louis xviii of france	66.0	1	1	2.0	3.0	2.0	1.0				
+holy roman emperor	66.0	1	1	1.0	1.0	2.0	3.0	1.0			
+count of flanders	66.0	0	1	1.0	0.0	3.0	3.0	1.0			
+duke of burgundy	66.0	2	1	3.0	2.0	3.0	2.0	2.0	1.0		
+my	67.0	0	0	0.0	0.0	0.0					
+love	67.0	2	3	3.0	3.0	3.0	2.0	3.0			
+everything (the bangles album)	67.0	1	2	0.0	1.0	0.0	1.0				
+son of god	67.0	0	2	2.0	2.0	1.0	2.0	0.0			
+girl	67.0	2	1	1.0	1.0	2.0	0.0	1.0			
+forget	67.0	0	1	1.0	0.0	0.0	0.0	1.0			
+conscience	67.0	2	1	1.0	1.0	0.0	1.0				
+to me	67.0	0	0	1.0	0.0	0.0	0.0	0.0			
+my sister	67.0	1	1	1.0	1.0	1.0	1.0				
+to you	67.0	1	2	0.0	1.0	1.0	0.0	1.0	0.0		
+love is	67.0	1	3	2.0	1.0	1.0					
+mercy	67.0	2	0	0.0	1.0	0.0					
+in love	67.0	1	1	1.0	1.0	2.0	1.0	2.0	2.0		
+god	67.0	1	1	1.0	0.0	0.0	0.0	2.0	1.0		
+crying	67.0	0	2	1.0	0.0	1.0	0.0	0.0			
+a man	67.0	2	0	1.0	1.0	1.0					
+you	67.0	1	0	0.0	1.0	0.0	0.0	0.0	1.0		
+in heaven	67.0	0	1	1.0	0.0	0.0	0.0				
+mother	67.0	3	3	3.0	2.0	2.0	3.0	1.0			
+sailing	68.0	2	1	2.0	3.0	2.0	1.0	1.0	1.0		
+gunboat	68.0	1	1	2.0	2.0	2.0	1.0				
+warship	68.0	0	2	0.0	2.0	0.0	1.0	2.0	2.0		
+yacht	68.0	1	2	2.0	3.0	0.0	2.0	3.0	2.0	1.0	
+sailing ship	68.0	3	1	1.0	2.0	2.0	2.0	1.0			
+north sea	68.0	2	2	3.0	2.0	3.0	1.0				
+sea	68.0	0	0	1.0	3.0	1.0					
+harbor	68.0	1	2	1.0	2.0	2.0	3.0	3.0	3.0	2.0	
+schooner	68.0	1	3	1.0	2.0	1.0	2.0	2.0	3.0		
+brigantine	68.0	1	1	0.0	0.0	1.0	1.0				
+boat	68.0	2	2	2.0	2.0	1.0	3.0				
+ship	68.0	2	2	1.0	2.0	2.0	3.0	1.0			
+ferry	68.0	0	1	3.0	1.0	3.0	1.0	2.0			
+fishing vessel	68.0	2	2	2.0	2.0	2.0	0.0	0.0			
+sloop	68.0	2	2	3.0	1.0	1.0	1.0	1.0	1.0	0.0	
+port	68.0	2	1	0.0	2.0	2.0	1.0				
+steamship	68.0	2	1	1.0	0.0	1.0	1.0				
+frigate	68.0	2	1	1.0	2.0	2.0	2.0				
+whaler	68.0	1	2	2.0	1.0	1.0	1.0	3.0	1.0	2.0	
+painting	69.0	2	1	3.0	1.0	3.0	2.0	1.0			
+ancient art	69.0	2	3	3.0	3.0	3.0	2.0				
+sculpture	69.0	2	1	2.0	1.0	1.0	2.0				
+polychrome	69.0	1	1	1.0	2.0	0.0	1.0	2.0			
+byzantine art	69.0	1	2	2.0	2.0	2.0	2.0	2.0	2.0		
+cloisonné	69.0	1	1	0.0	2.0	3.0					
+private collection	69.0	0	2	2.0	3.0	3.0	2.0	1.0	1.0		
+louvre	69.0	2	0	1.0	1.0	2.0	2.0	2.0			
+art	69.0	3	2	2.0	2.0	2.0	2.0	2.0			
+british museum	69.0	2	1	2.0	2.0	1.0	0.0				
+islamic art	69.0	1	3	1.0	0.0	2.0					
+faience	69.0	2	1	3.0	0.0	1.0					
+history of art	69.0	3	2	2.0	1.0						
+terracotta	69.0	2	0	3.0	1.0	1.0	3.0	2.0	1.0	2.0	
+ancient greek art	69.0	0	0	1.0	3.0	3.0					
+ceramic art	69.0	3	2	2.0	2.0						
+medieval art	69.0	1	3	2.0	2.0	2.0	2.0				
+victoria and albert museum	69.0	1	2	2.0	3.0	2.0	3.0	1.0	2.0		
+iconography	69.0	2	1	3.0	3.0	3.0	2.0	0.0	2.0	2.0	
+building material	70.0	2	3	3.0	3.0						
+stone wall	70.0	1	2	1.0							
+travertine	70.0	1	1	0.0	3.0	0.0					
+limestone	70.0	1	1	0.0	1.0	0.0	1.0				
+retaining wall	70.0	0	1	2.0	0.0	1.0	0.0				
+fly ash	70.0	1	1	1.0	3.0	1.0	1.0	1.0	0.0		
+cast iron	70.0	2	2	1.0	1.0	1.0	1.0	1.0	0.0		
+roof	70.0	2	2	1.0	0.0	1.0	1.0	1.0			
+brick	70.0	2	2	2.0	1.0	1.0	1.0	3.0	1.0	3.0	2.0
+concrete	70.0	2	2	2.0							
+granite	70.0	1	2	1.0	2.0	3.0	0.0				
+lime mortar	70.0	0	1	0.0	1.0	2.0	2.0	2.0	1.0		
+reinforced concrete	70.0	3	2	2.0	3.0	2.0	1.0				
+formwork	70.0	2	1	1.0	3.0	0.0	2.0	2.0	1.0	2.0	1.0
+precast concrete	70.0	0	0	2.0	2.0	1.0	3.0	0.0			
+masonry	70.0	2	0	2.0	2.0	2.0	1.0	1.0			
+flat roof	70.0	1	0	3.0	1.0	1.0	0.0				
+curtain wall (architecture)	70.0	1	2	1.0	1.0	2.0	0.0	1.0			
+concrete slab	70.0	0	3	1.0	0.0	1.0					
+cádiz	71.0	0	1	0.0	0.0	2.0					
+new spain	71.0	1	2	2.0	2.0						
+valladolid	71.0	1	1	0.0	2.0	1.0	1.0	3.0	1.0		
+viceroyalty of peru	71.0	0	0	1.0	1.0	1.0					
+sigüenza	71.0	2	0	1.0	0.0	1.0	1.0	3.0	2.0	1.0	
+zaragoza	71.0	0	2	1.0	2.0	1.0	0.0	1.0			
+spain	71.0	1	2	3.0	3.0	0.0	3.0	0.0			
+burgos	71.0	1	2	1.0	0.0						
+valencia	71.0	3	1	1.0	1.0	2.0	2.0	2.0	2.0		
+segovia	71.0	0	1	0.0	2.0						
+seville	71.0	2	1	1.0	0.0	2.0	3.0	3.0	2.0	2.0	
+andalusia	71.0	1	1	1.0	1.0	2.0	1.0	1.0	0.0		
+palencia	71.0	0	0	2.0	3.0	0.0	2.0	0.0			
+badajoz	71.0	1	0	0.0	1.0	0.0					
+pamplona	71.0	1	3	2.0	3.0	2.0	1.0	1.0			
+salamanca	71.0	2	2	1.0	0.0	1.0	0.0	1.0			
+alcalá de henares	71.0	0	0	1.0	1.0	1.0					
+philip ii of spain	71.0	2	2	1.0	1.0	3.0					
+spanish empire	71.0	2	3	3.0	2.0	3.0	1.0	3.0	2.0		
+mother	72.0	2	2	1.0	1.0						
+husband	72.0	1	0	2.0							
+lady	72.0	3	1	2.0	1.0	1.0	3.0				
+father	72.0	1	2	2.0	2.0	3.0	1.0	1.0	2.0	1.0	
+aunt	72.0	3	2	3.0	2.0	1.0	1.0				
+annie (musical)	72.0	0	2	1.0	1.0	0.0	0.0	1.0	1.0		
+ellen	72.0	0	1	0.0	1.0	0.0					
+uncle	72.0	1	2	1.0	1.0	0.0	0.0	1.0			
+daughter	72.0	1	2	1.0	1.0	1.0	2.0	2.0	1.0		
+girl	72.0	1	1	2.0	3.0	1.0					
+mrs.	72.0	2	3	2.0	1.0	1.0					
+wife	72.0	2	2	2.0	3.0	2.0	2.0	2.0			
+sisters (tv series)	72.0	0	1	0.0	1.0	2.0	0.0	1.0	1.0		
+adopted daughter	72.0	2	0	1.0	1.0	1.0	1.0				
+mr.	72.0	2	3	1.0	2.0	1.0	2.0				
+a woman	72.0	2	2	2.0	0.0	1.0	0.0	0.0			
+sister	72.0	2	1	2.0	1.0	1.0	1.0				
+emma (novel)	72.0	0	0	0.0	1.0	3.0	0.0	1.0			
+sarah	72.0	0	0	1.0	0.0	0.0	1.0	0.0			
+1st infantry division (united kingdom)	73.0	0	1	2.0	3.0	1.0	1.0				
+infantry	73.0	3	2	0.0	0.0	3.0	3.0				
+6th division (australia)	73.0	3	0	1.0	2.0	1.0	2.0	2.0	3.0		
+special forces	73.0	2	3	2.0	3.0	2.0	3.0	3.0	2.0	3.0	
+1st cavalry division (united states)	73.0	1	3	1.0	2.0	1.0					
+military strategy	73.0	3	3	1.0	3.0	3.0					
+cavalry	73.0	1	1	0.0	3.0	2.0	1.0	1.0	1.0	2.0	
+army	73.0	1	3	3.0	2.0	3.0	3.0	3.0			
+7th infantry division (united states)	73.0	0	0	3.0	3.0						
+24th infantry division (united states)	73.0	1	2	2.0	1.0						
+artillery	73.0	1	2	1.0	1.0	3.0	2.0				
+close air support	73.0	2	2	1.0	2.0	0.0	1.0	2.0			
+siege	73.0	0	1	1.0	1.0	2.0	0.0	2.0	1.0	1.0	
+light division	73.0	2	2	2.0	0.0	0.0	1.0	0.0	1.0		
+encirclement	73.0	2	3	1.0	1.0	0.0	1.0	1.0			
+counterattack	73.0	0	1	3.0							
+battle	73.0	3	3	3.0	2.0	2.0	3.0	3.0			
+1st cavalry division (united kingdom)	73.0	3	1	1.0	2.0	2.0	2.0	1.0	1.0		
+4th infantry regiment (united states)	73.0	3	2	0.0	1.0	3.0	1.0	1.0			
+japanese garden	74.0	3	2	2.0	2.0	2.0	1.0	2.0			
+grotto	74.0	1	1	0.0	1.0	0.0					
+cottage garden	74.0	3	0	0.0	3.0	1.0					
+orangery	74.0	2	1	0.0	1.0	3.0					
+topiary	74.0	3	2	2.0	2.0	3.0	2.0				
+garden	74.0	3	3	0.0	3.0	3.0	0.0				
+shrubbery	74.0	1	0	1.0	1.0	2.0	1.0				
+chinese garden	74.0	3	2	2.0	3.0	0.0	1.0				
+natural landscape	74.0	3	2	1.0	2.0	2.0	3.0	3.0	3.0		
+kew gardens	74.0	1	2	1.0	1.0	1.0	3.0	3.0	1.0	1.0	1.0
+garden design	74.0	2	3	3.0	1.0	3.0					
+arboretum	74.0	1	2	1.0	2.0	1.0					
+ornamental plant	74.0	3	2	2.0	0.0	3.0					
+walled garden	74.0	2	0	0.0							
+flower	74.0	1	2	2.0	3.0	2.0	1.0				
+botanical garden	74.0	0	0	2.0	3.0	2.0	2.0	0.0			
+picturesque	74.0	1	3	2.0	2.0	2.0	2.0	3.0			
+english landscape garden	74.0	2	2	2.0	2.0	0.0	2.0				
+gardening	74.0	3	2	3.0	1.0	3.0	3.0	3.0			
+gothic revival architecture	75.0	1	3	2.0	1.0	2.0	1.0	0.0	1.0		
+southwell minster	75.0	0	0	1.0	3.0	1.0	0.0	2.0	1.0		
+ely cathedral	75.0	2	1	0.0	2.0	2.0	2.0	2.0			
+cathedral	75.0	3	3	1.0	2.0	3.0	3.0	0.0			
+church architecture	75.0	2	3	3.0	1.0	3.0	1.0	1.0			
+gothic architecture	75.0	3	2	3.0							
+bishop of worcester	75.0	2	1	2.0	1.0	3.0	2.0				
+romanesque architecture	75.0	3	3	1.0	3.0	1.0					
+lady chapel	75.0	1	3	2.0	2.0	1.0	2.0				
+hereford cathedral	75.0	3	2	3.0	1.0	3.0	3.0	1.0			
+abbot	75.0	1	1	3.0	0.0	2.0	2.0	2.0	1.0	2.0	
+parish church	75.0	2	1	1.0	3.0	1.0	2.0	2.0			
+canons regular	75.0	1	1	1.0	2.0	0.0	2.0				
+archbishop of york	75.0	1	0	2.0	1.0	0.0	2.0	1.0			
+chapel of ease	75.0	1	3	1.0	2.0	1.0	3.0				
+priory church	75.0	1	2	2.0	3.0						
+collegiate church	75.0	0	1	1.0	1.0	0.0					
+bishop of lincoln	75.0	0	3	2.0	1.0	1.0	2.0				
+bishop of rochester	75.0	1	1	1.0	1.0	2.0	1.0	2.0	0.0	1.0	1.0
+reason	76.0	1	1	2.0	1.0	1.0	0.0	0.0			
+rationalism	76.0	3	3	1.0	1.0	3.0	2.0	1.0			
+belief	76.0	3	1	2.0	1.0	1.0	2.0				
+mind	76.0	2	2	2.0							
+idealism	76.0	0	0	3.0	1.0	1.0	2.0	2.0	0.0		
+rationality	76.0	1	2	1.0							
+natural law	76.0	3	3	2.0	1.0	2.0	2.0	1.0	2.0		
+nature (philosophy)	76.0	2	2	1.0	2.0	2.0	1.0	1.0			
+ethics	76.0	2	0	3.0	2.0	0.0	2.0				
+morality	76.0	0	2	0.0	3.0	2.0					
+materialism	76.0	1	1	0.0	2.0	3.0	0.0	0.0	0.0		
+common sense	76.0	0	0	2.0	3.0	1.0	1.0	2.0			
+metaphysics	76.0	1	2	2.0	2.0	3.0	2.0	1.0			
+knowledge	76.0	3	2	3.0	3.0	3.0	3.0	1.0	3.0		
+human nature	76.0	3	0	2.0	3.0	2.0	2.0				
+human	76.0	1	2	2.0	1.0	1.0	2.0	1.0			
+free will	76.0	0	1	3.0	2.0	0.0	1.0	1.0			
+existence of god	76.0	1	1	1.0							
+philosophy	76.0	2	2	2.0	0.0	0.0					
+john king (priest)	77.0	0	2	1.0	1.0						
+james douglas (died 1751)	77.0	1	0	2.0	0.0	1.0	1.0	3.0			
+margaret	77.0	0	1	1.0	2.0	3.0					
+anne	77.0	0	2	0.0	0.0	0.0	1.0				
+earl of lichfield	77.0	0	1	0.0	0.0	1.0	0.0				
+son-in-law	77.0	1	1	0.0	0.0	0.0	0.0	0.0			
+lady	77.0	1	3	1.0	2.0	2.0	1.0	2.0			
+earl of carlisle	77.0	1	1	1.0	0.0	1.0	1.0	1.0			
+earl of pembroke	77.0	0	2	0.0	0.0	2.0					
+elizabeth	77.0	2	1	3.0	0.0	3.0	3.0				
+anne of denmark	77.0	1	0	2.0	1.0	3.0	1.0				
+robert cecil (mp)	77.0	1	1	3.0	2.0	3.0	0.0				
+hugh	77.0	0	1	1.0	0.0	0.0	2.0	0.0	1.0	0.0	
+earl of beverley	77.0	2	2	1.0	2.0	1.0	2.0	2.0			
+charles	77.0	0	0	1.0	1.0	1.0					
+earl	77.0	0	0	2.0	1.0	2.0	2.0	0.0	1.0		
+thomas lawrence	77.0	1	1	1.0	2.0	1.0	0.0	0.0			
+edward	77.0	1	1	0.0	1.0						
+thomas jermyn (died 1645)	77.0	1	2	1.0	1.0	1.0	1.0	1.0	0.0		
+prose	78.0	1	3	0.0	0.0	0.0	0.0				
+playwright	78.0	2	1	1.0	3.0	1.0	0.0	0.0			
+poetry	78.0	3	2	2.0	3.0	3.0	1.0	1.0			
+drama	78.0	2	2	2.0	2.0	2.0	1.0				
+english literature	78.0	2	3	3.0	2.0	2.0	3.0	2.0			
+lyric poetry	78.0	0	2	2.0							
+blank verse	78.0	2	2	1.0	2.0	1.0					
+film adaptation	78.0	1	1	1.0	1.0	2.0	2.0	1.0	1.0	3.0	1.0
+comedy	78.0	1	1	1.0	0.0	1.0	0.0	0.0	0.0		
+short story	78.0	1	1	2.0	1.0	0.0	1.0	0.0			
+american literature	78.0	2	1	1.0	2.0	1.0	0.0	1.0	1.0	2.0	
+libretto	78.0	1	3	1.0	1.0	2.0	1.0	2.0			
+literature	78.0	2	3	2.0	3.0	2.0	0.0	0.0			
+writer	78.0	3	2	3.0	1.0	3.0	2.0	3.0	2.0	2.0	
+king lear	78.0	3	0	1.0	1.0	0.0	1.0	2.0			
+romeo and juliet	78.0	2	2	3.0	2.0	2.0	0.0				
+long poem	78.0	2	2	2.0	1.0	1.0	3.0	2.0			
+novel	78.0	2	2	2.0	3.0	2.0	2.0				
+bertolt brecht	78.0	2	1	0.0	1.0	1.0	0.0	2.0			
+nitrogen	79.0	1	1	1.0	1.0	2.0	2.0	2.0	1.0		
+waste heat	79.0	0	0	2.0	1.0						
+carbon dioxide	79.0	1	1	1.0	2.0	0.0	1.0	1.0			
+ammonia	79.0	1	1	0.0	2.0	0.0					
+coolant	79.0	1	1	3.0	1.0	2.0					
+heat sink	79.0	2	3	3.0	2.0	2.0	0.0				
+heat pump	79.0	2	2	1.0	2.0	2.0	1.0	1.0			
+thermocouple	79.0	1	2	1.0	3.0	0.0	1.0				
+heat exchanger	79.0	1	3	1.0	2.0	2.0					
+thermal expansion	79.0	2	1	1.0	3.0	2.0	3.0	2.0			
+liquid	79.0	2	2	1.0	1.0	1.0	1.0				
+electric current	79.0	1	2	3.0	3.0	1.0	2.0	3.0	3.0	3.0	
+heat pipe	79.0	2	2	2.0	2.0						
+hydrogen	79.0	1	2	1.0	2.0	2.0	1.0	2.0	1.0	1.0	
+evaporator (marine)	79.0	2	2	1.0	1.0	1.0	1.0				
+heat transfer	79.0	1	0	2.0	2.0	2.0	2.0				
+evaporation	79.0	1	3	2.0	3.0	2.0	3.0				
+water vapor	79.0	0	3	2.0	2.0	2.0	2.0				
+evaporator	79.0	0	0	1.0	0.0						
+cannon	80.0	1	0	2.0	1.0						
+flight deck	80.0	0	1	0.0	1.0	1.0	1.0	0.0	0.0	0.0	1.0
+torpedo	80.0	1	1	1.0	2.0	2.0	1.0	2.0	2.0	2.0	
+electric motor	80.0	1	2	2.0	2.0	1.0	0.0	2.0	1.0		
+vickers machine gun	80.0	2	3	1.0	1.0	2.0	0.0	1.0	0.0		
+propeller	80.0	1	3	0.0							
+machine gun	80.0	3	2	0.0	3.0	2.0	0.0	3.0	0.0		
+bofors 40 mm gun	80.0	0	3	0.0	3.0	1.0	0.0				
+lewis gun	80.0	1	0	0.0	2.0	2.0	2.0				
+rate of fire	80.0	1	3	1.0	0.0	1.0					
+pusher configuration	80.0	1	2	2.0	1.0	0.0	0.0	0.0			
+naval artillery	80.0	3	3	1.0	2.0	1.0					
+outboard motor	80.0	2	1	2.0	1.0	0.0					
+diesel engine	80.0	3	1	1.0	1.0	2.0	2.0	0.0			
+gas turbine	80.0	3	1	2.0	0.0	2.0	2.0	1.0	1.0		
+main battery	80.0	0	2	0.0	1.0	0.0	1.0	0.0			
+steam engine	80.0	1	2	1.0	3.0	2.0	2.0	2.0			
+gun turret	80.0	3	2	1.0	1.0	2.0	2.0	3.0	3.0		
+autocannon	80.0	2	1	1.0	2.0	1.0					
+orbit	81.0	2	2	2.0	3.0	0.0	2.0				
+venus	81.0	2	1	1.0	0.0	1.0	0.0				
+earth	81.0	2	1	1.0	3.0	2.0	2.0	1.0			
+solar system	81.0	0	3	2.0	3.0	3.0	0.0	0.0			
+jupiter	81.0	2	1	1.0	1.0	0.0					
+star	81.0	3	3	1.0	2.0	2.0					
+occultation	81.0	2	1	2.0	0.0						
+moon	81.0	3	2	3.0	1.0	2.0	2.0	2.0	3.0	3.0	
+planet	81.0	2	1	1.0	1.0	3.0	1.0				
+angular distance	81.0	2	1	2.0	3.0	1.0	2.0	1.0			
+saturn	81.0	2	1	0.0	2.0	1.0	1.0	1.0	1.0	2.0	
+redshift	81.0	1	2	1.0	3.0	1.0	2.0	1.0			
+parallax	81.0	1	2	1.0	0.0	2.0					
+black hole	81.0	2	1	2.0	1.0	2.0					
+angular diameter	81.0	0	2	0.0	2.0	2.0	1.0	1.0	2.0	1.0	
+milky way	81.0	2	3	1.0	0.0						
+ecliptic	81.0	1	0	3.0	1.0	0.0	2.0				
+planetary system	81.0	2	3	2.0	2.0	0.0	3.0	0.0			
+uranus	81.0	3	1	2.0	2.0						
+phonation	82.0	2	1	0.0	3.0	3.0	2.0	3.0	1.0		
+intonation (linguistics)	82.0	3	3	1.0	2.0	1.0	1.0				
+vowel	82.0	1	2	1.0	0.0	1.0	1.0	1.0			
+consonant	82.0	1	2	1.0	1.0	2.0	1.0	3.0			
+language	82.0	1	2	2.0	2.0						
+pitch accent	82.0	3	1	1.0	1.0	2.0	1.0	1.0	2.0		
+guttural	82.0	0	1	1.0	0.0						
+vowel length	82.0	2	1	3.0	2.0	1.0	2.0				
+diction	82.0	3	3	2.0	3.0	3.0	3.0	3.0	1.0	2.0	0.0
+gemination	82.0	2	0	2.0	1.0	1.0					
+voice (phonetics)	82.0	3	3	2.0	2.0	2.0	3.0	2.0	2.0		
+pronunciation	82.0	2	0	2.0	2.0	1.0	0.0	1.0			
+utterance	82.0	3	2	3.0	1.0	3.0	1.0	2.0	2.0	3.0	
+phoneme	82.0	1	3	3.0	3.0	1.0	0.0				
+timbre	82.0	0	0	1.0	1.0						
+rhyme	82.0	1	1	1.0	1.0	1.0	2.0	1.0	0.0		
+tone (linguistics)	82.0	2	2	3.0	2.0	3.0	1.0	3.0			
+inflection	82.0	0	0	2.0	2.0	1.0	2.0				
+prosody (linguistics)	82.0	2	2	3.0	2.0	3.0	2.0	1.0	3.0	2.0	
+election	83.0	3	2	3.0	2.0	3.0	3.0				
+electoral college (united states)	83.0	3	2	1.0	1.0	0.0	0.0				
+primary election	83.0	2	3	2.0	2.0						
+two-party system	83.0	2	1	2.0	1.0	1.0					
+green party	83.0	0	2	0.0	1.0	2.0	1.0				
+write-in candidate	83.0	1	2	1.0	1.0						
+political party	83.0	2	3	3.0	1.0	2.0	2.0	2.0	2.0		
+superdelegate	83.0	0	1	2.0	1.0	1.0	1.0	3.0	3.0	3.0	
+presidential nominee	83.0	1	2	3.0	3.0	2.0	3.0	1.0			
+independent democrat	83.0	1	3	3.0	2.0	3.0	2.0	1.0	2.0		
+candidate	83.0	3	3	3.0	2.0	1.0					
+minor party	83.0	1	1	2.0	2.0	2.0	1.0				
+state senator	83.0	3	3	2.0	1.0	2.0	2.0	2.0			
+democratic party (united states)	83.0	1	2	3.0	1.0	2.0	2.0	3.0	2.0		
+voter turnout	83.0	3	2	2.0	2.0	1.0	2.0	3.0	2.0	2.0	
+conservative democrat	83.0	2	2	2.0	2.0	1.0	1.0				
+general election	83.0	1	2	2.0	2.0	3.0	3.0	3.0			
+incumbent	83.0	2	1	0.0	2.0	2.0	1.0	1.0	2.0		
+running mate	83.0	3	1	2.0	0.0	1.0	1.0	1.0			
+palestinian territories	84.0	0	3	3.0	3.0	2.0	2.0	2.0			
+palestine liberation organization	84.0	3	2	1.0	0.0	1.0	2.0				
+yitzhak rabin	84.0	2	0	3.0	1.0	2.0	1.0				
+ehud barak	84.0	3	1	0.0	3.0	2.0	3.0	1.0	0.0		
+gaza strip	84.0	3	3	1.0	0.0	3.0	0.0	1.0			
+benjamin netanyahu	84.0	3	2	3.0	2.0	3.0	1.0	2.0	1.0		
+ariel sharon	84.0	1	3	0.0	0.0	2.0	0.0				
+david ben-gurion	84.0	0	2	1.0	1.0	2.0					
+mahmoud abbas	84.0	2	2	1.0	2.0	2.0	2.0				
+tzipi livni	84.0	2	3	1.0	1.0	0.0	1.0	2.0			
+menachem begin	84.0	2	0	2.0	1.0	1.0	1.0	1.0			
+shimon peres	84.0	3	1	1.0	2.0	1.0	0.0				
+east jerusalem	84.0	3	2	2.0	1.0	3.0	1.0	2.0			
+likud	84.0	2	1	1.0	0.0	0.0	2.0	1.0			
+hamas	84.0	1	2	0.0	2.0	0.0					
+avigdor lieberman	84.0	2	3	2.0	2.0						
+israeli settlement	84.0	1	3	2.0	2.0	2.0	1.0	2.0	3.0	2.0	3.0
+ehud olmert	84.0	1	0	1.0	2.0	2.0	1.0				
+fatah	84.0	2	0	2.0	1.0	0.0	2.0	2.0			
+extra innings	85.0	2	2	1.0	2.0	2.0	3.0	2.0			
+home run	85.0	2	0	3.0	1.0	2.0	3.0				
+kansas city royals	85.0	1	0	0.0	0.0	0.0	1.0	2.0	1.0		
+justin verlander	85.0	2	2	1.0	0.0	0.0	2.0	2.0			
+josh beckett	85.0	1	0	1.0	3.0	1.0	0.0	0.0			
+double play	85.0	1	3	2.0	2.0	2.0	1.0	1.0	1.0		
+toronto blue jays	85.0	2	1	2.0	0.0	0.0	1.0				
+boston red sox	85.0	2	3	2.0	2.0						
+no-hitter	85.0	2	1	1.0	0.0	1.0					
+zack greinke	85.0	2	1	0.0	1.0	3.0	2.0	1.0			
+andruw jones	85.0	0	3	0.0	0.0	2.0	1.0	1.0	2.0	0.0	
+roy halladay	85.0	3	1	1.0	1.0	1.0	1.0	1.0	1.0		
+atlanta braves	85.0	0	2	1.0	2.0	1.0	2.0				
+alfonso soriano	85.0	2	1	3.0	2.0	1.0	2.0	1.0			
+detroit tigers	85.0	2	2	0.0	1.0						
+san francisco giants	85.0	2	0	3.0	1.0	1.0	3.0				
+complete game	85.0	2	2	1.0	1.0	2.0	1.0	2.0	1.0	2.0	1.0
+houston astros	85.0	1	2	2.0	1.0	1.0	1.0	1.0	1.0	1.0	
+cincinnati reds	85.0	0	0	1.0	2.0	1.0					
+mental health	86.0	2	2	3.0	2.0	1.0	0.0				
+physician	86.0	3	1	3.0	2.0	1.0	2.0	3.0			
+nephrology	86.0	1	1	0.0	3.0	2.0					
+health	86.0	1	3	2.0	3.0	3.0	3.0	2.0	3.0		
+psychiatry	86.0	3	1	3.0	2.0	2.0	1.0	2.0			
+hospital	86.0	3	3	3.0	2.0	1.0	2.0				
+rheumatology	86.0	2	1	1.0	1.0	2.0	2.0	1.0			
+neurology	86.0	1	1	2.0	2.0	0.0	1.0				
+pain management	86.0	2	2	0.0	2.0	0.0					
+ambulatory care	86.0	2	1	2.0	3.0	3.0					
+palliative care	86.0	1	2	1.0	2.0	2.0	0.0	2.0	0.0		
+intensive care unit	86.0	0	2	0.0	1.0	1.0					
+oncology	86.0	2	2	1.0	2.0	1.0	3.0				
+surgery	86.0	3	0	1.0	2.0	2.0	2.0	2.0			
+medicine	86.0	1	1	2.0	2.0	3.0					
+clinic	86.0	3	2	3.0	3.0	2.0	2.0	3.0			
+patient	86.0	3	3	3.0	3.0	1.0	2.0				
+geriatrics	86.0	2	1	0.0	1.0	1.0	1.0	1.0			
+tuberculosis	86.0	2	3	1.0	2.0	1.0	1.0	1.0	1.0		
+financial services	87.0	3	2	2.0	3.0	2.0					
+investment fund	87.0	1	3	2.0							
+hedge fund	87.0	2	0	2.0	0.0	1.0	2.0	2.0			
+stock exchange	87.0	0	3	3.0							
+investment company	87.0	3	3	2.0	3.0	1.0	1.0				
+investor	87.0	1	3	3.0	2.0	2.0	2.0	3.0	2.0	3.0	3.0
+arbitrage	87.0	1	2	0.0	2.0	2.0	0.0				
+capital market	87.0	2	2	3.0	1.0						
+venture capital	87.0	2	2	2.0	2.0	1.0					
+apollo global management	87.0	1	1	2.0	0.0	1.0	1.0	2.0	1.0		
+private equity	87.0	2	1	1.0	1.0	3.0	3.0	1.0			
+private equity fund	87.0	3	2	1.0	3.0	1.0	3.0	1.0	1.0		
+brokerage firm	87.0	0	2	2.0	2.0	2.0					
+stock market	87.0	3	3	2.0	3.0	1.0					
+mutual fund	87.0	3	2	1.0	1.0	2.0	1.0	2.0	1.0	2.0	0.0
+fixed income	87.0	2	2	1.0	3.0	0.0	0.0				
+initial public offering	87.0	2	3	2.0	2.0	1.0	0.0	3.0			
+investment	87.0	3	2	3.0	2.0	3.0	3.0	3.0	2.0		
+goldman sachs	87.0	3	1	3.0	1.0	3.0	1.0	1.0	3.0	1.0	2.0
+croatian war of independence	88.0	0	2	1.0	3.0						
+yugoslavia	88.0	1	2	2.0	2.0						
+kosovo liberation army	88.0	3	3	2.0	3.0	2.0	1.0	2.0			
+army of republika srpska	88.0	1	1	1.0	2.0	1.0	3.0	2.0			
+yugoslav wars	88.0	3	3	3.0	1.0	1.0					
+slobodan milošević	88.0	1	2	3.0	3.0	1.0	3.0	0.0	2.0		
+macedonia (region)	88.0	2	1	1.0	1.0	0.0	3.0				
+sandžak	88.0	1	0	1.0	1.0	0.0	2.0	1.0			
+yugoslav partisans	88.0	2	2	1.0	2.0	3.0	0.0				
+chetniks	88.0	0	3	1.0	0.0	2.0					
+kosovo serbs	88.0	2	3	3.0	2.0	2.0	2.0				
+bosnian war	88.0	1	2	1.0	2.0	1.0	3.0	0.0			
+breakup of yugoslavia	88.0	3	2	1.0	1.0	3.0	3.0	1.0			
+serbs	88.0	2	2	2.0	0.0						
+montenegrins	88.0	0	1	2.0	0.0	2.0	1.0	2.0			
+kosovo albanians	88.0	2	1	1.0	2.0	3.0	2.0	2.0	3.0		
+kosovo	88.0	3	2	2.0	3.0	1.0	2.0				
+kosovo war	88.0	3	3	3.0	3.0	3.0					
+bosnia and herzegovina	88.0	2	2	2.0	2.0	2.0	1.0				
+whisky	89.0	1	2	1.0	1.0	2.0	1.0	1.0			
+iced tea	89.0	1	1	3.0	1.0	1.0	1.0	3.0	1.0		
+milk	89.0	1	1	1.0	0.0	0.0					
+ice cream	89.0	1	1	1.0	0.0	0.0	1.0	3.0	1.0		
+syrup	89.0	1	1	0.0	1.0	1.0	2.0	2.0			
+root beer	89.0	1	1	3.0	1.0	3.0	1.0				
+the drink	89.0	3	3	1.0	2.0	3.0	1.0	3.0	2.0		
+bread	89.0	2	2	1.0	0.0	2.0	2.0	1.0			
+cider	89.0	3	2	2.0	1.0						
+dessert	89.0	1	0	0.0	3.0	2.0	3.0				
+coffee	89.0	1	3	3.0	2.0	2.0					
+drink	89.0	1	2	3.0	3.0	2.0	3.0	1.0	3.0		
+chocolate	89.0	1	1	2.0							
+vodka	89.0	2	1	2.0	2.0	1.0	2.0	0.0			
+juice	89.0	2	1	2.0	2.0	1.0	2.0	2.0			
+liqueur	89.0	3	1	2.0	1.0	2.0	1.0	2.0	1.0	1.0	
+tea	89.0	2	1	1.0	1.0						
+soft drink	89.0	0	2	0.0	2.0	0.0	0.0				
+beer	89.0	3	2	2.0	2.0	1.0	2.0	2.0	2.0	3.0	
+certiorari	90.0	3	1	0.0	0.0	2.0	1.0	2.0	1.0	1.0	1.0
+superior court	90.0	2	3	3.0	2.0	3.0	1.0	1.0			
+state court (united states)	90.0	2	1	3.0	1.0	3.0	2.0	1.0			
+lawyer	90.0	1	3	2.0	2.0						
+united states district court	90.0	2	1	1.0	0.0	2.0					
+jury trial	90.0	3	2	3.0	2.0	2.0	3.0	3.0			
+federal court	90.0	3	2	2.0	3.0	2.0	3.0	2.0	2.0		
+attorney general	90.0	3	1	2.0	2.0	3.0	1.0				
+state supreme court	90.0	1	1	2.0	3.0	2.0	1.0	2.0	3.0		
+supreme court	90.0	3	1	2.0	3.0	2.0	2.0	3.0	2.0	2.0	
+federal judge	90.0	1	2	2.0	1.0						
+prosecutor	90.0	1	3	3.0	1.0	2.0	2.0	2.0			
+trial court	90.0	0	2	2.0	3.0	2.0	0.0	3.0	0.0		
+new trial	90.0	3	1	1.0	0.0	3.0	0.0	1.0	0.0	0.0	
+district court	90.0	2	2	1.0	2.0	1.0	3.0				
+precedent	90.0	1	1	1.0	2.0	1.0	1.0	2.0			
+appellate court	90.0	3	2	2.0	1.0						
+private prosecution	90.0	2	2	3.0	3.0	0.0	1.0				
+lower court	90.0	2	1	1.0	2.0	3.0	2.0				
+minority leader	91.0	1	1	2.0	1.0	1.0	3.0	2.0			
+house of representatives	91.0	0	0	3.0	2.0	0.0	2.0	0.0			
+independent democrat	91.0	2	1	1.0	1.0	2.0	1.0	2.0	1.0		
+john boehner	91.0	1	0	1.0	1.0	1.0	1.0	2.0			
+majority leader	91.0	1	2	2.0	3.0	0.0	1.0				
+democratic party (united states)	91.0	1	2	1.0	2.0	1.0	1.0				
+electoral college (united states)	91.0	1	1	1.0	2.0	2.0	2.0	2.0	1.0	2.0	
+conservative democrat	91.0	1	0	3.0	1.0	2.0					
+new york state senate	91.0	1	3	2.0	3.0	1.0	2.0				
+legislature	91.0	2	2	2.0	2.0	3.0	3.0	0.0	1.0		
+jim demint	91.0	0	1	1.0	1.0	0.0	0.0				
+joe lieberman	91.0	2	2	2.0	2.0						
+111th united states congress	91.0	2	3	2.0	1.0						
+congressional district	91.0	1	1	1.0	2.0	1.0	1.0	1.0			
+ranking member	91.0	1	1	3.0	1.0	1.0					
+united states senate	91.0	2	3	2.0	2.0	2.0	3.0	3.0	2.0	3.0	
+kansas house of representatives	91.0	1	0	1.0	1.0						
+member of congress	91.0	0	0	2.0	2.0	3.0					
+state senator	91.0	2	2	3.0	0.0	3.0	1.0				
+art	92.0	2	2	2.0	3.0	3.0	2.0				
+sculpture	92.0	1	2	1.0	1.0	3.0	1.0	2.0	2.0		
+venice biennale	92.0	2	3	1.0	3.0						
+philadelphia museum of art	92.0	0	3	0.0	2.0						
+museum of modern art	92.0	0	2	2.0							
+metropolitan museum of art	92.0	3	2	3.0	1.0	3.0	2.0	1.0			
+art exhibition	92.0	2	0	0.0	3.0	1.0					
+whitney biennial	92.0	0	0	1.0	1.0	2.0	2.0				
+art museum	92.0	3	3	1.0	1.0	3.0	3.0				
+brooklyn museum	92.0	2	1	3.0	1.0	2.0	2.0	2.0			
+victoria and albert museum	92.0	3	2	2.0	3.0	0.0	1.0				
+museum of fine arts	92.0	3	3	2.0	3.0	3.0	3.0				
+modern art	92.0	3	3	1.0	2.0	1.0	2.0	2.0			
+detroit institute of arts	92.0	0	2	1.0	1.0	2.0	1.0				
+contemporary art	92.0	3	2	3.0	3.0	2.0					
+museum	92.0	2	2	3.0	3.0	3.0	3.0	3.0	2.0		
+exhibition	92.0	3	3	3.0	3.0	3.0	2.0				
+cleveland museum of art	92.0	3	0	2.0	0.0	1.0					
+smithsonian american art museum	92.0	2	3	2.0	3.0	2.0	1.0	2.0	2.0		
+pricing	93.0	3	2	1.0	3.0	2.0					
+brand	93.0	2	0	0.0	1.0	3.0					
+wholesale	93.0	1	2	3.0	2.0	3.0	2.0	2.0			
+market value	93.0	1	3	1.0	2.0	2.0	0.0	0.0			
+sales	93.0	2	2	1.0	3.0	3.0	3.0	1.0			
+the sale	93.0	3	3	2.0	2.0	2.0	2.0	3.0	2.0		
+business-to-business	93.0	2	2	2.0	3.0						
+private label	93.0	1	1	1.0	1.0	1.0	1.0	1.0			
+reseller	93.0	2	2	1.0	3.0	3.0	3.0	2.0	1.0	2.0	
+online shopping	93.0	2	2	2.0	3.0	1.0	2.0				
+mail order	93.0	0	0	1.0	2.0	1.0	1.0				
+profit margin	93.0	2	1	3.0	2.0	2.0	2.0	3.0			
+broker	93.0	2	1	2.0	3.0	3.0	2.0				
+buyer	93.0	1	1	1.0	2.0	3.0	3.0				
+marketing	93.0	2	2	2.0	2.0	3.0					
+purchasing	93.0	3	2	2.0	3.0	2.0	2.0				
+retail	93.0	1	2	2.0	2.0						
+vendor	93.0	2	3	1.0	2.0	3.0	1.0	2.0	1.0	3.0	2.0
+berkshire hathaway	93.0	0	1	2.0	1.0	1.0	0.0	0.0	1.0		
+college basketball	94.0	2	2	1.0	2.0	0.0	1.0	0.0			
+college football	94.0	2	2	1.0	1.0	2.0	1.0				
+penn state nittany lions	94.0	2	3	1.0	2.0	0.0	2.0	3.0	1.0		
+new york giants	94.0	1	3	2.0	2.0	3.0	0.0	1.0			
+playoffs	94.0	2	2	3.0	2.0	2.0	3.0	1.0			
+bowl game	94.0	0	2	2.0	0.0	2.0	0.0				
+head coach	94.0	2	1	3.0	2.0	3.0	2.0				
+exhibition game	94.0	2	1	0.0	2.0	1.0					
+running back	94.0	1	2	0.0	1.0	3.0	1.0				
+placekicker	94.0	2	2	3.0	1.0	2.0	3.0	1.0	1.0	1.0	
+donovan mcnabb	94.0	1	2	1.0	0.0	2.0	2.0	2.0	2.0		
+pro bowl	94.0	2	1	1.0	1.0	1.0	2.0	3.0	1.0		
+starting lineup	94.0	1	0	1.0	1.0	1.0	2.0	2.0			
+chicago bears	94.0	2	1	2.0	1.0	2.0	1.0	1.0			
+john elway	94.0	1	1	3.0	2.0	0.0	3.0	0.0			
+oklahoma sooners	94.0	2	2	1.0	1.0	2.0	1.0				
+national football league	94.0	2	2	1.0	3.0	2.0	3.0				
+professional football (gridiron)	94.0	2	2	3.0	3.0						
+perfect season	94.0	1	1	2.0	1.0	2.0	1.0				
+broadcast syndication	95.0	3	2	1.0	2.0	1.0	2.0	3.0			
+e!	95.0	1	2	0.0	0.0	2.0	2.0				
+television network	95.0	3	3	3.0	2.0	3.0					
+the wb	95.0	1	0	1.0	1.0	1.0	2.0				
+television program	95.0	2	3	3.0	2.0	3.0	3.0	3.0	3.0		
+ktla	95.0	1	0	3.0	1.0	1.0	1.0	0.0			
+the cw	95.0	0	2	1.0	1.0	0.0	1.0	2.0	1.0	0.0	1.0
+tbs (tv channel)	95.0	2	3	1.0	1.0	3.0	1.0	2.0	1.0	0.0	0.0
+soapnet	95.0	2	1	1.0	0.0	1.0	1.0	1.0	3.0	2.0	
+wgn america	95.0	2	0	1.0	1.0	2.0	2.0	2.0			
+fox broadcasting company	95.0	2	2	2.0	2.0	2.0	2.0	2.0			
+ion television	95.0	1	2	2.0	1.0	1.0	1.0	2.0			
+abc television	95.0	3	1	2.0	1.0	1.0					
+nbc	95.0	2	0	2.0	2.0	3.0	2.0	1.0			
+abc family	95.0	1	0	2.0	1.0	2.0					
+american broadcasting company	95.0	2	1	1.0	3.0	1.0					
+usa network	95.0	2	3	3.0	3.0						
+upn	95.0	0	0	1.0	0.0	2.0	2.0				
+cbs	95.0	2	2	1.0	0.0	3.0	1.0	2.0			
+mercedes-benz	96.0	1	1	0.0	1.0	1.0	1.0	2.0	1.0	2.0	
+new car	96.0	3	1	2.0	2.0	2.0	3.0	2.0			
+ford transit	96.0	0	1	2.0	3.0						
+ford motor company	96.0	2	2	2.0	1.0	2.0	1.0	2.0			
+audi	96.0	2	2	0.0	0.0	1.0	1.0	1.0			
+truck	96.0	3	3	2.0	1.0	1.0	3.0	1.0			
+car	96.0	2	3	3.0	2.0	3.0	3.0	2.0			
+pickup truck	96.0	3	3	2.0	1.0	3.0					
+drivetrain	96.0	1	2	1.0	1.0	1.0	1.0				
+ford mustang	96.0	2	2	1.0	2.0	2.0	3.0	1.0	2.0		
+honda civic	96.0	1	3	1.0	2.0	2.0	0.0	3.0			
+v8 engine	96.0	2	2	1.0	0.0	2.0					
+chevrolet	96.0	1	3	1.0	0.0	0.0	0.0				
+front-wheel drive	96.0	0	2	2.0	3.0						
+volkswagen beetle	96.0	2	1	1.0	3.0	0.0	1.0	2.0	2.0		
+four-wheel drive	96.0	2	2	3.0	3.0	3.0	3.0	2.0	2.0	3.0	
+station wagon	96.0	1	1	1.0	1.0	2.0	2.0				
+honda civic (ninth generation)	96.0	3	1	2.0	1.0	2.0	1.0	1.0	0.0		
+volkswagen	96.0	2	1	2.0	1.0	1.0	1.0	1.0			
+boeing 757	97.0	1	2	3.0	2.0	0.0	1.0	0.0			
+non-stop flight	97.0	1	2	0.0	2.0	1.0	2.0	1.0	1.0	2.0	
+pan american world airways	97.0	1	3	2.0	2.0	2.0	2.0	2.0	1.0		
+boeing 767	97.0	2	0	1.0	2.0	0.0	3.0	2.0			
+douglas dc-3	97.0	3	1	0.0	1.0	2.0	0.0	1.0			
+airplane	97.0	2	2	3.0	2.0	2.0	3.0	2.0			
+boeing	97.0	2	1	2.0	0.0	1.0	2.0	2.0	2.0	1.0	
+aircraft	97.0	1	1	3.0	2.0	3.0	1.0				
+air traffic control	97.0	0	0	2.0	1.0						
+boeing 747	97.0	1	2	1.0	2.0	1.0	2.0	2.0	2.0	2.0	
+boeing 777	97.0	2	1	1.0	1.0	0.0	2.0	1.0			
+turboprop	97.0	2	1	2.0	1.0	2.0	1.0	1.0			
+airline	97.0	0	2	0.0	2.0	3.0					
+boeing 707	97.0	2	3	1.0	1.0	2.0	2.0	2.0	2.0	1.0	
+boeing 747-400	97.0	1	2	1.0	1.0	1.0	1.0				
+boeing 737	97.0	3	2	1.0	2.0	1.0	2.0	2.0	3.0		
+boeing 727	97.0	1	1	1.0	2.0	3.0					
+aviation	97.0	3	2	2.0	1.0	1.0	2.0				
+airliner	97.0	2	3	2.0	2.0	2.0	3.0	3.0			
+financial market	98.0	3	2	2.0	3.0	2.0	3.0				
+the financial	98.0	2	3	1.0	2.0	1.0					
+foreign exchange market	98.0	1	2	1.0	2.0	2.0	1.0	1.0	2.0		
+financial services	98.0	3	2	2.0	3.0	2.0	2.0	3.0			
+mortgage loan	98.0	3	3	2.0	2.0	2.0	3.0	2.0			
+money market	98.0	3	0	0.0	2.0	3.0	3.0				
+government debt	98.0	2	3	1.0	3.0	1.0	2.0				
+financial institution	98.0	2	2	3.0	3.0	3.0					
+investment	98.0	2	1	3.0	2.0	1.0	1.0				
+bank	98.0	3	3	3.0	2.0	3.0	1.0	3.0	3.0		
+financial system	98.0	3	2	2.0	3.0	1.0	2.0				
+finance	98.0	3	3	2.0	3.0	3.0					
+stock market	98.0	3	3	2.0	2.0	2.0	2.0	1.0			
+deposit insurance	98.0	3	3	2.0	2.0						
+central bank	98.0	2	1	3.0	2.0	2.0	1.0				
+private banking	98.0	2	2	3.0	2.0	2.0	1.0	2.0			
+capital market	98.0	0	3	3.0	3.0						
+monetary policy	98.0	2	3	2.0	2.0	3.0	3.0				
+goldman sachs	98.0	2	1	2.0	2.0	1.0	2.0	1.0			
+self-employment	99.0	2	1	1.0	3.0	2.0	3.0	2.0			
+job	99.0	2	2	3.0	0.0	0.0					
+union shop	99.0	1	1	3.0	0.0	1.0					
+collective bargaining	99.0	1	2	1.0	2.0	1.0	0.0	0.0			
+unemployment benefits	99.0	2	3	2.0	2.0	1.0	1.0	1.0	3.0	1.0	1.0
+payroll	99.0	2	2	2.0	2.0	2.0	1.0	3.0			
+bargaining unit	99.0	0	0	1.0	1.0	2.0	1.0				
+salary	99.0	1	2	2.0	2.0						
+strike action	99.0	1	1	1.0	2.0	2.0	1.0	2.0			
+living wage	99.0	3	2	2.0	2.0	0.0					
+employment	99.0	2	1	3.0	3.0	2.0	3.0	2.0	2.0	3.0	
+wage	99.0	2	2	3.0	3.0	1.0	1.0				
+employment contract	99.0	3	3	2.0	3.0	3.0	2.0	3.0			
+laborer	99.0	3	2	3.0	2.0	2.0	3.0	3.0			
+trade union	99.0	3	3	2.0	2.0	1.0	2.0				
+severance package	99.0	0	0	0.0	2.0	0.0					
+pension	99.0	2	2	1.0	0.0	2.0	2.0	1.0			
+independent contractor	99.0	2	2	3.0	2.0	1.0	1.0	1.0			
+workplace	99.0	3	3	2.0	2.0						
+john mccain	100.0	1	3	3.0	1.0	2.0	2.0	1.0	2.0		
+joe lieberman	100.0	2	2	2.0	2.0	2.0	2.0	2.0	2.0		
+ron paul	100.0	1	0	1.0	2.0	2.0	1.0				
+howard dean	100.0	1	1	1.0	0.0						
+bob dole	100.0	2	2	0.0	0.0	0.0					
+state senator	100.0	3	0	2.0	1.0	2.0	2.0				
+george w. bush	100.0	1	2	3.0	3.0	3.0	3.0				
+lloyd bentsen	100.0	1	0	1.0	0.0	0.0	3.0	3.0			
+rick perry	100.0	1	1	0.0	3.0	0.0	1.0				
+ross perot	100.0	0	0	1.0	1.0	1.0	1.0	1.0	1.0		
+michael dukakis	100.0	1	0	1.0	3.0	0.0	1.0				
+conservative democrat	100.0	2	2	2.0	2.0						
+walter mondale	100.0	1	2	1.0	2.0	0.0	1.0				
+george h. w. bush	100.0	2	2	2.0	1.0	2.0	3.0	3.0	3.0		
+democratic party (united states)	100.0	1	2	2.0	1.0	0.0	1.0	2.0	0.0		
+write-in candidate	100.0	3	3	1.0	2.0	0.0					
+mitt romney	100.0	1	1	2.0	1.0	1.0	1.0	3.0	1.0	2.0	
+running mate	100.0	0	0	0.0	1.0	2.0					
+presidential nominee	100.0	2	3	3.0	3.0	3.0					
+college basketball	101.0	3	2	0.0	1.0						
+head coach	101.0	1	2	2.0	2.0	2.0					
+penn state nittany lions	101.0	1	0	0.0	2.0	2.0					
+national football league	101.0	1	2	1.0	3.0	1.0	2.0	2.0			
+ucla bruins	101.0	0	1	0.0	0.0						
+connecticut huskies	101.0	0	1	0.0	2.0	1.0	3.0	0.0	0.0	1.0	3.0
+winning streak (sports)	101.0	1	1	1.0	2.0	2.0	2.0	1.0	1.0	1.0	
+player-coach	101.0	3	0	2.0	3.0	3.0					
+professional football (gridiron)	101.0	1	2	1.0	2.0	3.0	3.0				
+exhibition game	101.0	1	1	1.0	2.0	2.0	3.0	1.0			
+football team	101.0	3	2	2.0	3.0	2.0	3.0	3.0	2.0		
+the first team	101.0	1	2	2.0	2.0	3.0	1.0				
+basketball	101.0	1	1	0.0	2.0	0.0	1.0				
+perfect season	101.0	2	2	2.0	3.0	1.0	2.0	1.0	1.0	1.0	
+college football	101.0	1	3	2.0	1.0	3.0	3.0	3.0	3.0	3.0	3.0
+playoffs	101.0	2	2	2.0	2.0	0.0	3.0				
+kentucky wildcats	101.0	0	2	1.0	1.0	1.0	2.0	3.0			
+starting lineup	101.0	1	1	0.0	2.0						
+michigan wolverines	101.0	1	1	2.0	1.0	3.0	0.0				
+grand jury	102.0	2	2	3.0	0.0						
+inspector general	102.0	1	1	2.0	3.0	3.0	1.0				
+special agent	102.0	2	2	3.0	0.0	2.0	3.0	3.0			
+subpoena	102.0	2	1	1.0	1.0	1.0	0.0				
+criminal investigation	102.0	3	3	3.0	1.0						
+special prosecutor	102.0	2	2	2.0	3.0	1.0	3.0	1.0			
+expert witness	102.0	1	1	3.0	2.0	0.0	2.0				
+state prosecutor	102.0	0	2	2.0	3.0						
+deputy attorney general	102.0	2	2	1.0	1.0						
+prosecutor	102.0	1	3	1.0	2.0	3.0	0.0	1.0			
+suspect	102.0	0	0	3.0	3.0	3.0					
+united states attorney	102.0	0	2	2.0	2.0	2.0					
+whistleblower	102.0	1	0	1.0	0.0	0.0	2.0	1.0			
+district attorney	102.0	3	1	2.0	1.0	1.0	1.0	2.0	3.0		
+indictment	102.0	0	2	1.0	1.0						
+attorney general	102.0	3	2	1.0	1.0	3.0	2.0	3.0	2.0		
+police	102.0	2	2	3.0	2.0	1.0	1.0	1.0			
+federal bureau of investigation	102.0	2	3	2.0	2.0	3.0	1.0	2.0			
+informant	102.0	2	1	2.0	3.0	0.0	1.0	0.0			
+sustainable agriculture	103.0	2	2	3.0	2.0	3.0					
+crop rotation	103.0	1	2	1.0	1.0	3.0					
+sugarcane	103.0	1	0	1.0	0.0	1.0					
+pasture	103.0	2	1	1.0	1.0	2.0	2.0				
+cereal	103.0	1	0	1.0	1.0	2.0	0.0				
+animal feed	103.0	3	2	1.0	2.0	2.0	3.0	2.0	2.0	2.0	
+crop	103.0	2	2	2.0	2.0	1.0	3.0				
+farm	103.0	2	3	2.0	2.0	3.0					
+dairy	103.0	1	1	2.0	2.0	2.0	3.0	1.0			
+intensive farming	103.0	3	2	3.0	2.0	3.0	2.0	1.0			
+cash crop	103.0	2	1	2.0	2.0						
+dairy farming	103.0	3	1	1.0	2.0	2.0	1.0	0.0	1.0	2.0	2.0
+organic farming	103.0	3	3	2.0	1.0	2.0	3.0	3.0			
+agriculture	103.0	3	3	3.0	3.0	3.0	1.0	3.0	3.0		
+vegetable	103.0	2	1	2.0	3.0	2.0	3.0	3.0	3.0		
+livestock	103.0	1	2	1.0	2.0	1.0	0.0				
+maize	103.0	1	3	2.0	2.0						
+fertilizer	103.0	3	2	1.0	3.0	1.0	1.0	1.0	2.0		
+wheat	103.0	2	3	3.0	2.0	2.0	1.0	2.0	2.0		
+northeast china	104.0	2	2	2.0	1.0	2.0					
+taiwan	104.0	0	0	2.0	2.0	1.0	2.0	0.0			
+kuomintang	104.0	1	0	1.0	2.0	1.0	2.0				
+hainan	104.0	2	1	1.0	1.0	1.0	2.0	1.0	2.0		
+fujian	104.0	1	2	1.0	1.0	1.0	2.0	2.0			
+jiangsu	104.0	2	1	1.0	2.0	2.0	1.0	2.0			
+taipei	104.0	2	1	0.0	0.0	0.0	1.0	0.0	1.0	1.0	2.0
+mainland china	104.0	1	1	2.0	3.0	1.0	2.0				
+japan	104.0	2	1	3.0	1.0	0.0	0.0				
+chinese civil war	104.0	0	1	2.0	2.0	3.0	2.0	3.0	2.0	0.0	
+kaohsiung	104.0	1	1	2.0	2.0	0.0	0.0	1.0			
+china	104.0	3	3	1.0	3.0	3.0	3.0	2.0	1.0	3.0	
+guangdong	104.0	1	1	2.0	1.0	1.0	2.0	2.0			
+beijing	104.0	2	3	2.0	2.0	2.0	3.0				
+south korea	104.0	0	0	1.0	1.0						
+zhejiang	104.0	1	2	2.0	2.0	3.0					
+nanjing	104.0	1	1	0.0	1.0	2.0	1.0	0.0			
+korea	104.0	1	1	2.0	0.0	0.0					
+tianjin	104.0	1	2	2.0	1.0	1.0	2.0				
+salad	105.0	1	2	1.0	2.0	3.0	1.0	2.0	0.0		
+soy sauce	105.0	0	2	1.0	2.0	1.0	2.0	0.0	0.0	1.0	1.0
+tomato sauce	105.0	3	2	3.0	2.0	1.0					
+gravy	105.0	0	0	3.0	2.0	2.0	3.0	1.0	2.0	2.0	
+barbecue sauce	105.0	3	1	2.0	1.0	3.0	1.0	2.0			
+coconut chutney	105.0	0	1	2.0	0.0	0.0	0.0				
+fish sauce	105.0	3	2	2.0	2.0						
+nước chấm	105.0	1	3	0.0	0.0						
+dessert	105.0	0	1	0.0	0.0	1.0	0.0	3.0	1.0	3.0	1.0
+pasta	105.0	2	1	0.0	2.0	1.0	1.0	2.0			
+ketchup	105.0	0	1	0.0	3.0	1.0	0.0	1.0			
+syrup	105.0	1	2	1.0	0.0	2.0	0.0	1.0			
+condiment	105.0	1	3	2.0	1.0	0.0	3.0	2.0			
+coconut milk	105.0	1	0	1.0	1.0	1.0	2.0	0.0			
+garlic	105.0	1	0	1.0	2.0						
+broth	105.0	2	1	1.0	3.0	0.0	0.0				
+black pepper	105.0	1	0	1.0	2.0	2.0	1.0				
+seasoning	105.0	3	1	1.0	2.0	0.0	2.0	0.0	2.0	3.0	
+mayonnaise	105.0	2	1	1.0	2.0	0.0	1.0	0.0			
+melanoma	106.0	1	2	1.0	3.0	0.0					
+biomarker	106.0	2	2	1.0	2.0	1.0	1.0	1.0	3.0	1.0	
+gene therapy	106.0	2	2	3.0	2.0						
+telomerase	106.0	1	1	1.0	2.0	3.0	2.0	1.0			
+gene expression	106.0	2	2	2.0	1.0	2.0	2.0	2.0	1.0	2.0	
+carcinogenesis	106.0	1	1	1.0	1.0	1.0	3.0	3.0	2.0		
+dna methylation	106.0	0	0	1.0	2.0	1.0					
+in vivo	106.0	0	0	0.0	3.0	0.0	1.0	1.0			
+molecular biology	106.0	1	1	2.0	0.0	2.0	1.0				
+autoimmunity	106.0	1	2	1.0	2.0	1.0	3.0	1.0			
+genetics	106.0	2	3	2.0	3.0	2.0					
+nervous system	106.0	0	0	1.0	1.0	3.0	2.0				
+brain	106.0	1	0	2.0	2.0	0.0	1.0	1.0			
+immune system	106.0	0	0	0.0	2.0	1.0					
+apoptosis	106.0	1	2	1.0	2.0	0.0					
+human brain	106.0	1	2	2.0	1.0	3.0	2.0	2.0	3.0	1.0	
+zebrafish	106.0	0	2	0.0	1.0	0.0					
+cell culture	106.0	1	2	2.0	0.0	0.0					
+antibody	106.0	1	1	1.0	2.0						
+football team	107.0	0	0	1.0	1.0	0.0	1.0	1.0	0.0		
+game	107.0	2	3	3.0	3.0						
+world series	107.0	0	1	0.0	2.0	3.0	1.0				
+the first team	107.0	1	1	1.0	1.0	3.0	1.0				
+winning streak (sports)	107.0	0	0	2.0	3.0						
+playoff format	107.0	2	0	1.0	2.0	2.0	1.0	1.0			
+starting lineup	107.0	1	2	1.0	0.0	2.0	1.0	2.0	2.0	0.0	
+basketball	107.0	2	0	3.0	0.0	1.0	0.0	0.0			
+all-star game	107.0	1	3	1.0							
+one-game playoff	107.0	2	2	1.0	1.0	2.0	1.0	3.0	2.0		
+playoffs	107.0	1	2	1.0	2.0	3.0	2.0	1.0	3.0	1.0	1.0
+football	107.0	1	0	1.0	0.0	0.0	0.0	0.0	1.0	2.0	
+perfect season	107.0	0	2	1.0	1.0	1.0	1.0				
+professional sports	107.0	2	2	2.0	1.0	2.0	1.0				
+player-coach	107.0	2	3	2.0	1.0	1.0	2.0				
+extra innings	107.0	2	2	3.0	0.0						
+tournament	107.0	1	1	3.0	1.0	2.0					
+exhibition game	107.0	1	2	1.0	2.0	3.0	0.0	1.0			
+championship	107.0	2	2	3.0	1.0	2.0	2.0	2.0	1.0		
+luke donald	108.0	2	2	2.0	1.0	0.0	0.0	0.0	2.0		
+tournament	108.0	1	1	2.0	0.0	3.0	2.0				
+golf	108.0	3	3	2.0	3.0	3.0	2.0	3.0	3.0		
+colin montgomerie	108.0	1	1	3.0	3.0	2.0	0.0	1.0			
+stroke play	108.0	1	2	2.0	3.0						
+playoffs	108.0	0	0	2.0	2.0	0.0					
+match play	108.0	2	2	1.0	2.0	0.0					
+perfect season	108.0	2	1	1.0	3.0	1.0	1.0	1.0			
+championship	108.0	2	2	2.0	3.0	1.0	3.0				
+the first team	108.0	1	1	2.0	1.0	1.0	2.0	2.0			
+masters tournament	108.0	2	2	2.0	1.0						
+hat-trick	108.0	0	2	1.0	0.0	0.0	2.0	1.0			
+winning streak (sports)	108.0	1	1	2.0	2.0	2.0	2.0	1.0			
+ryder cup	108.0	2	2	1.0	3.0	2.0					
+presidents cup	108.0	2	2	1.0	3.0	3.0	2.0	3.0	1.0		
+rory mcilroy	108.0	0	1	1.0	2.0	1.0					
+national team championship	108.0	1	1	0.0	2.0	3.0					
+darren clarke	108.0	1	3	2.0	2.0	3.0					
+challenge cup	108.0	3	2	1.0	1.0	3.0	1.0				
+extra innings	109.0	2	0	1.0	2.0	1.0	0.0	2.0			
+kansas city royals	109.0	1	2	2.0	1.0	1.0	1.0	1.0	1.0	1.0	
+cleveland indians	109.0	3	1	1.0	1.0	1.0	3.0	1.0	2.0		
+boston red sox	109.0	0	2	0.0	2.0						
+san francisco giants	109.0	1	1	1.0	1.0	0.0	0.0				
+david ortiz	109.0	0	2	1.0	2.0	2.0	2.0				
+tampa bay rays	109.0	1	1	1.0	1.0	0.0	0.0	0.0	1.0		
+toronto blue jays	109.0	0	2	0.0	2.0	2.0	2.0				
+new york yankees	109.0	3	2	3.0	3.0	2.0	0.0	2.0	0.0		
+no-hitter	109.0	1	2	3.0	2.0	2.0	1.0	1.0	1.0		
+cincinnati reds	109.0	0	2	0.0	0.0						
+josh beckett	109.0	0	1	1.0	0.0	1.0	0.0	0.0	1.0		
+home run	109.0	0	1	1.0	1.0	1.0	2.0	1.0	3.0	2.0	
+jason varitek	109.0	3	1	2.0	3.0	0.0	0.0	2.0	1.0		
+atlanta braves	109.0	1	1	1.0	1.0	2.0	2.0	1.0			
+2003 world series	109.0	0	0	3.0	0.0	0.0	2.0	0.0			
+johnny bench	109.0	0	2	0.0	2.0	1.0	1.0				
+houston astros	109.0	0	2	0.0	1.0	3.0	1.0				
+detroit tigers	109.0	2	1	3.0	1.0						
+air national guard	110.0	3	3	2.0	2.0	2.0	2.0	3.0	2.0	2.0	1.0
+military	110.0	3	3	3.0	2.0	2.0	3.0	3.0	3.0	2.0	
+aerial warfare	110.0	3	3	3.0	2.0						
+chemical warfare	110.0	2	1	3.0	3.0	3.0	1.0				
+strategic bombing	110.0	3	2	2.0	1.0	1.0	2.0	1.0			
+army	110.0	3	1	2.0	3.0						
+united states army	110.0	2	2	2.0	3.0	1.0					
+special forces	110.0	3	1	2.0	2.0	3.0	2.0				
+military aircraft	110.0	3	3	2.0	2.0	3.0	2.0	3.0	2.0		
+navy	110.0	2	0	0.0	1.0	2.0	2.0	2.0			
+iraqi army	110.0	1	2	1.0	2.0	1.0					
+nato	110.0	0	0	2.0	3.0	1.0	1.0				
+close air support	110.0	1	3	3.0	1.0	2.0					
+air force	110.0	3	0	3.0	2.0	2.0	0.0	3.0	1.0		
+united states marine corps	110.0	2	2	1.0	3.0	3.0	3.0	0.0			
+armed forces	110.0	2	3	2.0	3.0	2.0	2.0	3.0			
+commander-in-chief	110.0	2	0	2.0	2.0	2.0	1.0	2.0	2.0		
+tactical air command	110.0	3	2	2.0	2.0	3.0	1.0	2.0			
+military strategy	110.0	2	3	3.0							
+tournament	111.0	2	2	2.0	3.0	2.0					
+all-star game	111.0	2	2	0.0	2.0	0.0					
+ucla bruins	111.0	1	2	2.0	1.0	3.0	1.0				
+the first team	111.0	1	1	1.0	2.0	1.0	2.0				
+game	111.0	1	2	1.0	1.0	3.0					
+playoffs	111.0	2	1	2.0	2.0	1.0	0.0				
+basketball	111.0	1	2	1.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+played	111.0	3	2	2.0	1.0	3.0	0.0	1.0			
+starting lineup	111.0	1	0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	
+football team	111.0	3	2	2.0	1.0	3.0	2.0	2.0	1.0	2.0	3.0
+oklahoma sooners	111.0	3	2	2.0	2.0	0.0	2.0	1.0	1.0	2.0	
+championship	111.0	3	2	2.0	2.0	3.0	2.0				
+head coach	111.0	0	0	2.0	2.0	1.0					
+college basketball	111.0	1	2	3.0	1.0	0.0	2.0	2.0			
+the last game	111.0	0	0	3.0	2.0	3.0					
+dallas texans (ushl)	111.0	0	2	2.0	0.0	2.0	0.0				
+perfect season	111.0	1	2	2.0	2.0	3.0	0.0				
+exhibition game	111.0	3	1	1.0	2.0	2.0	2.0	2.0			
+player-coach	111.0	2	1	2.0	3.0	3.0	2.0				
+rainbow trout	112.0	1	0	0.0	0.0	1.0					
+fish	112.0	3	2	2.0	1.0	1.0	1.0				
+deer	112.0	1	0	1.0	0.0	1.0	0.0	1.0	1.0		
+waterfowl	112.0	1	1	1.0	2.0	0.0	1.0				
+fishing	112.0	3	3	3.0	3.0	1.0					
+crayfish	112.0	1	1	1.0	1.0	3.0	3.0	1.0	1.0		
+salmon	112.0	0	3	2.0	2.0	1.0	2.0	2.0	3.0		
+dugong	112.0	2	0	2.0	1.0	1.0	2.0				
+shrimp	112.0	1	2	1.0							
+shellfish	112.0	0	1	0.0	0.0	1.0	1.0	0.0			
+brackish water	112.0	0	0	1.0	1.0	0.0	1.0	1.0	0.0		
+freshwater fish	112.0	2	2	2.0	2.0	2.0	2.0				
+sea	112.0	1	1	1.0	1.0	2.0	3.0				
+tilapia	112.0	0	2	1.0	2.0	1.0	0.0				
+pelagic fish	112.0	1	1	2.0	1.0	1.0	2.0	1.0	1.0	1.0	2.0
+brown trout	112.0	1	3	2.0	1.0	1.0	1.0	0.0	0.0		
+trout	112.0	3	2	3.0	0.0	3.0	2.0	2.0	2.0	3.0	
+turtle	112.0	1	2	2.0	2.0	2.0	2.0	1.0			
+mackerel	112.0	1	1	1.0	2.0	2.0	2.0	1.0	1.0		
+networking	113.0	0	0	3.0	0.0	3.0	0.0				
+software	113.0	3	2	1.0	3.0	1.0					
+computer network	113.0	3	3	3.0	2.0	3.0	2.0	2.0			
+cross-platform	113.0	0	1	0.0	1.0	2.0	1.0				
+peer-to-peer	113.0	3	2	1.0	2.0	1.0	2.0	2.0	0.0		
+intranet	113.0	1	2	2.0	2.0	1.0	0.0	0.0			
+computing	113.0	2	3	2.0	1.0	3.0	3.0	3.0	3.0	2.0	
+instant messaging	113.0	2	2	2.0	2.0	1.0	1.0	2.0	1.0		
+thin client	113.0	1	0	0.0	2.0	2.0	1.0	0.0			
+personal computer	113.0	1	2	3.0	2.0	1.0	1.0	1.0	2.0		
+computer	113.0	2	2	2.0	3.0	3.0					
+web application	113.0	2	2	1.0	2.0	3.0	2.0	3.0			
+commercial software	113.0	2	2	3.0	2.0	3.0	2.0				
+cloud computing	113.0	2	1	2.0	1.0	3.0	3.0	1.0			
+internet	113.0	3	2	2.0	1.0	1.0					
+linux	113.0	2	2	3.0	2.0	0.0	2.0				
+open source	113.0	2	2	3.0	2.0	2.0	2.0	2.0			
+operating system	113.0	3	3	2.0	1.0						
+sun microsystems	113.0	0	0	2.0	0.0						
+literary editor	114.0	3	2	2.0	2.0	3.0	1.0	0.0	2.0	2.0	
+publishing	114.0	3	3	3.0	1.0	3.0	3.0	3.0			
+biography	114.0	2	3	3.0	1.0	0.0	1.0	0.0			
+book review	114.0	1	3	2.0	2.0	2.0	3.0	2.0	1.0		
+the novel	114.0	3	1	3.0	3.0	0.0					
+novel	114.0	2	3	3.0	2.0	3.0	2.0	1.0			
+the writer	114.0	3	1	2.0	3.0	3.0	3.0	2.0	2.0		
+book	114.0	3	3	2.0	1.0	3.0	1.0				
+writer	114.0	3	1	2.0	2.0	2.0	3.0	2.0	2.0		
+novelist	114.0	2	2	3.0	2.0	3.0	1.0	3.0	2.0		
+essay	114.0	2	0	2.0	2.0	3.0	2.0	3.0	2.0		
+pen name	114.0	1	1	2.0	3.0	1.0					
+author	114.0	2	3	2.0	2.0	3.0	0.0	0.0			
+literature	114.0	0	0	2.0	3.0	1.0					
+non-fiction	114.0	1	2	1.0	2.0	3.0	3.0	3.0	1.0		
+prose	114.0	3	3	0.0	2.0	1.0	2.0				
+journal	114.0	1	2	3.0	2.0	3.0	2.0				
+fiction	114.0	1	2	2.0	1.0	2.0	2.0	2.0			
+short story	114.0	1	1	2.0	0.0						
+album	115.0	2	3	1.0	1.0	2.0	2.0				
+disco	115.0	2	1	2.0	3.0	2.0	3.0				
+american rock	115.0	2	1	1.0	2.0	2.0	3.0	2.0	2.0		
+pop rock	115.0	3	2	3.0	3.0	2.0	2.0	3.0			
+pop music	115.0	2	2	2.0	2.0	3.0	3.0				
+british rock	115.0	2	2	1.0							
+discography (jill johnson album)	115.0	1	0	3.0	0.0	1.0	1.0				
+maroon 5	115.0	3	0	0.0	2.0	3.0					
+synthpop	115.0	1	1	1.0	0.0	3.0					
+love songs (nat king cole album)	115.0	2	1	3.0	0.0						
+singer-songwriter	115.0	1	3	3.0	1.0	1.0	2.0	2.0			
+rock music	115.0	2	1	2.0	3.0	3.0	0.0	0.0			
+third album	115.0	1	2	2.0	1.0	1.0	3.0	1.0	1.0	2.0	
+music video	115.0	2	1	2.0	2.0	1.0					
+progressive rock	115.0	1	0	1.0	2.0	2.0	1.0	2.0	1.0	0.0	1.0
+cover songs	115.0	1	2	1.0	2.0						
+cover version	115.0	2	1	2.0							
+the band	115.0	2	0	0.0	2.0	3.0					
+alternative rock	115.0	2	1	1.0	2.0	3.0	3.0	1.0			
+troubled asset relief program	116.0	3	2	3.0	2.0	2.0	0.0				
+tax rate	116.0	0	0	3.0	3.0	3.0					
+government revenue	116.0	0	0	1.0	2.0	3.0					
+capital gains tax	116.0	2	1	1.0	2.0	3.0	3.0				
+investment	116.0	2	2	3.0	1.0	1.0					
+government spending	116.0	3	3	2.0	2.0	3.0	2.0				
+subsidy	116.0	0	3	3.0	1.0	1.0	1.0	1.0			
+student loan	116.0	1	1	1.0	1.0	3.0	1.0	1.0			
+tax revenue	116.0	3	2	1.0	1.0	3.0	2.0	3.0	2.0		
+fiscal year	116.0	3	1	3.0	1.0	2.0	2.0	2.0	2.0	1.0	1.0
+corporate tax	116.0	0	0	3.0	2.0	0.0	2.0	2.0	0.0		
+budget	116.0	3	1	3.0	3.0	3.0					
+value-added tax	116.0	2	3	1.0	2.0	2.0	2.0	2.0			
+tax	116.0	0	3	0.0	1.0	3.0	3.0				
+funding	116.0	2	2	3.0	1.0	2.0	1.0				
+taxpayer	116.0	2	2	3.0	2.0	3.0	2.0	3.0	2.0		
+income tax	116.0	2	3	3.0	2.0	3.0					
+revenue	116.0	3	2	1.0	1.0	3.0	1.0	1.0			
+capital expenditure	116.0	2	0	1.0	1.0	1.0	2.0				
+bobby labonte	117.0	0	1	1.0	0.0	2.0	0.0	3.0			
+chip ganassi racing	117.0	0	2	3.0							
+richard childress racing	117.0	2	2	0.0	1.0	1.0	2.0	1.0	2.0		
+championship	117.0	2	3	3.0	1.0	2.0	0.0	0.0			
+dario franchitti	117.0	3	2	3.0	1.0	1.0	1.0	0.0	1.0	1.0	
+juan pablo montoya	117.0	1	3	2.0	1.0	3.0	0.0	1.0			
+rusty wallace	117.0	0	2	1.0	1.0	1.0	1.0	2.0	1.0	0.0	
+joe gibbs racing	117.0	3	2	3.0	1.0	3.0	3.0	3.0	3.0	2.0	
+jeff gordon	117.0	2	2	2.0	0.0	2.0	0.0				
+team penske	117.0	1	2	2.0	1.0	2.0					
+scott dixon	117.0	1	1	2.0	2.0	2.0	2.0				
+camping world truck series	117.0	0	2	2.0	1.0	2.0	1.0				
+hendrick motorsports	117.0	1	2	2.0	2.0	0.0	0.0				
+scott speed	117.0	2	1	1.0							
+sprint cup series	117.0	1	2	2.0	1.0	3.0	1.0	3.0	0.0	1.0	
+milwaukee mile	117.0	0	0	1.0							
+marcos ambrose	117.0	1	0	2.0							
+tony stewart	117.0	3	1	3.0	3.0	1.0	0.0	2.0	0.0		
+dale jarrett	117.0	0	1	1.0	0.0	1.0	1.0	0.0	0.0		
+florida keys	118.0	1	2	1.0	1.0	2.0	1.0	2.0			
+hurricane isabel	118.0	2	1	1.0	2.0	2.0	2.0				
+hurricane irene	118.0	3	1	3.0	1.0	2.0	2.0				
+landfall	118.0	0	1	0.0	0.0	2.0	1.0	1.0			
+hurricane charley	118.0	2	2	3.0	3.0	2.0	3.0	2.0	3.0		
+hurricane wilma	118.0	1	2	3.0	3.0	3.0					
+hurricane bob (1985)	118.0	0	2	2.0	3.0						
+outer banks	118.0	0	0	0.0	0.0	0.0	2.0	0.0	0.0		
+hurricane georges	118.0	2	3	2.0	3.0	2.0	3.0	2.0	2.0		
+hurricane andrew	118.0	2	2	2.0	3.0						
+hurricane dennis (1999)	118.0	3	2	2.0	1.0	2.0	0.0	2.0			
+cape lookout (north carolina)	118.0	1	2	1.0	1.0	0.0	2.0	1.0			
+tropical storm beryl (2012)	118.0	2	1	2.0	3.0						
+hurricane donna	118.0	2	3	0.0	2.0	2.0					
+tropical storm debby (2012)	118.0	3	1	2.0	2.0	3.0	1.0	1.0			
+storm surge	118.0	0	0	2.0	2.0						
+cape hatteras	118.0	0	1	1.0							
+florida panhandle	118.0	1	2	1.0	2.0	2.0	1.0	0.0	3.0		
+hurricane bob	118.0	0	2	2.0	2.0	2.0	2.0	1.0			
+treason	119.0	1	1	1.0	0.0	0.0	1.0				
+resisting arrest	119.0	2	3	1.0	2.0	1.0	2.0				
+attempted murder	119.0	1	2	3.0	3.0	1.0					
+false confession	119.0	1	1	2.0	1.0	1.0	2.0	1.0	0.0	1.0	
+murder	119.0	3	3	2.0	2.0	0.0	0.0				
+acquittal	119.0	1	2	0.0							
+prosecutor	119.0	2	1	1.0							
+kidnapping	119.0	2	1	2.0	1.0	3.0	2.0				
+arrest	119.0	3	3	1.0	1.0	2.0					
+capital murder	119.0	0	0	3.0	3.0						
+bail	119.0	2	2	2.0	1.0	1.0	0.0	1.0	0.0	1.0	2.0
+manslaughter	119.0	3	1	3.0	2.0	2.0	3.0	2.0	3.0		
+accomplice	119.0	1	1	1.0	2.0	1.0	2.0	3.0	1.0	2.0	
+suspect	119.0	1	2	1.0	2.0	1.0	2.0	3.0			
+indictment	119.0	3	1	2.0	2.0	1.0	2.0	1.0	1.0		
+miscarriage of justice	119.0	1	1	1.0	3.0	1.0	2.0				
+plea bargain	119.0	2	3	1.0	0.0	2.0	2.0	2.0	2.0	1.0	
+robbery	119.0	2	1	3.0	1.0	1.0					
+arrest warrant	119.0	1	2	3.0	3.0	1.0	2.0	2.0			
+leader of the opposition	120.0	2	2	2.0	2.0	2.0	1.0				
+conservatism	120.0	2	2	0.0	3.0	2.0					
+national unity government	120.0	1	2	2.0	2.0	2.0	3.0	2.0			
+democratic party (united states)	120.0	2	2	3.0	2.0	3.0	2.0				
+ruling party	120.0	0	1	0.0	2.0	2.0	1.0				
+socialism	120.0	1	2	2.0	1.0	2.0					
+political party	120.0	3	3	2.0	2.0						
+prime minister	120.0	2	3	2.0	2.0	2.0	1.0	3.0			
+parliamentary leader	120.0	2	2	2.0	0.0	1.0	3.0	1.0			
+democratic socialism	120.0	2	2	2.0	2.0	1.0	2.0	2.0			
+politics	120.0	3	3	3.0	3.0	2.0	3.0	2.0			
+republican party (turkey)	120.0	2	1	0.0	2.0	2.0	2.0	2.0			
+party leader	120.0	3	0	1.0	0.0	1.0					
+government	120.0	3	2	3.0	3.0	3.0	3.0	2.0	3.0	3.0	
+liberalism	120.0	2	2	1.0	1.0	2.0	1.0	1.0			
+social democracy	120.0	2	2	2.0	2.0	2.0	3.0				
+head of state	120.0	3	3	2.0	2.0	3.0	2.0				
+national unity	120.0	2	2	1.0	2.0	2.0	2.0				
+coalition government	120.0	1	2	2.0	2.0	2.0	1.0	2.0	2.0		
+boston university	121.0	1	2	2.0	0.0	3.0	1.0	1.0	1.0	3.0	2.0
+university	121.0	3	3	2.0	3.0	2.0	3.0	3.0	2.0	2.0	
+graduate	121.0	3	3	3.0	2.0	3.0					
+stanford university	121.0	2	1	2.0	2.0	2.0	1.0				
+college	121.0	3	2	3.0	3.0	2.0	2.0	3.0	3.0		
+new york university	121.0	0	2	0.0	2.0	3.0					
+harvard university	121.0	3	2	3.0	2.0	3.0	2.0	3.0			
+graduate school	121.0	3	2	3.0	2.0	3.0	3.0	2.0	2.0		
+high school	121.0	1	2	2.0	2.0	1.0	2.0	1.0			
+princeton university	121.0	2	2	2.0	1.0	1.0					
+massachusetts institute of technology	121.0	0	0	3.0	0.0	1.0	2.0	0.0			
+university of michigan	121.0	2	2	1.0	2.0	1.0	2.0	3.0	0.0		
+undergraduate degree	121.0	2	1	3.0	1.0	2.0	0.0				
+brown university	121.0	3	3	1.0	1.0	2.0	2.0				
+university of chicago	121.0	2	0	1.0	0.0	2.0	0.0				
+medical school	121.0	2	1	1.0	3.0						
+yale university	121.0	2	2	1.0	2.0	0.0	1.0	2.0			
+amherst college	121.0	3	0	2.0	1.0	1.0	1.0				
+columbia university	121.0	2	2	1.0	1.0	3.0	2.0	0.0			
+haute couture	122.0	1	2	1.0	2.0	2.0	1.0	3.0	2.0		
+fashion	122.0	3	3	2.0	3.0	2.0	3.0	3.0	3.0		
+dress	122.0	3	2	2.0	2.0	3.0	2.0	3.0	3.0		
+fashion design	122.0	3	3	3.0	3.0	3.0	3.0				
+kimono	122.0	1	1	1.0	1.0	3.0	2.0	2.0			
+clothing	122.0	2	3	2.0	2.0	2.0					
+leggings	122.0	0	0	1.0	2.0	3.0	3.0				
+bodysuit	122.0	0	2	0.0	3.0	3.0					
+skirt	122.0	1	2	3.0	1.0	2.0	1.0				
+gown	122.0	2	2	3.0	3.0	1.0	3.0				
+trousers	122.0	1	2	1.0	1.0	1.0	2.0	1.0			
+sportswear (fashion)	122.0	1	2	3.0	1.0	2.0	1.0	2.0			
+alexander mcqueen	122.0	0	2	2.0	1.0	0.0	1.0	0.0			
+french fashion	122.0	2	3	2.0	2.0	3.0	2.0	1.0			
+ready-to-wear	122.0	1	2	1.0	2.0	1.0					
+hairstyle	122.0	1	1	3.0	2.0	3.0	0.0	3.0			
+costume	122.0	2	1	1.0	2.0	2.0	3.0	2.0			
+karl lagerfeld	122.0	2	1	3.0	2.0	2.0					
+blouse	122.0	2	3	2.0	2.0	1.0	2.0	2.0			
+grandchild	123.0	1	2	1.0	1.0	1.0	1.0	2.0	1.0		
+girl	123.0	0	2	1.0	1.0	2.0	1.0				
+toddler	123.0	0	3	0.0	2.0	0.0	0.0				
+birth	123.0	1	2	2.0	2.0	3.0	0.0	1.0			
+mother	123.0	3	2	2.0	2.0	3.0	2.0	1.0	3.0	2.0	2.0
+father	123.0	2	1	3.0	2.0	2.0	1.0				
+sister	123.0	1	1	3.0	1.0	2.0	1.0	2.0			
+aunt	123.0	0	2	1.0	1.0	1.0	1.0	1.0			
+ten years old	123.0	1	1	1.0	1.0	2.0					
+baby sister	123.0	1	2	1.0	3.0	0.0	1.0	0.0			
+the baby	123.0	2	1	2.0	3.0	0.0	2.0	0.0			
+parenting	123.0	3	3	1.0	2.0	3.0	2.0	1.0			
+only child	123.0	2	2	1.0	1.0						
+foster care	123.0	3	0	0.0	1.0	3.0					
+child	123.0	3	2	2.0	3.0	2.0	1.0	1.0			
+infant	123.0	1	1	2.0	0.0						
+orphan	123.0	0	1	1.0	3.0	2.0	0.0	2.0			
+nanny	123.0	0	3	1.0	1.0	1.0					
+boy	123.0	2	2	2.0	3.0	0.0	0.0				
+only child	124.0	1	1	1.0	0.0	1.0	0.0				
+wife	124.0	2	1	2.0	1.0	2.0	1.0	1.0			
+son-in-law	124.0	0	1	3.0	2.0	1.0	2.0	0.0			
+husband	124.0	1	1	1.0	2.0	2.0	2.0	2.0			
+sister	124.0	2	1	1.0	2.0	1.0	1.0	1.0			
+emma (novel)	124.0	0	0	0.0	0.0	1.0					
+marriage	124.0	1	1	2.0	2.0	2.0	2.0	2.0	3.0	1.0	
+two daughters	124.0	1	1	0.0	1.0	1.0					
+grandchild	124.0	2	1	3.0	2.0	0.0					
+son	124.0	1	2	1.0	2.0	1.0	1.0	1.0			
+cousin	124.0	3	0	1.0	2.0	1.0	1.0	1.0			
+sisters (tv series)	124.0	2	0	2.0	1.0						
+daughter	124.0	2	2	3.0	2.0	2.0	3.0	2.0	1.0	3.0	
+his family	124.0	2	1	2.0	2.0	2.0					
+uncle	124.0	1	0	0.0	1.0	3.0					
+mother	124.0	2	2	2.0	0.0	2.0	3.0	2.0	2.0	2.0	
+their son	124.0	2	2	1.0	2.0	1.0	2.0	1.0			
+aunt	124.0	1	1	1.0	2.0	2.0	1.0	1.0			
+father	124.0	2	1	2.0	3.0	1.0	3.0	3.0	1.0	3.0	
+patio	125.0	1	2	1.0	1.0	1.0	1.0	1.0	2.0	1.0	
+entrance hall	125.0	2	0	3.0	0.0	1.0	1.0				
+panelling	125.0	1	1	2.0	1.0	1.0	2.0	1.0			
+wall	125.0	2	1	2.0	2.0	1.0	3.0				
+porch	125.0	2	0	1.0	2.0	3.0	0.0	0.0			
+bedroom	125.0	1	2	2.0	2.0	0.0	1.0	3.0	3.0		
+roof	125.0	2	2	1.0	0.0	1.0					
+kitchen	125.0	1	0	2.0	3.0	1.0	1.0	2.0	1.0		
+courtyard	125.0	3	2	1.0							
+door	125.0	3	1	2.0	0.0	1.0	2.0	1.0	3.0	2.0	2.0
+living room	125.0	2	2	2.0	0.0	1.0					
+entryway	125.0	1	1	1.0	2.0						
+balcony	125.0	1	2	1.0	0.0	1.0	2.0	1.0			
+floor	125.0	1	1	2.0	3.0	3.0	0.0	0.0			
+dining room	125.0	1	2	1.0	2.0	1.0	2.0	2.0	2.0		
+basement	125.0	1	0	2.0	1.0	1.0	0.0				
+window	125.0	2	2	1.0	2.0	1.0	3.0	2.0	1.0		
+fireplace	125.0	0	0	3.0	3.0	3.0					
+the ceiling	125.0	1	1	1.0	1.0	1.0	1.0	1.0	1.0	2.0	1.0
+super middleweight	126.0	1	2	3.0	3.0	2.0	3.0				
+manny pacquiao	126.0	0	1	2.0	3.0						
+mike tyson	126.0	0	1	1.0	3.0						
+ricky hatton	126.0	2	1	0.0	2.0	1.0	1.0	1.0	2.0		
+professional boxing	126.0	2	3	3.0	1.0	2.0	1.0				
+welterweight	126.0	2	2	3.0	1.0	1.0	0.0	3.0			
+super bantamweight	126.0	2	1	1.0	2.0	3.0	1.0	0.0			
+juan manuel márquez	126.0	2	1	1.0	0.0	1.0	2.0	0.0			
+light welterweight	126.0	3	0	2.0	0.0	1.0					
+wladimir klitschko	126.0	1	1	2.0	0.0	1.0	0.0	1.0			
+light flyweight	126.0	1	1	2.0	2.0	2.0	2.0	3.0	2.0		
+bernard hopkins	126.0	2	1	1.0	0.0	1.0	0.0				
+lennox lewis	126.0	2	3	2.0	1.0	1.0	1.0	2.0			
+roberto durán	126.0	3	1	1.0	0.0	3.0	1.0	2.0			
+james toney	126.0	0	0	3.0	1.0	3.0					
+antonio tarver	126.0	1	0	2.0	2.0	0.0					
+joe calzaghe	126.0	2	1	2.0	2.0	2.0	1.0	0.0			
+light middleweight	126.0	2	2	2.0	3.0	2.0	3.0				
+sugar ray leonard	126.0	3	2	3.0	1.0	1.0	2.0	2.0	1.0	2.0	
+russian civil war	127.0	2	1	2.0	1.0	3.0	2.0	1.0			
+chechnya	127.0	1	1	1.0	0.0	2.0					
+kyrgyzstan	127.0	2	2	1.0	2.0	2.0	1.0				
+ukrainian navy	127.0	2	1	2.0	1.0	2.0	0.0	0.0			
+russo-georgian war	127.0	3	3	1.0	1.0	1.0	3.0	2.0	1.0	1.0	2.0
+aslan maskhadov	127.0	2	1	3.0	1.0	1.0	1.0				
+south ossetia	127.0	0	1	0.0	1.0	2.0					
+abkhazia	127.0	1	0	0.0	0.0	2.0	2.0	0.0	0.0		
+dzhokhar dudayev	127.0	1	2	3.0	0.0	1.0	1.0	1.0			
+russia	127.0	2	2	1.0	3.0	1.0	3.0	2.0			
+russian ground forces	127.0	0	0	3.0	3.0	3.0					
+soviet army	127.0	0	0	2.0	2.0	1.0					
+black sea fleet	127.0	1	2	0.0	2.0	1.0	0.0				
+dagestan	127.0	0	2	0.0	0.0						
+soviet armed forces	127.0	2	2	2.0	3.0	2.0	0.0	2.0			
+vladimir putin	127.0	1	2	1.0	2.0	2.0	1.0				
+ingushetia	127.0	0	1	1.0	0.0	2.0	1.0				
+soviet union	127.0	2	2	2.0	1.0	2.0	1.0				
+grozny	127.0	1	2	1.0	0.0						
+recital	128.0	1	1	2.0	1.0	3.0					
+performing arts	128.0	1	2	2.0	2.0	3.0	3.0	3.0	3.0	2.0	
+opera	128.0	3	3	2.0	3.0	2.0	3.0				
+san francisco ballet	128.0	1	1	1.0	2.0	0.0	1.0				
+music	128.0	2	2	2.0	2.0	3.0					
+ballet	128.0	0	0	3.0	0.0	3.0	0.0				
+contemporary dance	128.0	2	1	2.0	1.0	1.0	2.0				
+new york city opera	128.0	2	1	2.0	2.0	3.0	2.0	2.0			
+artistic director	128.0	1	2	2.0	3.0						
+theatre	128.0	3	3	3.0	3.0	2.0					
+classical music	128.0	1	2	2.0	2.0	1.0					
+drama	128.0	1	2	1.0	2.0	1.0	2.0				
+orchestra	128.0	1	2	1.0							
+musical theatre	128.0	3	3	1.0	3.0	2.0					
+concerto (ballet)	128.0	3	1	2.0	0.0	2.0	1.0				
+repertoire	128.0	0	0	1.0	1.0	1.0	2.0	1.0			
+choreography	128.0	3	3	2.0	3.0	2.0	2.0	2.0	2.0		
+operetta	128.0	2	2	2.0	2.0	2.0	3.0	3.0	2.0	2.0	
+concert performance	128.0	3	2	3.0	2.0	2.0	2.0	3.0	3.0		
+exhibition game	129.0	2	0	2.0	1.0	3.0	3.0	2.0	1.0		
+perfect season	129.0	2	2	2.0	3.0	0.0	1.0				
+basketball	129.0	0	0	1.0	1.0	2.0	0.0	1.0	3.0	2.0	
+playoffs	129.0	2	2	2.0	1.0	3.0	1.0				
+football team	129.0	0	0	2.0	3.0	1.0					
+penalty shootout	129.0	2	2	3.0							
+winning streak (sports)	129.0	2	2	1.0	2.0	2.0	2.0	1.0	0.0	2.0	
+hat-trick	129.0	2	2	1.0	1.0	2.0	1.0	0.0			
+ice hockey	129.0	0	1	2.0	0.0						
+north american soccer league	129.0	3	1	2.0	2.0						
+fifa world cup	129.0	3	3	2.0	1.0	2.0	2.0	2.0	3.0		
+football	129.0	2	2	0.0	3.0	1.0	3.0	3.0	3.0		
+winning goal	129.0	2	1	1.0	1.0	2.0	3.0				
+the first team	129.0	0	2	2.0	1.0						
+penalty shoot-out (association football)	129.0	2	2	2.0	1.0	1.0	2.0	2.0	2.0	3.0	
+goalkeeper	129.0	2	2	1.0	1.0	3.0	1.0				
+association football	129.0	3	3	2.0	3.0	1.0	2.0	3.0	3.0	3.0	
+championship	129.0	1	3	2.0	2.0	2.0	0.0	0.0			
+tournament	129.0	2	2	2.0	2.0	2.0					
+san diego	130.0	2	2	2.0	3.0	3.0	2.0	0.0	1.0		
+san francisco bay area	130.0	3	2	2.0	1.0	2.0	3.0	2.0	2.0	2.0	3.0
+san francisco peninsula	130.0	0	0	1.0	3.0	3.0	3.0				
+berryessa	130.0	0	0	1.0	1.0	0.0	1.0	1.0	1.0	1.0	
+los angeles	130.0	1	1	2.0	0.0	3.0	1.0	1.0			
+san antonio	130.0	2	1	2.0	0.0	1.0	2.0	1.0	2.0		
+san gabriel valley	130.0	2	2	2.0	2.0	1.0	1.0	2.0	2.0	2.0	
+san josé	130.0	1	1	2.0	1.0	2.0	0.0	2.0			
+san bernardino valley	130.0	1	1	1.0	2.0	1.0	2.0				
+san mateo (caltrain station)	130.0	2	2	1.0	3.0	2.0	0.0				
+santa ana river	130.0	1	2	2.0	2.0	0.0	0.0	0.0			
+northern california	130.0	1	2	3.0	1.0	1.0					
+southern california	130.0	2	1	2.0	1.0	2.0	2.0	2.0			
+san bernardino mountains	130.0	0	2	2.0	2.0	2.0	3.0				
+ventura	130.0	1	2	3.0	1.0	1.0	1.0	2.0	0.0		
+sacramento valley	130.0	3	2	0.0	2.0	2.0	0.0	2.0	1.0	3.0	
+san joaquin valley	130.0	1	1	2.0	1.0	2.0	1.0	1.0	1.0		
+san francisco	130.0	2	2	3.0	2.0	3.0	2.0	3.0			
+san francisco bay	130.0	2	1	2.0	3.0	3.0	3.0				
+qr code	131.0	1	1	1.0	2.0	2.0	1.0	2.0			
+gmail	131.0	1	3	3.0	1.0	1.0	2.0				
+mobile device	131.0	1	2	2.0	2.0	2.0	3.0	1.0			
+internet	131.0	3	1	1.0	1.0	2.0					
+email	131.0	2	2	2.0	3.0	2.0	1.0				
+upload	131.0	1	1	0.0	0.0	2.0					
+fax	131.0	1	2	1.0	1.0	0.0	0.0				
+short message service	131.0	2	0	2.0	2.0						
+modem	131.0	2	1	2.0	2.0	1.0	1.0	2.0	1.0		
+text messaging	131.0	1	2	2.0	0.0	1.0	1.0	2.0	1.0	0.0	
+telephone number	131.0	2	1	2.0	2.0	2.0	2.0	1.0			
+usb	131.0	0	0	3.0	0.0	0.0	0.0				
+skype	131.0	2	3	2.0	3.0	3.0	2.0				
+iphone	131.0	2	2	2.0	1.0	0.0					
+voice over ip	131.0	2	2	2.0	2.0	2.0					
+email address	131.0	2	2	3.0	1.0						
+mobile phone	131.0	3	3	3.0	2.0	2.0					
+credit card	131.0	1	1	1.0	3.0	1.0	1.0	0.0			
+voicemail	131.0	2	1	2.0	3.0	3.0	1.0				
+middle school	132.0	2	2	2.0	2.0						
+graduate	132.0	3	3	1.0	2.0	2.0	2.0	2.0			
+early childhood education	132.0	2	2	2.0	2.0	2.0	1.0	1.0			
+college	132.0	3	2	2.0	1.0	3.0	0.0	2.0			
+high school	132.0	0	2	0.0	3.0	2.0	0.0				
+curriculum	132.0	3	3	3.0	3.0	2.0	3.0	3.0	3.0	3.0	
+graduate school	132.0	2	3	3.0	3.0	1.0	1.0				
+undergraduate education	132.0	2	3	2.0	1.0	2.0	2.0	3.0	1.0		
+matriculation	132.0	0	0	3.0	1.0	0.0	3.0	1.0	0.0		
+vocational education	132.0	3	2	2.0							
+private school	132.0	2	1	3.0	0.0	2.0	1.0				
+master of education	132.0	0	0	3.0	0.0						
+primary education	132.0	1	2	3.0	2.0	1.0	3.0	3.0			
+state school	132.0	2	2	2.0	2.0	3.0	2.0	2.0			
+secondary education	132.0	3	0	2.0	2.0	2.0	2.0	2.0	3.0		
+school	132.0	1	2	3.0	3.0	3.0	3.0	3.0	0.0		
+secondary school	132.0	0	2	1.0	1.0	3.0	1.0				
+university	132.0	2	3	2.0	3.0	3.0					
+education	132.0	3	3	3.0							
+horror film	133.0	2	2	2.0	0.0	2.0					
+fantasy film	133.0	3	3	2.0							
+film adaptation	133.0	2	3	3.0							
+quentin tarantino	133.0	3	1	3.0	1.0						
+cameo appearance	133.0	2	0	1.0	0.0	2.0	1.0	1.0	1.0		
+action film	133.0	2	2	2.0	3.0	1.0	1.0	1.0			
+jodie foster	133.0	2	2	1.0							
+musical film	133.0	1	3	2.0	3.0	1.0	1.0	2.0			
+a movie	133.0	2	1	2.0	2.0	2.0	3.0	2.0			
+martin scorsese	133.0	2	3	1.0	3.0	3.0	2.0	3.0	2.0	0.0	
+faye dunaway	133.0	0	0	1.0	2.0	1.0					
+remake	133.0	2	2	1.0	1.0	2.0	2.0	1.0	1.0	1.0	
+war film	133.0	1	1	2.0	3.0	1.0	2.0	3.0	0.0		
+low-budget film	133.0	2	2	1.0	1.0	1.0	2.0	2.0			
+mystery film	133.0	1	1	2.0	1.0	1.0	2.0	1.0			
+independent film	133.0	1	1	2.0	1.0	1.0	1.0				
+feature length	133.0	2	2	3.0	0.0	1.0	0.0	2.0			
+film director	133.0	3	2	2.0	3.0	3.0	2.0	1.0			
+film	133.0	1	3	1.0	3.0	3.0	2.0	1.0	3.0	2.0	1.0
+space research	134.0	3	2	3.0	3.0	3.0	2.0				
+space exploration	134.0	0	0	3.0	3.0	1.0					
+space probe	134.0	3	3	2.0							
+spaceflight	134.0	2	2	2.0							
+goddard space flight center	134.0	0	0	2.0	2.0						
+space shuttle	134.0	3	0	0.0	3.0	2.0					
+nasa	134.0	3	3	3.0	2.0	3.0					
+spacecraft	134.0	3	1	2.0	1.0	2.0	2.0	3.0	2.0		
+marshall space flight center	134.0	2	2	2.0	0.0	0.0					
+human spaceflight	134.0	3	2	3.0	1.0	3.0	2.0	1.0	2.0	3.0	
+space station	134.0	3	2	2.0	2.0	2.0	3.0	3.0	3.0		
+mars	134.0	1	2	3.0	2.0	1.0	2.0	3.0	2.0	2.0	
+astrobiology	134.0	1	2	1.0	1.0	3.0	0.0				
+lander (spacecraft)	134.0	2	2	2.0	2.0	2.0	2.0				
+moon landing	134.0	3	0	2.0	1.0	3.0	3.0	0.0	1.0		
+skylab	134.0	1	1	1.0	3.0						
+jaxa	134.0	0	1	0.0	1.0	0.0	0.0	1.0	1.0	2.0	
+european space agency	134.0	2	0	3.0	2.0	2.0	1.0				
+exploration of mars	134.0	2	1	2.0	1.0	2.0	2.0				
+point-blank range	135.0	1	2	1.0	1.0	1.0	1.0	1.0	2.0		
+sniper	135.0	3	2	1.0	2.0	1.0	2.0	1.0			
+police	135.0	3	3	3.0	2.0	1.0	3.0	2.0			
+handgun	135.0	3	2	3.0							
+taser	135.0	0	1	1.0	1.0	2.0	0.0	0.0			
+revolver	135.0	2	2	2.0	2.0	0.0	2.0	0.0			
+attempted murder	135.0	2	2	3.0	1.0						
+firearm	135.0	3	2	3.0	3.0	3.0	0.0				
+robbery	135.0	1	3	1.0	0.0	1.0					
+shooting	135.0	3	3	2.0	2.0	3.0	3.0	2.0			
+at close range	135.0	1	2	1.0	1.0	2.0	1.0	0.0	1.0		
+arrest	135.0	2	2	2.0	3.0	1.0	2.0				
+police officer	135.0	0	0	1.0	2.0	3.0	3.0				
+murder	135.0	3	2	3.0	3.0	3.0	2.0	1.0			
+military police (cambodian football club)	135.0	0	0	0.0	0.0	0.0					
+carjacking	135.0	1	1	1.0	0.0	1.0	0.0				
+shootout	135.0	0	3	0.0	3.0	0.0	0.0				
+stray bullet	135.0	1	2	3.0	0.0	2.0	1.0	0.0			
+shotgun	135.0	1	2	1.0	1.0	1.0	3.0	2.0	3.0		
+percentage	136.0	1	2	3.0	1.0	3.0	2.0	3.0	2.0		
+market value	136.0	2	3	3.0	2.0	1.0	3.0	1.0			
+total revenue	136.0	2	2	2.0	2.0	1.0	1.0	1.0	2.0	1.0	
+population	136.0	3	2	3.0	3.0	2.0	1.0				
+demand	136.0	2	3	1.0	2.0	1.0	0.0	1.0			
+consumer spending	136.0	2	2	1.0	2.0	1.0	2.0	2.0			
+inflation	136.0	2	1	3.0	0.0	3.0	3.0	2.0			
+profit margin	136.0	2	3	2.0	3.0	0.0	2.0	2.0	2.0	2.0	
+market share	136.0	2	2	3.0	2.0	2.0	3.0				
+average cost	136.0	0	1	3.0							
+share price	136.0	3	1	2.0	1.0	1.0	1.0				
+annual growth rate	136.0	3	3	2.0	3.0	3.0	1.0	1.0	2.0	2.0	
+per	136.0	1	0	0.0	1.0	1.0	1.0				
+percentage point	136.0	0	2	0.0	3.0	3.0	2.0				
+average	136.0	1	2	2.0							
+gross domestic product	136.0	2	1	0.0	0.0	3.0	0.0	1.0			
+household income	136.0	1	0	1.0	1.0	1.0	0.0	1.0			
+penetration rate	136.0	1	1	0.0	1.0	0.0	1.0	2.0			
+rate of return	136.0	0	0	2.0	3.0	2.0					
+farm team	137.0	2	1	1.0	0.0	1.0	0.0				
+prospect (sports)	137.0	1	2	3.0	1.0	2.0	2.0				
+player-coach	137.0	2	2	1.0	2.0	2.0	2.0	3.0	2.0	2.0	
+two seasons	137.0	0	0	1.0	1.0	1.0					
+the first team	137.0	2	1	2.0	1.0	0.0	1.0	1.0	3.0	2.0	
+league club	137.0	2	2	2.0	3.0	1.0	1.0	2.0	1.0		
+starting lineup	137.0	1	2	1.0	0.0	1.0	1.0	3.0	0.0	2.0	2.0
+salary cap	137.0	1	1	1.0	2.0	0.0	2.0	0.0	2.0	1.0	
+contract	137.0	2	1	2.0	1.0	1.0	3.0	3.0	3.0		
+head coach	137.0	1	2	1.0	1.0	1.0	1.0	2.0	2.0	2.0	
+exhibition game	137.0	1	2	2.0	1.0	1.0	3.0	0.0	2.0	2.0	
+free agent	137.0	1	1	3.0	3.0	2.0	1.0	1.0			
+utility player	137.0	2	1	2.0	2.0	2.0	2.0				
+restricted free agent	137.0	1	0	0.0	1.0	3.0					
+offer sheet	137.0	2	2	2.0	1.0	2.0	1.0				
+played	137.0	2	1	1.0	1.0						
+signing bonus	137.0	1	2	1.0	2.0	1.0					
+championship	137.0	1	2	3.0	1.0	0.0	1.0	1.0	2.0		
+playoffs	137.0	2	2	2.0	3.0	0.0					
+cold	138.0	0	1	0.0	0.0	1.0	1.0	0.0	1.0	1.0	
+rain	138.0	3	1	1.0	1.0	1.0	1.0	0.0	1.0	1.0	
+precipitation	138.0	3	2	1.0	3.0	1.0	2.0	2.0	1.0	2.0	
+deciduous	138.0	1	1	1.0	2.0	2.0	1.0	0.0			
+microclimate	138.0	3	2	3.0	1.0	3.0	1.0	1.0			
+evaporative cooler	138.0	1	0	2.0	0.0	1.0					
+cooling tower	138.0	1	2	0.0	2.0	1.0	3.0	1.0	1.0	1.0	
+soil	138.0	1	1	2.0	0.0	1.0	0.0	3.0	1.0		
+wind	138.0	2	1	2.0	0.0	1.0					
+thermal mass	138.0	2	1	1.0	1.0	1.0	1.0				
+heat pump	138.0	2	1	3.0	2.0	1.0					
+growing season	138.0	2	2	2.0	3.0	1.0	1.0	2.0	3.0		
+water vapor	138.0	1	1	2.0	1.0	1.0	2.0				
+heat exchanger	138.0	1	2	1.0	1.0	1.0	0.0				
+nitrogen	138.0	1	1	1.0	0.0	0.0					
+humidity	138.0	2	2	2.0	2.0	3.0					
+subtropics	138.0	2	2	1.0	2.0	2.0					
+evaporation	138.0	2	1	2.0	1.0						
+water	138.0	2	1	1.0	2.0	3.0	2.0	2.0			
+the blackstone group	139.0	2	1	1.0	2.0	1.0					
+holding company	139.0	2	2	3.0	2.0	2.0	3.0	1.0			
+privately held company	139.0	1	2	2.0	2.0	2.0	1.0	1.0			
+investment	139.0	2	3	1.0	1.0	2.0	3.0	2.0			
+parent company	139.0	3	2	2.0	1.0	1.0	1.0	2.0	1.0	1.0	
+buyout	139.0	0	2	0.0	2.0	0.0	1.0				
+bain capital	139.0	2	1	1.0	3.0	1.0	0.0	1.0			
+corporation	139.0	2	1	1.0	1.0	1.0					
+public company	139.0	1	3	2.0	3.0	2.0	3.0				
+chief executive officer	139.0	1	1	1.0							
+financial services	139.0	2	1	3.0							
+ripplewood holdings	139.0	0	1	2.0	1.0						
+goldman sachs	139.0	2	2	2.0	1.0	1.0	0.0				
+apollo global management	139.0	2	0	2.0	1.0	1.0	1.0	1.0			
+business	139.0	3	2	1.0	2.0	2.0	2.0	1.0			
+cvc capital partners	139.0	1	1	1.0	2.0	1.0	2.0				
+initial public offering	139.0	3	0	1.0	2.0	1.0	1.0				
+joint venture	139.0	3	1	1.0	1.0	2.0	0.0	1.0	1.0	0.0	
+subsidiary	139.0	2	2	0.0	3.0	1.0	1.0				
+steeplechase	140.0	0	0	1.0	2.0	1.0					
+criterium	140.0	1	0	0.0	0.0	0.0	0.0	1.0	0.0	1.0	
+team time trial	140.0	0	0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	
+individual time trial	140.0	1	1	2.0	1.0	0.0	1.0	1.0	3.0	0.0	
+his last race	140.0	1	1	1.0							
+unisa-australia	140.0	0	1	0.0	0.0	0.0	0.0				
+jockey	140.0	0	0	3.0	0.0	0.0	2.0	3.0	0.0		
+racing	140.0	3	1	2.0	2.0	1.0	2.0				
+time trial	140.0	0	2	1.0	0.0	0.0	1.0				
+flat racing	140.0	2	2	3.0	1.0	1.0	0.0				
+motocross	140.0	1	2	1.0	1.0	0.0	1.0				
+racer	140.0	3	2	3.0	2.0	3.0	2.0	2.0	2.0		
+velodrome	140.0	1	0	1.0	1.0	2.0	0.0				
+grand national	140.0	2	2	0.0	0.0	1.0					
+bradley wiggins	140.0	1	2	1.0	1.0	1.0	0.0	0.0			
+race track	140.0	2	1	2.0	2.0	2.0					
+washington park handicap	140.0	1	2	3.0	3.0	1.0					
+patrick sercu	140.0	0	2	0.0							
+vuelta a españa	140.0	0	2	2.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+gender	141.0	3	2	1.0	0.0	0.0					
+a woman	141.0	3	1	2.0							
+sex	141.0	1	3	1.0	0.0	1.0	2.0	1.0	2.0	1.0	3.0
+girl	141.0	0	3	1.0	2.0	0.0	1.0	0.0			
+transsexual	141.0	3	1	2.0	2.0	1.0	1.0				
+sexual intercourse	141.0	3	1	2.0	2.0	2.0	3.0	1.0	2.0		
+gender role	141.0	1	2	1.0	3.0	3.0	1.0				
+mother	141.0	1	0	3.0	0.0	0.0	2.0				
+female	141.0	2	1	1.0	2.0	0.0	1.0	2.0			
+premarital sex	141.0	3	2	2.0	3.0	1.0	3.0				
+marriage	141.0	2	1	1.0							
+infidelity	141.0	2	1	1.0	1.0	2.0	2.0	2.0	1.0		
+homosexuality	141.0	1	3	2.0	0.0	3.0	1.0				
+transgender	141.0	1	2	1.0	2.0	1.0	1.0	1.0	3.0		
+woman	141.0	2	2	2.0	1.0						
+bisexuality	141.0	3	1	1.0	1.0	2.0	2.0	0.0			
+anal sex	141.0	2	2	1.0	2.0	2.0					
+incest	141.0	0	0	1.0	1.0	0.0	3.0	1.0			
+lesbian	141.0	1	0	2.0	2.0	3.0					
+urban area	142.0	3	2	1.0	1.0	3.0	1.0				
+central business district	142.0	2	3	1.0	0.0	2.0	2.0				
+residential area	142.0	1	1	1.0	3.0	2.0	1.0	1.0	3.0	1.0	
+residential community	142.0	2	3	1.0	3.0	1.0	2.0	3.0			
+downtown	142.0	2	1	2.0	1.0	3.0	0.0				
+downtown cleveland	142.0	2	2	2.0	1.0	2.0	2.0	0.0			
+park	142.0	2	2	1.0	2.0	1.0	1.0				
+on the west side	142.0	0	0	0.0	0.0	2.0					
+county seat	142.0	1	1	3.0	1.0	2.0					
+city	142.0	2	2	1.0	3.0	2.0					
+village	142.0	1	2	0.0	1.0	2.0	1.0	1.0			
+suburb	142.0	0	0	2.0	3.0	3.0					
+district	142.0	2	2	3.0	2.0	2.0	2.0	2.0	1.0	1.0	
+commercial district	142.0	2	2	1.0	1.0	1.0	2.0				
+county	142.0	2	3	1.0	1.0	1.0	2.0	2.0			
+u.s. route 11	142.0	1	0	2.0	0.0	2.0	2.0				
+city limits	142.0	2	2	1.0							
+town	142.0	1	0	2.0	3.0	0.0					
+the downtown	142.0	2	2	1.0	1.0	0.0	2.0	0.0			
+atherosclerosis	143.0	1	2	2.0	0.0	0.0	1.0	0.0			
+myocardial infarction	143.0	2	1	1.0	2.0	3.0	1.0	1.0	1.0	1.0	
+pulmonary artery	143.0	3	2	2.0	3.0	1.0	3.0	1.0	3.0		
+ascending aorta	143.0	0	3	3.0	2.0						
+aneurysm	143.0	3	2	3.0	0.0	3.0					
+blood vessel	143.0	2	3	1.0	2.0	3.0	2.0	1.0	3.0		
+atrial septal defect	143.0	1	2	2.0	0.0	0.0	1.0	0.0			
+aortic stenosis	143.0	2	2	3.0	1.0	3.0	3.0	3.0			
+angioplasty	143.0	3	2	1.0	3.0	0.0	1.0	1.0			
+stenosis	143.0	3	2	2.0	3.0	2.0	2.0	2.0	2.0		
+subarachnoid hemorrhage	143.0	3	1	1.0	2.0	2.0	2.0	2.0	1.0		
+aorta	143.0	3	2	2.0	3.0	3.0	2.0	2.0			
+aortic valve	143.0	1	2	1.0	2.0	3.0	3.0	2.0			
+artery	143.0	3	2	3.0	0.0	0.0					
+thrombosis	143.0	2	1	3.0	2.0	2.0	1.0				
+aortic aneurysm	143.0	2	2	1.0	3.0						
+atrial fibrillation	143.0	2	2	1.0	2.0	2.0	1.0	1.0	1.0	1.0	1.0
+aortic dissection	143.0	3	3	1.0	2.0	0.0	0.0				
+ischemia	143.0	3	1	1.0	2.0	1.0	0.0	2.0	1.0	2.0	
+chemotherapy	144.0	2	2	1.0							
+endometrial cancer	144.0	0	2	1.0							
+radiation therapy	144.0	2	3	3.0	1.0	2.0	3.0	2.0			
+carcinoma	144.0	3	2	3.0	2.0						
+metastasis	144.0	1	1	3.0	2.0	3.0	0.0	3.0	0.0		
+prostate	144.0	1	3	1.0	2.0	1.0	2.0	3.0	2.0		
+prostate cancer	144.0	3	2	2.0	1.0	1.0	1.0	1.0			
+renal cell carcinoma	144.0	1	2	1.0	1.0						
+breast cancer	144.0	2	3	3.0	1.0	3.0	2.0	3.0	3.0	2.0	
+cancer	144.0	3	3	2.0	0.0	3.0	0.0				
+neuroblastoma	144.0	2	1	2.0	2.0	0.0	2.0	2.0			
+ovarian cancer	144.0	1	0	0.0	2.0	1.0	3.0	3.0			
+hepatocellular carcinoma	144.0	0	2	0.0	1.0	1.0					
+colorectal cancer	144.0	3	2	1.0	2.0	3.0					
+sarcoma	144.0	2	0	3.0	1.0	1.0					
+melanoma	144.0	3	1	2.0	3.0	3.0	3.0	3.0	1.0	3.0	
+adenocarcinoma	144.0	3	2	1.0	2.0	1.0	0.0	1.0	1.0		
+lymphoma	144.0	2	3	3.0	2.0	3.0					
+pancreatic cancer	144.0	3	2	2.0	2.0	1.0	1.0	1.0	1.0	2.0	3.0
+inflammation	145.0	3	1	2.0	3.0	2.0	1.0	3.0	2.0	1.0	
+chronic obstructive pulmonary disease	145.0	2	2	2.0	1.0	3.0	2.0	3.0	1.0	1.0	2.0
+rheumatoid arthritis	145.0	3	0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	
+bronchiectasis	145.0	2	1	2.0	0.0	3.0	0.0				
+hypertension	145.0	1	2	2.0	1.0	1.0	1.0	0.0			
+sepsis	145.0	1	2	2.0	2.0						
+sarcoidosis	145.0	0	2	1.0	2.0	2.0	0.0				
+pulmonary hypertension	145.0	2	0	0.0	2.0	3.0					
+sinusitis	145.0	0	1	1.0	1.0	2.0	1.0	1.0	2.0	1.0	
+infection	145.0	3	2	1.0	2.0						
+ulcerative colitis	145.0	1	2	1.0	0.0	2.0	2.0				
+atherosclerosis	145.0	1	1	1.0	2.0	1.0	2.0				
+asthma	145.0	3	2	2.0	3.0	3.0	3.0	3.0			
+pancreatitis	145.0	1	1	1.0	1.0	0.0	1.0	1.0	0.0	2.0	1.0
+cirrhosis	145.0	3	1	1.0	2.0	0.0					
+respiratory tract	145.0	3	1	1.0	3.0	2.0	1.0	2.0			
+pneumonia	145.0	0	0	2.0	1.0	0.0	3.0	2.0	0.0		
+myocardial infarction	145.0	0	0	1.0	3.0	1.0					
+cough	145.0	2	2	2.0	3.0	1.0	2.0	3.0			
+t cell	146.0	3	3	0.0	2.0	2.0	3.0	3.0			
+cd4	146.0	1	1	1.0	1.0	0.0	0.0				
+autoimmunity	146.0	2	1	1.0	2.0						
+b cell	146.0	2	1	1.0	1.0	2.0	2.0	1.0	3.0		
+tyrosine kinase	146.0	1	1	2.0	0.0	0.0	1.0				
+antibody	146.0	0	0	3.0	0.0	2.0	0.0				
+nf-κb	146.0	0	2	1.0	0.0	1.0	0.0				
+mast cell	146.0	3	1	3.0	2.0	3.0	2.0	3.0	2.0	3.0	
+microglia	146.0	1	1	2.0	0.0	1.0	1.0	1.0			
+immune system	146.0	2	3	3.0	2.0	1.0	3.0	2.0			
+lymphocyte	146.0	2	3	1.0	1.0	2.0	2.0				
+interferon	146.0	2	2	1.0	1.0	2.0	2.0	2.0			
+toll-like receptor	146.0	0	2	1.0	2.0	0.0	1.0	0.0			
+macrophage	146.0	1	1	1.0	3.0	1.0	2.0	2.0	2.0		
+dendritic cell	146.0	2	2	1.0	1.0	0.0	1.0				
+adaptive immune system	146.0	0	3	0.0	2.0	2.0					
+innate immune system	146.0	2	3	3.0	2.0	2.0	2.0	2.0			
+apoptosis	146.0	2	1	2.0	1.0	2.0	2.0				
+cytokine	146.0	2	1	2.0	2.0	3.0	2.0	1.0	3.0		
+protein kinase c	147.0	2	2	3.0	2.0	3.0	3.0	2.0	0.0		
+dephosphorylation	147.0	2	1	1.0	1.0	1.0	1.0	2.0	1.0		
+actin	147.0	1	1	2.0	0.0	1.0	2.0				
+t cell	147.0	2	2	2.0	2.0	1.0	1.0	2.0	1.0		
+transcription factor	147.0	1	1	1.0	0.0	1.0	1.0	1.0			
+g protein	147.0	1	2	2.0	1.0	2.0	2.0				
+wnt signaling pathway	147.0	2	3	2.0	2.0	1.0					
+cell signaling	147.0	2	3	1.0	3.0	3.0	3.0	3.0	2.0	1.0	
+reactive oxygen species	147.0	0	0	2.0	1.0	2.0	2.0	1.0			
+mitogen-activated protein kinase	147.0	0	2	0.0	2.0	2.0					
+nf-κb	147.0	0	2	3.0	0.0	0.0	0.0	0.0	2.0	1.0	
+signal transduction	147.0	2	3	0.0	2.0	3.0	3.0	1.0	1.0		
+gene expression	147.0	2	0	1.0	2.0	1.0	0.0	1.0	0.0	2.0	
+tyrosine kinase	147.0	1	1	3.0	2.0	2.0	2.0				
+kinase	147.0	1	1	1.0	3.0	3.0	3.0	2.0			
+apoptosis	147.0	1	1	1.0	1.0	1.0	1.0				
+protein kinase	147.0	1	2	3.0	1.0	3.0	3.0				
+tyrosine phosphorylation	147.0	1	1	2.0	1.0	1.0	1.0				
+phosphorylation	147.0	0	2	0.0	2.0	3.0	2.0				
+anemia	148.0	3	1	2.0	1.0	3.0					
+cholesterol	148.0	0	1	1.0	2.0						
+bile acid	148.0	0	0	1.0	2.0	3.0					
+pulmonary hypertension	148.0	1	0	0.0	2.0	1.0	2.0				
+kidney	148.0	0	1	3.0	1.0	0.0	1.0	1.0	2.0		
+liver disease	148.0	2	2	1.0	2.0	2.0	3.0				
+colorectal cancer	148.0	1	0	1.0	1.0	1.0	2.0	1.0			
+inflammation	148.0	1	1	1.0	1.0	2.0	3.0				
+cholangiocarcinoma	148.0	1	1	2.0							
+atherosclerosis	148.0	0	3	1.0	1.0	1.0	0.0	2.0			
+liver	148.0	3	3	3.0	3.0	2.0	3.0				
+sarcoidosis	148.0	1	2	3.0	1.0						
+thyroid	148.0	1	1	2.0	2.0						
+pancreatitis	148.0	1	3	2.0	2.0	3.0	3.0				
+cirrhosis	148.0	0	2	1.0	3.0	2.0	2.0	1.0			
+jaundice	148.0	3	2	2.0	3.0	1.0	3.0				
+hepatitis	148.0	3	2	2.0	1.0						
+pancreas	148.0	2	1	2.0	2.0	2.0	1.0				
+hepatocellular carcinoma	148.0	2	1	3.0	1.0	3.0	2.0	3.0	1.0		
+hiv/aids	149.0	1	3	3.0	3.0	2.0	3.0	2.0	3.0		
+hepatitis c	149.0	2	2	1.0	2.0	1.0	0.0				
+immune system	149.0	1	1	2.0	2.0	1.0	1.0				
+herpes simplex virus	149.0	1	2	1.0	0.0	2.0					
+hepatitis a	149.0	0	1	3.0	0.0	2.0	0.0				
+poliovirus	149.0	2	1	3.0	2.0	1.0					
+hepatitis c virus	149.0	3	1	2.0	3.0	2.0	1.0				
+hepatitis	149.0	1	3	1.0	1.0	3.0	1.0				
+influenza	149.0	1	0	1.0	1.0	1.0	1.0	2.0	1.0	3.0	
+immunodeficiency	149.0	1	1	0.0	3.0	3.0	3.0	3.0	2.0		
+virus	149.0	3	3	2.0	3.0	2.0	3.0	3.0	2.0	1.0	
+herpes simplex	149.0	2	2	0.0	0.0	0.0	1.0				
+vaccine	149.0	2	2	1.0	1.0	2.0	2.0				
+human papillomavirus	149.0	0	0	1.0							
+hepatitis b	149.0	2	3	2.0	2.0	3.0	3.0	3.0			
+hiv	149.0	3	3	3.0							
+pathogen	149.0	1	1	3.0	0.0	2.0	0.0				
+retrovirus	149.0	1	1	1.0	2.0	2.0	1.0	2.0	3.0	2.0	
+infection	149.0	3	1	2.0	1.0	2.0	2.0	2.0			
+serotonin	150.0	0	2	1.0	1.0	0.0	1.0	2.0			
+estrogen receptor	150.0	3	2	1.0	1.0	3.0	3.0	3.0	3.0	1.0	
+hypothyroidism	150.0	2	0	0.0	1.0	3.0	2.0	2.0			
+luteinizing hormone	150.0	2	2	2.0	2.0						
+estradiol	150.0	1	1	2.0	2.0	2.0					
+hormone	150.0	3	2	3.0	2.0	3.0	2.0	3.0	2.0	2.0	
+testosterone	150.0	3	2	3.0	2.0	3.0	3.0	1.0	3.0	2.0	
+prolactin	150.0	2	2	2.0	3.0	2.0	1.0				
+aldosterone	150.0	1	2	1.0	1.0	1.0	1.0	0.0			
+hypothalamus	150.0	3	2	1.0	1.0	1.0	1.0				
+thyroid hormone	150.0	1	3	2.0	3.0	0.0	3.0	0.0			
+androgen	150.0	2	1	2.0	3.0	3.0	1.0	2.0	1.0		
+progesterone	150.0	2	0	0.0	1.0	3.0	1.0				
+adrenal gland	150.0	2	0	3.0	3.0	1.0	1.0				
+estrogen	150.0	3	0	2.0	3.0	3.0	2.0				
+cortisol	150.0	1	1	3.0	2.0	2.0	2.0	3.0			
+dihydrotestosterone	150.0	1	1	2.0	3.0	2.0	2.0	1.0	2.0		
+glucocorticoid	150.0	0	2	0.0	3.0	1.0					
+androgen receptor	150.0	0	2	2.0							
+glutamate receptor	151.0	2	2	2.0	1.0	1.0	3.0				
+cholinergic	151.0	1	1	0.0	1.0	3.0					
+synaptic plasticity	151.0	0	1	2.0	0.0	1.0	0.0				
+microglia	151.0	1	1	0.0	1.0						
+neuron	151.0	3	2	1.0	2.0	3.0	2.0				
+reuptake	151.0	3	0	2.0	1.0	1.0	1.0	0.0	1.0		
+endocannabinoid system	151.0	2	1	0.0	2.0	1.0	0.0	1.0	2.0		
+norepinephrine	151.0	0	0	1.0	2.0	1.0					
+dopamine	151.0	3	3	2.0	1.0	3.0	3.0				
+neurotransmitter	151.0	2	2	2.0	2.0	0.0	3.0				
+gabaa receptor	151.0	2	3	1.0	2.0	2.0	3.0	2.0			
+long-term potentiation	151.0	1	0	2.0	1.0						
+glutamatergic	151.0	1	3	0.0	0.0	2.0	1.0	3.0			
+serotonin	151.0	2	1	1.0	1.0	1.0					
+acetylcholine	151.0	2	1	3.0	0.0	2.0					
+brain-derived neurotrophic factor	151.0	2	2	2.0	2.0	3.0	1.0	1.0			
+dopaminergic	151.0	1	3	2.0	2.0	2.0					
+nmda receptor	151.0	1	2	2.0	3.0	3.0	2.0				
+serotonergic	151.0	0	1	1.0	2.0	1.0	1.0				
+vaccine	152.0	3	2	2.0	3.0						
+human papillomavirus	152.0	2	1	3.0	1.0	3.0	3.0				
+vaccinia	152.0	0	3	0.0	0.0	3.0	3.0				
+japanese encephalitis	152.0	0	1	1.0	2.0	0.0	1.0	0.0			
+poliovirus	152.0	2	2	1.0	1.0	2.0	1.0	2.0			
+rabies	152.0	1	2	0.0	1.0	1.0	3.0	0.0			
+pathogen	152.0	1	2	2.0	1.0	2.0	0.0	0.0			
+influenza a virus	152.0	3	3	3.0	3.0						
+virus	152.0	2	2	2.0	3.0	3.0	3.0				
+hiv	152.0	0	0	2.0	0.0	2.0	0.0				
+influenza	152.0	3	3	2.0	3.0	2.0	3.0	3.0			
+immune system	152.0	2	3	2.0	1.0	1.0					
+herpes simplex virus	152.0	1	2	2.0	2.0	1.0	1.0	2.0	2.0	2.0	1.0
+infection	152.0	2	3	2.0	2.0	3.0	3.0	1.0			
+vaccination	152.0	2	2	0.0	1.0						
+influenza vaccine	152.0	1	3	3.0	2.0	3.0	2.0				
+herpes simplex	152.0	1	3	2.0	0.0	0.0					
+hepatitis b	152.0	1	2	1.0	2.0	0.0	0.0				
+measles	152.0	2	2	1.0	2.0	0.0	0.0	1.0	2.0	3.0	
+aphasia	153.0	2	1	0.0	1.0	3.0	1.0				
+bipolar disorder	153.0	2	3	2.0	1.0	2.0	3.0	1.0			
+psychosis	153.0	1	2	2.0	1.0	1.0	1.0	2.0	2.0		
+epilepsy	153.0	1	1	1.0	2.0	3.0	2.0	1.0	1.0		
+fibromyalgia	153.0	1	2	2.0	3.0	1.0	1.0	2.0			
+attention deficit hyperactivity disorder	153.0	2	1	2.0	2.0	3.0	3.0				
+traumatic brain injury	153.0	1	2	2.0	3.0	3.0	2.0	1.0	2.0		
+multiple sclerosis	153.0	2	3	1.0	2.0						
+dementia	153.0	3	2	2.0	3.0	2.0	2.0	0.0	1.0	1.0	
+autism	153.0	2	2	3.0	2.0	1.0	1.0	2.0			
+brain damage	153.0	3	2	3.0	3.0	2.0	1.0	1.0			
+major depressive disorder	153.0	2	1	3.0	3.0	2.0					
+ataxia	153.0	2	1	2.0	1.0	2.0					
+amyotrophic lateral sclerosis	153.0	1	1	1.0	3.0	1.0	2.0				
+neurodegeneration	153.0	1	3	1.0	2.0	1.0					
+schizophrenia	153.0	3	2	2.0	0.0	3.0	3.0	3.0			
+vascular dementia	153.0	2	2	3.0	2.0						
+neurological disorder	153.0	3	3	2.0	3.0	2.0	3.0	3.0	3.0	2.0	
+autism spectrum	153.0	1	2	1.0	2.0	1.0	1.0	0.0	3.0		
+thrombosis	154.0	2	1	1.0	1.0	2.0	1.0				
+hypertension	154.0	2	2	2.0	1.0	2.0	2.0	3.0	1.0	2.0	
+diabetes mellitus	154.0	2	3	1.0	1.0	1.0	2.0				
+cirrhosis	154.0	1	2	1.0	2.0	2.0	1.0	0.0			
+liver	154.0	0	1	2.0	3.0						
+myocardial infarction	154.0	1	0	1.0	1.0	1.0					
+renal failure	154.0	2	1	2.0	2.0	1.0	1.0	1.0			
+anemia	154.0	2	2	2.0	1.0	2.0	2.0				
+hypothyroidism	154.0	1	1	1.0	3.0	3.0					
+pancreatitis	154.0	2	1	2.0	1.0						
+ischemia	154.0	2	1	3.0	2.0						
+pulmonary hypertension	154.0	1	1	3.0	0.0	3.0	3.0	3.0			
+sepsis	154.0	0	1	1.0	1.0	0.0	3.0	1.0	2.0	0.0	
+atherosclerosis	154.0	1	2	2.0	2.0	1.0	2.0	1.0			
+nephrotic syndrome	154.0	2	3	1.0	2.0	3.0	2.0	2.0	2.0		
+chronic kidney disease	154.0	3	2	3.0	3.0	3.0					
+osteoporosis	154.0	0	1	1.0	2.0	0.0	3.0	0.0	2.0		
+kidney	154.0	3	2	2.0	3.0	2.0	1.0	2.0			
+hepatorenal syndrome	154.0	1	2	1.0	3.0	2.0	2.0	2.0	2.0	2.0	
+pseudomonas aeruginosa	155.0	1	2	1.0	2.0	2.0	1.0	1.0	1.0	1.0	
+streptococcus pneumoniae	155.0	1	2	2.0	2.0						
+streptococcus	155.0	3	3	2.0	3.0	3.0	2.0	1.0			
+bacteremia	155.0	0	2	0.0	2.0	0.0	0.0				
+infection	155.0	0	3	3.0							
+bacteria	155.0	2	2	3.0	0.0	1.0					
+staphylococcus aureus	155.0	3	2	3.0							
+pathogen	155.0	1	2	2.0	2.0	2.0					
+escherichia coli	155.0	1	2	1.0	0.0	1.0	3.0	1.0	1.0		
+mycobacterium tuberculosis	155.0	1	1	2.0	1.0	1.0	1.0	1.0			
+salmonella	155.0	1	2	2.0	2.0	2.0	2.0	3.0	1.0		
+antibiotics	155.0	3	3	1.0	3.0	1.0					
+pathogenic bacteria	155.0	3	3	2.0	1.0	2.0	2.0	3.0			
+haemophilus influenzae	155.0	1	1	1.0	0.0	2.0	1.0				
+vancomycin	155.0	1	2	2.0	2.0	1.0	1.0	2.0	2.0		
+immune system	155.0	1	2	1.0	2.0	1.0					
+listeria monocytogenes	155.0	2	1	2.0	2.0	0.0	1.0	1.0	1.0	1.0	1.0
+antimicrobial	155.0	1	2	2.0	1.0	2.0	2.0	3.0			
+helicobacter pylori	155.0	1	1	1.0	2.0	0.0	1.0				
+hypoglycemia	156.0	2	3	1.0	2.0	2.0	2.0	2.0			
+diabetes mellitus type 2	156.0	1	2	2.0	2.0	1.0	1.0	2.0			
+leptin	156.0	0	0	1.0	2.0	3.0	1.0				
+diabetes mellitus	156.0	2	1	2.0	3.0	2.0	3.0	3.0			
+fructose	156.0	1	1	0.0	2.0	1.0	3.0	2.0			
+c-reactive protein	156.0	1	2	1.0	2.0	0.0	1.0				
+insulin (medication)	156.0	3	3	3.0	3.0	2.0	3.0	3.0			
+blood sugar	156.0	2	2	3.0	3.0	3.0	3.0	1.0			
+hyperlipidemia	156.0	2	3	1.0	1.0	1.0	2.0	0.0			
+metabolism	156.0	2	2	1.0	1.0	0.0	2.0	2.0	1.0		
+lipid	156.0	1	2	2.0	3.0						
+high-density lipoprotein	156.0	1	2	1.0	2.0	1.0	2.0	2.0	1.0	1.0	
+hyperglycemia	156.0	1	3	2.0	2.0	1.0	3.0				
+insulin resistance	156.0	2	1	2.0	3.0	3.0	3.0	2.0	1.0		
+hypertension	156.0	1	1	1.0	2.0	2.0	2.0	1.0			
+atherosclerosis	156.0	0	3	0.0	1.0	0.0	0.0				
+cholesterol	156.0	1	0	3.0	0.0	2.0	2.0				
+hypercholesterolemia	156.0	1	2	1.0	1.0	2.0	2.0	3.0			
+metabolic syndrome	156.0	2	2	2.0	1.0	1.0	2.0				
+extracellular matrix	157.0	1	1	2.0	1.0	2.0	2.0				
+nf-κb	157.0	3	0	1.0	2.0	0.0	0.0	0.0			
+apoptosis	157.0	1	1	2.0	1.0						
+angiogenesis	157.0	1	1	2.0	1.0	1.0	1.0	1.0			
+t cell	157.0	3	2	2.0	3.0	2.0	1.0	1.0	2.0	1.0	
+interleukin 6	157.0	0	2	1.0	1.0	0.0	1.0	0.0	1.0		
+immune system	157.0	2	2	2.0	2.0	1.0	2.0				
+glucocorticoid	157.0	0	0	0.0	0.0	2.0	0.0				
+reactive oxygen species	157.0	0	0	2.0	2.0	1.0	0.0	3.0			
+signal transduction	157.0	2	1	0.0	0.0	0.0	0.0				
+inflammation	157.0	3	1	2.0	2.0	3.0	2.0	2.0			
+endothelium	157.0	3	1	2.0	2.0	2.0					
+mast cell	157.0	2	1	2.0	2.0	1.0	2.0				
+oxidative stress	157.0	2	1	1.0	2.0	0.0	2.0	2.0	0.0		
+microglia	157.0	1	2	1.0	2.0	2.0	1.0	3.0			
+tumor microenvironment	157.0	3	1	1.0	3.0	3.0	1.0				
+cytokine	157.0	0	2	2.0	3.0	2.0	1.0				
+e-selectin	157.0	3	2	0.0	2.0						
+macrophage	157.0	2	1	1.0	1.0	1.0	2.0				
+schizoaffective disorder	158.0	2	2	3.0							
+dementia	158.0	1	2	2.0	2.0	2.0	1.0	3.0	1.0	1.0	
+psychosis	158.0	1	1	3.0	3.0	3.0	3.0				
+social anxiety disorder	158.0	3	1	1.0	2.0	3.0	3.0	2.0			
+mental disorder	158.0	3	3	3.0	2.0	3.0	3.0				
+anxiety disorder	158.0	0	2	1.0	3.0	0.0	2.0	2.0	0.0		
+panic disorder	158.0	3	1	2.0	3.0	0.0	2.0				
+dysthymia	158.0	1	2	1.0	2.0	0.0	2.0	0.0			
+schizophrenia	158.0	0	3	0.0	1.0	1.0	0.0				
+insomnia	158.0	1	2	1.0	1.0	1.0	3.0	1.0	1.0		
+borderline personality disorder	158.0	3	1	2.0	2.0	3.0	1.0				
+posttraumatic stress disorder	158.0	1	2	1.0	3.0	3.0	1.0	2.0	3.0	3.0	
+attention deficit hyperactivity disorder	158.0	1	1	3.0	2.0	1.0	2.0	1.0	1.0		
+fibromyalgia	158.0	2	2	1.0	1.0	2.0	2.0	1.0			
+generalized anxiety disorder	158.0	2	1	2.0	3.0	1.0	2.0	1.0			
+major depressive disorder	158.0	1	2	2.0	3.0	3.0	0.0	0.0			
+bipolar disorder	158.0	3	2	1.0	3.0	3.0	3.0				
+chronic pain	158.0	0	0	3.0	3.0	0.0	3.0	3.0	0.0		
+mood disorder	158.0	2	2	3.0	3.0	3.0					
+implantation (human embryo)	159.0	0	0	2.0	0.0	3.0	0.0				
+reproductive system	159.0	1	2	2.0	3.0	3.0	2.0	2.0	3.0		
+uterus	159.0	3	3	2.0	2.0	3.0	2.0				
+endometrium	159.0	2	2	2.0	1.0	1.0					
+sexual reproduction	159.0	3	3	2.0	3.0	3.0	3.0	1.0			
+oocyte	159.0	3	3	0.0	3.0	3.0					
+ovarian follicle	159.0	2	1	2.0	2.0	3.0	2.0	1.0			
+oogenesis	159.0	1	2	1.0	0.0	1.0	1.0				
+ovary	159.0	2	3	1.0	0.0	2.0					
+sperm	159.0	3	2	3.0	3.0						
+blastocyst	159.0	2	3	2.0							
+fertilisation	159.0	1	2	2.0	3.0	0.0	0.0				
+ovulation	159.0	2	2	3.0	2.0	3.0					
+spermatogenesis	159.0	2	3	2.0	3.0	0.0	2.0	2.0	2.0		
+germ cell	159.0	0	1	1.0	3.0	3.0	0.0	1.0			
+mammary gland	159.0	1	1	3.0	0.0	2.0	0.0	1.0	2.0		
+zygote	159.0	2	1	2.0	3.0	3.0	3.0	1.0	2.0		
+menstrual cycle	159.0	0	0	0.0	3.0	1.0					
+embryo	159.0	3	2	2.0	2.0	2.0	3.0	2.0	2.0		
+aorta	160.0	3	2	3.0	0.0	2.0					
+aortic stenosis	160.0	1	2	2.0	2.0	2.0					
+myocardial infarction	160.0	0	2	3.0							
+pulmonary artery	160.0	3	1	2.0	1.0						
+pulmonary hypertension	160.0	0	1	2.0	1.0	0.0	1.0	0.0			
+mitral valve	160.0	2	2	2.0	1.0	2.0	3.0	3.0	2.0		
+atrial fibrillation	160.0	0	1	3.0	2.0						
+aortic dissection	160.0	0	1	1.0	1.0	1.0					
+ventricular fibrillation	160.0	3	2	2.0	2.0	3.0	3.0				
+aortic valve	160.0	3	1	2.0	3.0	3.0	3.0	2.0	3.0	2.0	
+ischemia	160.0	3	3	0.0	1.0	1.0	3.0	3.0			
+heart failure	160.0	0	3	0.0	3.0	3.0	3.0				
+thrombosis	160.0	0	0	0.0	2.0	2.0	2.0	0.0			
+cardiogenic shock	160.0	2	2	3.0	0.0	3.0	0.0				
+cardiomyopathy	160.0	2	2	1.0							
+hypertrophic cardiomyopathy	160.0	3	1	1.0	2.0	2.0					
+cardiac arrhythmia	160.0	3	2	1.0	2.0	2.0	3.0	2.0			
+cardiac output	160.0	2	1	2.0	2.0	2.0	2.0				
+atrial septal defect	160.0	2	0	1.0	2.0	3.0	2.0	1.0			
+dna methylation	161.0	3	3	1.0	3.0	2.0					
+dna repair	161.0	2	2	3.0							
+dna polymerase	161.0	2	2	2.0	1.0	1.0	2.0				
+alternative splicing	161.0	1	0	0.0	1.0	3.0					
+homologous recombination	161.0	2	2	1.0	2.0	1.0	3.0				
+dna	161.0	3	2	2.0	3.0	1.0	2.0	2.0	3.0	1.0	
+transcription factor	161.0	2	0	0.0	3.0	0.0	1.0	1.0			
+telomerase	161.0	1	1	1.0	1.0	2.0	2.0	1.0			
+cell cycle	161.0	2	2	1.0	2.0	2.0	2.0	3.0			
+helicase	161.0	0	1	2.0	2.0	2.0	1.0				
+heterochromatin	161.0	2	1	3.0	1.0	0.0	2.0	3.0	2.0		
+gene expression	161.0	1	2	1.0	1.0	2.0	1.0	1.0	2.0	2.0	
+intron	161.0	1	2	0.0	3.0	3.0	2.0	0.0	0.0		
+rna	161.0	3	3	3.0	2.0	1.0	2.0	0.0	2.0		
+dna replication	161.0	3	3	3.0	3.0	3.0	1.0	3.0			
+gene	161.0	3	2	2.0	1.0	2.0	2.0				
+telomere	161.0	1	1	1.0	1.0	0.0	1.0	0.0			
+chromatin	161.0	0	0	3.0	1.0	0.0	3.0	0.0			
+microrna	161.0	0	1	1.0	2.0	1.0	2.0				
+colorectal cancer	162.0	3	3	3.0	2.0	2.0					
+renal cell carcinoma	162.0	2	2	1.0	2.0	3.0	2.0				
+malignancy	162.0	3	2	1.0	1.0	3.0	3.0	2.0			
+chemotherapy	162.0	3	2	3.0	3.0	3.0	2.0				
+adenocarcinoma	162.0	3	3	2.0							
+ovarian cancer	162.0	2	3	2.0	1.0	1.0	2.0	2.0			
+prostate cancer	162.0	3	2	2.0	2.0	3.0					
+metastasis	162.0	3	2	2.0	3.0	2.0	3.0	3.0			
+carcinogenesis	162.0	3	3	3.0	3.0	2.0	3.0	3.0			
+lymphoma	162.0	1	1	3.0	2.0	2.0	3.0				
+endometrial cancer	162.0	3	2	3.0	2.0	2.0	1.0	0.0			
+hepatocellular carcinoma	162.0	2	1	2.0	3.0	3.0					
+neuroblastoma	162.0	1	2	2.0	1.0						
+carcinoma	162.0	3	3	3.0	3.0	3.0					
+neoplasm	162.0	1	3	1.0	2.0	2.0	2.0	2.0	2.0	2.0	1.0
+glioma	162.0	0	0	3.0	1.0	3.0	2.0	0.0			
+melanoma	162.0	2	1	3.0	1.0	2.0	1.0	3.0			
+angiogenesis	162.0	3	1	2.0	1.0	1.0	1.0	1.0			
+apoptosis	162.0	1	1	0.0	1.0	1.0	0.0				
+pathogenic bacteria	163.0	1	3	3.0	1.0	3.0	2.0	3.0	3.0		
+bacteria	163.0	3	2	2.0	3.0	3.0	1.0	0.0			
+pseudomonas aeruginosa	163.0	0	3	1.0	1.0						
+candida albicans	163.0	2	2	0.0	1.0						
+pseudomonas	163.0	1	2	3.0	3.0	2.0	1.0				
+staphylococcus	163.0	3	1	2.0	3.0	0.0	2.0	2.0	2.0	2.0	
+microorganism	163.0	3	1	3.0	1.0	3.0	2.0	3.0			
+staphylococcus aureus	163.0	2	1	2.0	3.0	2.0	2.0				
+archaea	163.0	2	1	2.0	2.0	2.0					
+enterobacteriaceae	163.0	2	0	3.0	1.0	1.0	3.0	2.0			
+lipopolysaccharide	163.0	1	1	1.0	1.0	2.0	2.0	1.0			
+haemophilus influenzae	163.0	2	3	2.0	1.0	2.0	2.0	1.0	2.0	1.0	
+gram-negative bacteria	163.0	1	1	1.0	2.0	2.0	3.0	3.0			
+mycobacterium tuberculosis	163.0	1	1	2.0	2.0	0.0	1.0	1.0	2.0		
+bacillus subtilis	163.0	2	0	3.0	2.0	2.0					
+escherichia coli (molecular biology)	163.0	0	1	1.0	3.0						
+salmonella	163.0	3	1	0.0	1.0	2.0	2.0				
+escherichia coli	163.0	3	1	2.0	1.0	0.0	3.0	2.0			
+listeria monocytogenes	163.0	1	2	1.0	1.0	1.0					
+biosensor	164.0	2	2	1.0	2.0	1.0	2.0	3.0			
+microscopy	164.0	2	3	1.0	0.0	2.0	2.0				
+flow cytometry	164.0	1	0	2.0	3.0	1.0	0.0	3.0			
+antibody	164.0	3	0	3.0	0.0	1.0	1.0	3.0			
+gene expression	164.0	2	2	1.0	1.0	2.0					
+fluorescence in situ hybridization	164.0	3	2	2.0	1.0	1.0	1.0	1.0	3.0		
+fluorescence	164.0	3	1	1.0	1.0	1.0	1.0				
+assay	164.0	1	2	1.0	2.0						
+immunohistochemistry	164.0	2	2	3.0	2.0	1.0	2.0	3.0			
+biomarker (medicine)	164.0	1	2	1.0	1.0						
+biomarker	164.0	3	1	2.0	2.0	1.0	1.0	0.0	1.0	2.0	
+mass spectrometry	164.0	2	1	2.0	2.0	1.0	0.0				
+protein	164.0	0	0	2.0	2.0	0.0					
+western blot	164.0	2	0	2.0	0.0	1.0					
+immunoprecipitation	164.0	3	2	1.0	2.0	1.0	2.0	1.0	2.0		
+immunofluorescence	164.0	1	2	3.0	3.0	1.0	3.0	1.0			
+in situ hybridization	164.0	2	0	1.0	3.0	0.0	2.0	1.0			
+proteomics	164.0	1	0	0.0	2.0						
+nanoparticle	164.0	2	0	0.0	1.0	2.0					
+medical diagnosis	165.0	2	3	2.0	3.0	1.0					
+renal cell carcinoma	165.0	0	0	2.0	3.0	1.0					
+infection	165.0	2	3	2.0	3.0	2.0	2.0				
+hepatocellular carcinoma	165.0	1	2	1.0	2.0	0.0	0.0				
+diagnostic test	165.0	0	0	3.0	3.0	2.0					
+chemotherapy	165.0	3	1	2.0	3.0	2.0	1.0	1.0			
+biomarker (medicine)	165.0	2	1	2.0	1.0	2.0	2.0	1.0			
+biomarker	165.0	1	1	3.0	0.0	1.0	1.0				
+comorbidity	165.0	2	0	1.0	0.0	0.0	1.0	1.0	1.0		
+immunohistochemistry	165.0	2	1	1.0	1.0	2.0	1.0	1.0			
+eosinophilia	165.0	1	3	1.0	1.0	1.0	2.0	0.0			
+systemic lupus erythematosus	165.0	1	2	2.0	1.0	2.0	1.0	1.0	1.0		
+skin biopsy	165.0	2	2	3.0	2.0	2.0	2.0				
+pathology	165.0	3	1	2.0	1.0	3.0	1.0				
+diagnosis	165.0	3	2	3.0	3.0	3.0					
+asymptomatic	165.0	1	1	1.0	2.0	2.0					
+biopsy	165.0	2	2	3.0	3.0	1.0	3.0	2.0	3.0	2.0	
+hyperthyroidism	165.0	1	1	1.0	1.0	2.0	1.0				
+differential diagnosis	165.0	1	0	0.0	3.0	3.0					
+ovarian cancer	166.0	1	2	1.0	1.0	2.0	0.0	1.0	0.0		
+bone marrow	166.0	1	3	0.0	1.0						
+hematopoietic stem cell transplantation	166.0	3	3	2.0	1.0	2.0	1.0				
+breast cancer	166.0	0	0	2.0	1.0	3.0					
+leukemia	166.0	3	3	1.0	2.0	3.0	3.0	2.0			
+lung transplantation	166.0	0	2	0.0	1.0	3.0	3.0				
+immunosuppression	166.0	2	1	2.0	2.0	1.0	2.0				
+kidney transplantation	166.0	2	2	2.0	1.0	1.0	3.0	3.0			
+lymphoma	166.0	2	2	1.0	1.0	2.0					
+sepsis	166.0	2	1	1.0	2.0	1.0	1.0	1.0			
+aplastic anemia	166.0	0	2	2.0	2.0	1.0	1.0	1.0			
+chemotherapy	166.0	1	3	1.0	0.0	2.0	0.0				
+cancer	166.0	2	3	2.0	3.0	3.0	1.0	2.0			
+radiation therapy	166.0	2	1	2.0	2.0	2.0	3.0				
+multiple myeloma	166.0	3	2	1.0	3.0	0.0	1.0	1.0			
+prostate cancer	166.0	2	2	1.0	3.0	0.0	1.0	1.0	2.0		
+neuroblastoma	166.0	1	2	2.0	0.0	2.0					
+organ transplantation	166.0	3	3	0.0							
+liver transplantation	166.0	1	2	2.0	3.0	1.0	3.0	2.0			
+saturated fat	167.0	2	1	1.0	2.0	1.0					
+weight loss	167.0	3	2	1.0	2.0	2.0	1.0	2.0	2.0	3.0	
+nutrition	167.0	2	3	3.0	1.0						
+multivitamin	167.0	1	0	2.0	3.0	1.0					
+b vitamins	167.0	1	3	2.0	1.0	2.0	2.0	2.0	3.0	2.0	2.0
+niacin	167.0	2	0	3.0	0.0	3.0	0.0	1.0			
+vitamin a	167.0	1	2	1.0	1.0	1.0	3.0				
+vitamin d	167.0	2	2	2.0	0.0	2.0	0.0				
+eating	167.0	2	2	2.0	1.0	1.0	3.0				
+vitamin c	167.0	1	1	1.0	2.0	2.0	3.0				
+malnutrition	167.0	2	1	1.0	1.0	3.0	1.0	1.0	2.0	2.0	
+fish oil	167.0	0	0	1.0	3.0	1.0					
+healthy diet	167.0	2	2	3.0							
+low-carbohydrate diet	167.0	2	1	1.0	3.0	1.0	3.0	2.0			
+dietary fiber	167.0	1	3	2.0	2.0	2.0	1.0	3.0			
+folic acid	167.0	1	2	3.0	3.0	1.0					
+glycemic index	167.0	2	1	1.0	1.0	1.0	1.0	1.0	0.0		
+vitamin b12	167.0	2	1	3.0	2.0	1.0	3.0	3.0	3.0	1.0	
+dietary supplement	167.0	2	2	3.0	3.0	3.0	3.0	1.0	2.0		
+ion source	168.0	1	1	1.0	1.0	0.0	1.0				
+matrix-assisted laser desorption/ionization	168.0	2	2	2.0	1.0	1.0	1.0				
+infrared spectroscopy	168.0	2	0	2.0	3.0	0.0	0.0				
+raman spectroscopy	168.0	1	2	1.0	1.0	1.0	2.0				
+absorption spectroscopy	168.0	1	1	2.0	1.0	2.0	3.0	3.0	1.0		
+nuclear magnetic resonance	168.0	0	2	2.0	3.0	3.0	3.0	2.0	3.0		
+column chromatography	168.0	3	1	2.0	2.0	2.0	1.0	2.0	1.0	2.0	
+tandem mass spectrometry	168.0	2	1	2.0	1.0	1.0	1.0				
+chromatography	168.0	2	1	3.0	1.0	2.0	3.0				
+gas chromatography	168.0	1	2	1.0	3.0	1.0	2.0	2.0	3.0	2.0	
+gel electrophoresis	168.0	1	1	1.0	2.0	1.0	0.0				
+mass spectrometry	168.0	2	1	3.0	1.0	2.0					
+protein purification	168.0	1	1	1.0	1.0	2.0	2.0	1.0	0.0		
+analytical chemistry	168.0	2	1	2.0	2.0	1.0	1.0				
+elemental analysis	168.0	2	1	1.0	2.0	0.0	2.0	1.0	2.0	3.0	
+elution	168.0	1	1	2.0	1.0	1.0					
+solubility	168.0	2	1	3.0	2.0	2.0	3.0	2.0	1.0	2.0	
+adsorption	168.0	1	1	1.0	0.0	1.0	1.0				
+high-performance liquid chromatography	168.0	3	3	2.0	1.0	2.0	3.0	2.0			
+angiogenesis	169.0	2	1	2.0	0.0	3.0	1.0				
+fibroblast	169.0	1	1	1.0	2.0	2.0	0.0	0.0			
+epithelium	169.0	2	2	1.0	1.0	1.0	1.0	2.0	1.0		
+cellular differentiation	169.0	2	2	2.0	2.0	1.0	3.0	3.0			
+apoptosis	169.0	1	1	1.0	1.0	1.0	2.0	2.0	2.0		
+wound healing	169.0	0	2	1.0	0.0						
+autophagy	169.0	2	1	3.0	2.0						
+cell culture	169.0	2	2	3.0	3.0	2.0					
+macrophage	169.0	3	1	1.0	1.0	1.0	1.0				
+microglia	169.0	2	1	0.0	3.0	1.0	3.0				
+cell migration	169.0	1	2	1.0	3.0	0.0	1.0				
+mammary gland	169.0	1	2	0.0	2.0	1.0	0.0	1.0	2.0		
+cell signaling	169.0	3	2	1.0	1.0	1.0	3.0				
+immune system	169.0	2	0	0.0	1.0	3.0					
+t cell	169.0	0	2	1.0	3.0	2.0	1.0	3.0			
+programmed cell death	169.0	0	2	1.0	3.0						
+extracellular matrix	169.0	1	2	2.0	2.0	2.0	2.0				
+cell growth	169.0	3	3	2.0	2.0	3.0	2.0	2.0	2.0		
+perlecan	169.0	1	1	2.0	2.0	2.0					
+nuclear magnetic resonance	170.0	3	2	2.0	3.0	0.0	3.0	2.0	1.0	2.0	
+x-ray	170.0	2	0	1.0	2.0	3.0	1.0				
+transmission electron microscopy	170.0	1	1	1.0	1.0	2.0	2.0	1.0	2.0		
+mass spectrometry	170.0	2	0	0.0	2.0	2.0					
+ultrasound	170.0	2	2	2.0	3.0	2.0	1.0	2.0	3.0		
+tomography	170.0	2	2	2.0	3.0	2.0					
+microscopy	170.0	2	0	0.0	2.0	0.0					
+diffusion mri	170.0	2	2	2.0	1.0	1.0	1.0	3.0	1.0	2.0	
+atomic force microscopy	170.0	3	0	1.0	1.0	1.0	1.0	1.0	2.0	0.0	
+anisotropy	170.0	1	1	2.0	2.0	2.0	1.0	0.0			
+optical coherence tomography	170.0	3	2	3.0	3.0	1.0	2.0	2.0	1.0		
+magnetic resonance imaging	170.0	2	1	1.0	2.0	3.0	1.0	3.0	2.0	3.0	1.0
+positron emission tomography	170.0	0	1	2.0	2.0	2.0					
+neuroimaging	170.0	2	3	1.0	3.0	0.0					
+ct scan	170.0	0	2	0.0							
+electroencephalography	170.0	3	1	3.0	1.0	1.0	2.0				
+raman spectroscopy	170.0	2	1	1.0	1.0	2.0	0.0				
+medical imaging	170.0	3	2	3.0	3.0	2.0	3.0	2.0	3.0		
+functional magnetic resonance imaging	170.0	2	3	1.0	3.0	0.0	0.0				
+avascular necrosis	171.0	1	1	1.0	2.0	2.0	1.0	1.0			
+osteoarthritis	171.0	0	0	3.0	3.0	2.0					
+osteoclast	171.0	1	2	2.0	2.0	0.0	1.0				
+osteoporosis	171.0	2	3	3.0	1.0	2.0	3.0	2.0	3.0		
+calcification	171.0	3	2	2.0	1.0	1.0	3.0				
+fibrosis	171.0	1	2	2.0	2.0	2.0	1.0	0.0			
+extracellular matrix	171.0	1	0	2.0	2.0	2.0					
+cartilage	171.0	3	1	1.0	2.0	1.0	2.0	3.0			
+bone tissue	171.0	3	2	3.0	3.0	3.0	2.0				
+bone fracture	171.0	1	3	2.0	3.0	0.0	0.0				
+intervertebral disc	171.0	2	1	1.0	2.0	1.0	1.0				
+osteoblast	171.0	1	0	0.0	1.0	1.0	3.0	2.0			
+tendon	171.0	2	2	1.0	0.0	0.0	0.0	1.0	1.0	1.0	
+soft tissue	171.0	2	2	2.0	1.0						
+bone	171.0	3	0	0.0	2.0	2.0					
+inflammation	171.0	2	1	1.0	1.0	2.0					
+collagen	171.0	2	2	2.0	2.0	3.0	3.0	1.0	2.0	2.0	3.0
+connective tissue	171.0	2	2	2.0	3.0	1.0	1.0	1.0			
+bone resorption	171.0	2	1	2.0	2.0	2.0					
+glutathione	172.0	1	0	0.0	1.0	1.0					
+hydrolysis	172.0	2	0	0.0	1.0	1.0					
+nitric oxide	172.0	2	1	1.0	0.0	1.0	2.0	1.0			
+oxidative stress	172.0	2	2	3.0	1.0	1.0	3.0	3.0			
+bacteria	172.0	1	1	3.0	2.0	0.0	0.0	1.0	2.0	2.0	
+reactive oxygen species	172.0	1	2	3.0	2.0	1.0	1.0	2.0	3.0	3.0	
+lipid	172.0	1	1	3.0	1.0	2.0	1.0	0.0			
+superoxide dismutase	172.0	2	1	1.0	3.0	2.0	1.0				
+enzyme	172.0	2	1	1.0	1.0	1.0					
+superoxide	172.0	2	0	1.0	2.0	1.0					
+antioxidant	172.0	2	3	2.0	3.0	3.0	3.0	3.0			
+hemoglobin	172.0	1	1	2.0	3.0	2.0	1.0	3.0			
+glycolysis	172.0	2	1	2.0	2.0	0.0	1.0				
+metabolism	172.0	1	1	1.0	3.0	2.0	2.0	2.0			
+phenols	172.0	1	1	2.0	1.0	1.0	0.0				
+cysteine	172.0	1	2	1.0	2.0	2.0	1.0				
+oxidative phosphorylation	172.0	2	2	2.0	3.0	1.0	3.0	1.0	2.0		
+amino acid	172.0	2	2	0.0	1.0	3.0	1.0				
+cytochrome p450	172.0	1	2	2.0	0.0	1.0	2.0				
+non-coding rna	173.0	3	0	2.0	0.0	0.0	2.0	0.0			
+gene expression	173.0	3	2	1.0	1.0	3.0	2.0	3.0			
+transcription factor	173.0	2	1	1.0	3.0	2.0					
+microrna	173.0	1	1	2.0	1.0	0.0	1.0	3.0			
+kinase	173.0	1	1	1.0	1.0	2.0	0.0	1.0			
+gene	173.0	0	2	2.0	3.0	3.0	3.0	1.0	1.0	3.0	
+dna methylation	173.0	1	2	2.0	2.0	1.0	3.0	1.0			
+dna repair	173.0	2	2	2.0	3.0	1.0	1.0	1.0	2.0	3.0	
+nf-κb	173.0	0	2	0.0	2.0	0.0	1.0				
+repressor	173.0	3	1	1.0	2.0	1.0					
+p53	173.0	0	0	1.0	1.0	1.0					
+signal transduction	173.0	1	2	0.0	3.0	1.0	1.0	1.0			
+messenger rna	173.0	3	2	0.0	1.0	1.0	0.0	3.0	3.0		
+transactivation	173.0	1	0	3.0	3.0	1.0	1.0				
+alternative splicing	173.0	0	1	1.0	2.0	1.0					
+long non-coding rna	173.0	1	1	1.0	1.0	1.0	0.0				
+transcriptional regulation	173.0	3	0	1.0							
+gene silencing	173.0	1	2	1.0	1.0	2.0	0.0	0.0			
+gene product	173.0	3	3	2.0	3.0	2.0	2.0	2.0	2.0	1.0	
+multiple myeloma	174.0	1	2	2.0							
+ulcerative colitis	174.0	1	1	3.0	0.0	3.0	1.0				
+brachytherapy	174.0	1	3	1.0	1.0	3.0					
+prostate	174.0	2	3	1.0	1.0	1.0	0.0	0.0			
+colorectal cancer	174.0	1	1	0.0	3.0	2.0	2.0	1.0	2.0		
+radiation therapy	174.0	3	3	1.0	3.0	3.0	3.0	2.0			
+cancer	174.0	2	2	2.0	3.0	2.0	3.0				
+leukemia	174.0	1	1	2.0	0.0	1.0	0.0				
+endometrial cancer	174.0	3	1	2.0	3.0	2.0	2.0	1.0	0.0	1.0	
+thyroid	174.0	1	1	0.0	1.0	2.0	0.0				
+hepatocellular carcinoma	174.0	1	1	2.0	2.0	0.0	2.0				
+prostate cancer	174.0	2	0	2.0	1.0	0.0	3.0	1.0			
+pancreas	174.0	2	1	2.0	2.0	1.0					
+breast cancer	174.0	2	0	1.0	1.0	3.0					
+chemotherapy	174.0	3	3	2.0	1.0	1.0					
+melanoma	174.0	1	1	2.0	2.0	0.0	1.0				
+lymphoma	174.0	2	2	0.0	2.0	2.0	2.0	2.0	0.0	1.0	
+ovarian cancer	174.0	1	2	1.0	1.0	1.0	2.0	2.0	3.0	2.0	
+pancreatic cancer	174.0	2	2	1.0	2.0	2.0	2.0	1.0			
+optic nerve	175.0	3	2	3.0	3.0						
+refractive error	175.0	1	3	2.0	0.0	1.0	2.0	1.0			
+eye	175.0	3	2	2.0	2.0	3.0	2.0				
+optic disc	175.0	1	2	2.0	2.0	1.0	1.0	2.0	3.0		
+keratoconus	175.0	1	2	2.0	2.0	3.0	2.0	0.0	0.0		
+glaucoma	175.0	2	2	2.0	3.0	2.0	3.0				
+astigmatism	175.0	0	3	1.0	1.0	3.0	0.0				
+strabismus	175.0	2	2	2.0	1.0	1.0	2.0	2.0			
+visual acuity	175.0	3	3	2.0	2.0	1.0	2.0	2.0	2.0	3.0	
+retina	175.0	0	3	2.0	1.0	1.0	3.0	1.0	3.0	2.0	
+diabetic retinopathy	175.0	1	2	0.0	2.0						
+intraocular pressure	175.0	2	2	1.0	1.0	2.0	2.0	2.0	2.0		
+myopia	175.0	1	2	2.0	1.0						
+astigmatism (eye)	175.0	3	3	2.0	3.0	3.0	1.0				
+keratitis	175.0	0	1	1.0	2.0	1.0	0.0	0.0			
+human eye	175.0	2	1	3.0	2.0	3.0	3.0				
+visual field	175.0	2	1	3.0	2.0	2.0	0.0				
+cornea	175.0	0	3	2.0	2.0	1.0					
+visual system	175.0	1	3	1.0	2.0	3.0	3.0	2.0			
+protease	176.0	2	1	1.0	1.0	2.0	2.0	1.0	2.0		
+glycosylation	176.0	3	1	1.0	1.0	1.0	2.0	1.0	2.0		
+ubiquitin	176.0	1	0	2.0	1.0	0.0	1.0	1.0			
+cysteine	176.0	0	1	1.0	1.0	0.0	0.0				
+protein structure	176.0	3	3	3.0	2.0	3.0					
+enzyme	176.0	1	1	2.0	3.0	3.0	1.0	3.0	1.0		
+actin	176.0	0	3	3.0	1.0						
+amino acid	176.0	3	2	2.0	2.0	1.0	3.0				
+protein	176.0	1	2	2.0	3.0	3.0	3.0				
+disulfide	176.0	0	1	1.0	1.0	2.0	1.0	1.0			
+active site	176.0	2	2	0.0	2.0	1.0	3.0	0.0	3.0	1.0	
+c-terminus	176.0	2	2	1.0	3.0	2.0					
+ligand	176.0	1	1	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+binding site	176.0	0	0	0.0	3.0	2.0					
+protein domain	176.0	3	3	2.0	1.0	1.0	3.0				
+hydrolysis	176.0	2	3	1.0	2.0	2.0	1.0				
+proteolysis	176.0	2	1	1.0	1.0	1.0	2.0				
+transcription factor	176.0	0	2	1.0	2.0	2.0	3.0				
+acetylation	176.0	1	1	1.0	0.0	2.0	1.0	0.0			
+polymorphism (biology)	177.0	2	3	1.0	2.0	0.0	2.0	0.0			
+phenotype	177.0	2	2	3.0	2.0	3.0	0.0				
+allele	177.0	1	0	2.0	2.0	3.0	3.0				
+chromosome	177.0	2	2	2.0	3.0	2.0	0.0	0.0			
+linkage disequilibrium	177.0	2	2	1.0	2.0	1.0	3.0	1.0			
+genotype	177.0	0	0	1.0	3.0	3.0					
+dna methylation	177.0	0	2	2.0	3.0	1.0	1.0	3.0	2.0		
+haplotype	177.0	1	1	1.0	0.0	3.0					
+human genome	177.0	1	3	2.0	2.0	3.0	3.0	2.0			
+single-nucleotide polymorphism	177.0	0	3	1.0	2.0	1.0	2.0	1.0	1.0	1.0	
+mutation	177.0	2	2	3.0	3.0						
+mitochondrial dna	177.0	2	1	3.0	1.0	2.0	2.0	1.0			
+genetics	177.0	3	3	2.0	0.0	3.0	3.0	3.0	3.0		
+chromosome 7 (human)	177.0	2	2	2.0	2.0	3.0	2.0	1.0	2.0	2.0	
+point mutation	177.0	2	3	2.0	2.0	2.0	2.0	1.0			
+genetic association	177.0	2	1	2.0	1.0	3.0	3.0				
+genetic variation	177.0	3	2	3.0	3.0						
+gene	177.0	0	3	0.0	3.0	3.0					
+y chromosome	177.0	2	3	2.0	2.0	2.0	1.0				
+miscarriage	178.0	3	0	1.0	0.0	1.0	2.0	2.0	1.0	2.0	
+infertility	178.0	2	0	2.0	2.0	1.0	1.0				
+infant	178.0	2	1	1.0	2.0	1.0	2.0	1.0	2.0		
+prenatal care	178.0	2	2	2.0	2.0	2.0	3.0				
+stillbirth	178.0	1	1	1.0	1.0	3.0	2.0	3.0	1.0	2.0	
+ectopic pregnancy	178.0	1	2	1.0	1.0	1.0					
+pre-eclampsia	178.0	3	1	1.0	1.0	1.0					
+fetus	178.0	3	1	3.0	2.0	2.0	3.0	3.0	3.0	3.0	
+infant mortality	178.0	1	3	2.0	2.0	3.0	3.0				
+pregnancy	178.0	3	3	1.0	3.0	0.0	3.0	0.0			
+childbirth	178.0	1	2	1.0	3.0	3.0	1.0	2.0	3.0	3.0	
+preterm birth	178.0	2	2	3.0	3.0	3.0	3.0	3.0			
+maternal health	178.0	3	3	3.0	2.0	3.0	3.0	2.0	1.0	3.0	
+placental abruption	178.0	1	1	1.0	2.0	1.0	2.0				
+caesarean section	178.0	1	2	2.0	3.0	2.0	2.0	1.0	1.0		
+birth	178.0	3	2	3.0	3.0	3.0	1.0	3.0			
+low birth weight	178.0	1	1	2.0	1.0	1.0	1.0				
+gestational age	178.0	3	1	3.0	2.0	0.0	0.0	2.0	0.0		
+breastfeeding	178.0	0	3	1.0							
+revascularization	179.0	2	2	2.0	0.0	0.0	1.0	1.0			
+elective surgery	179.0	2	2	2.0	1.0	3.0	3.0	2.0			
+local anesthesia	179.0	1	2	3.0	3.0	3.0	3.0	1.0	1.0		
+abdominal surgery	179.0	2	2	1.0	2.0	0.0	1.0				
+intubation	179.0	2	2	2.0	2.0	2.0					
+general anaesthesia	179.0	2	1	1.0	1.0	1.0	1.0	2.0	1.0		
+liver transplantation	179.0	3	2	2.0	1.0	2.0	2.0	1.0			
+breast surgery	179.0	2	1	1.0	1.0	1.0					
+cholecystectomy	179.0	1	2	1.0	1.0	1.0	1.0	1.0			
+chemotherapy	179.0	1	1	1.0	2.0	2.0	1.0				
+hemodialysis	179.0	0	1	2.0	0.0	3.0	2.0	1.0	1.0	1.0	1.0
+neurosurgery	179.0	2	2	2.0	3.0	0.0	1.0				
+bowel resection	179.0	2	1	1.0	2.0	1.0	1.0				
+colonoscopy	179.0	3	2	0.0	1.0	3.0	3.0	0.0			
+radiation therapy	179.0	1	1	1.0	3.0	1.0	1.0	1.0	2.0		
+hysterectomy	179.0	0	2	1.0	1.0	2.0	1.0	2.0			
+pneumonectomy	179.0	1	2	2.0	0.0	2.0	1.0	2.0	2.0	1.0	
+medical procedure	179.0	0	0	3.0	0.0						
+surgery	179.0	2	3	2.0	2.0	3.0	3.0				
+shoulder	180.0	1	1	1.0	1.0	0.0	1.0	1.0			
+thigh	180.0	2	2	1.0	1.0	1.0	2.0	1.0			
+knee	180.0	1	1	3.0	2.0	2.0	3.0				
+lateral meniscus	180.0	2	3	3.0	1.0						
+calcaneus	180.0	1	2	1.0	2.0	2.0	2.0	1.0			
+ankle	180.0	1	3	2.0	2.0	3.0	3.0				
+rotator cuff	180.0	2	1	0.0	1.0	0.0	1.0				
+biceps	180.0	0	2	3.0	1.0	0.0	1.0	2.0	1.0	1.0	
+shoulder joint	180.0	2	1	1.0	3.0	1.0	1.0				
+wrist	180.0	1	1	2.0	0.0	2.0	0.0	1.0	1.0	1.0	
+ligament	180.0	2	0	3.0	2.0	2.0	1.0	3.0			
+tibia	180.0	3	2	3.0	1.0						
+clavicle	180.0	2	0	0.0	2.0	0.0					
+femur	180.0	1	1	1.0	2.0	3.0	2.0	2.0	1.0		
+elbow	180.0	2	1	1.0	1.0	1.0	1.0	1.0			
+forearm	180.0	0	0	1.0	2.0	0.0					
+pelvis	180.0	1	1	0.0	1.0	1.0	1.0				
+medial collateral ligament	180.0	2	1	2.0	2.0	1.0	2.0	3.0	2.0		
+anterior cruciate ligament	180.0	2	1	1.0	1.0	2.0	1.0	1.0			
+bupropion	181.0	2	0	1.0	1.0	2.0	0.0				
+adjuvant therapy	181.0	2	3	1.0	3.0	3.0	1.0	1.0			
+patient safety	181.0	3	1	2.0	1.0	2.0	1.0	2.0			
+clinical trial	181.0	2	0	0.0	3.0	1.0					
+cognitive behavioral therapy	181.0	0	0	3.0	1.0	2.0	1.0	0.0			
+chemotherapy	181.0	1	3	1.0	2.0	2.0	3.0	3.0			
+electroconvulsive therapy	181.0	2	2	1.0	1.0						
+clinical research	181.0	3	2	3.0	3.0	3.0	3.0	2.0	3.0	3.0	
+pharmacotherapy	181.0	1	3	3.0	3.0	2.0	2.0				
+hormone replacement therapy (menopause)	181.0	2	1	1.0	2.0	2.0	0.0	1.0	2.0		
+therapy	181.0	3	2	2.0	3.0	1.0	3.0	2.0			
+antidepressant	181.0	1	1	2.0	1.0	3.0	2.0	1.0	0.0		
+clozapine	181.0	1	0	2.0	2.0	2.0	2.0	1.0			
+comorbidity	181.0	2	2	2.0	0.0	2.0	1.0	2.0			
+palliative care	181.0	1	1	2.0	3.0	2.0	2.0				
+major depressive disorder	181.0	2	3	1.0	2.0	0.0	1.0	2.0			
+antipsychotic	181.0	0	2	0.0	3.0	0.0					
+pain management	181.0	2	2	2.0	1.0	2.0					
+exacerbation	181.0	2	0	1.0	2.0	0.0	0.0	1.0			
+concussion	182.0	3	2	3.0	2.0	2.0	1.0	3.0	1.0		
+traumatic brain injury	182.0	2	1	3.0	3.0	3.0	3.0	3.0			
+intracranial pressure	182.0	1	1	3.0	2.0	2.0	2.0				
+central nervous system	182.0	1	2	1.0	1.0	2.0	1.0	2.0	2.0	2.0	
+head injury	182.0	2	3	2.0	3.0	3.0	3.0	2.0	2.0		
+cerebellum	182.0	2	2	0.0							
+nervous system	182.0	1	3	1.0	2.0	2.0	2.0	3.0			
+aneurysm	182.0	0	0	1.0	1.0	1.0	2.0				
+spinal cord injury	182.0	1	2	2.0	3.0	2.0	1.0	3.0	2.0		
+optic nerve	182.0	0	1	2.0	1.0	1.0	2.0	1.0			
+brain injury	182.0	3	3	1.0	2.0	2.0	3.0	3.0	2.0		
+brain	182.0	3	3	1.0	1.0	3.0					
+brainstem	182.0	0	2	2.0	1.0	1.0	2.0				
+brain damage	182.0	3	3	2.0	3.0	3.0					
+nerve	182.0	1	1	1.0	2.0	1.0	1.0	2.0	2.0		
+paralysis	182.0	2	1	0.0	3.0	1.0	1.0				
+spinal cord	182.0	0	0	0.0	2.0	3.0	0.0				
+brain herniation	182.0	0	2	0.0	2.0	2.0					
+subdural hematoma	182.0	2	1	2.0	1.0	2.0					
+major depressive disorder	183.0	1	1	2.0	3.0	2.0	1.0	2.0	3.0	2.0	
+epilepsy	183.0	0	0	3.0	1.0						
+fibromyalgia	183.0	1	2	2.0	1.0	3.0	1.0	2.0	1.0		
+hypothyroidism	183.0	2	1	2.0	3.0	1.0	1.0	2.0	1.0	0.0	
+systemic lupus erythematosus	183.0	2	3	2.0	3.0	2.0	2.0	0.0	1.0		
+mental disorder	183.0	2	2	2.0	2.0	2.0					
+asymptomatic	183.0	1	2	2.0	1.0	0.0	2.0				
+symptom	183.0	3	2	3.0	0.0	2.0	3.0	2.0	2.0		
+hyperthyroidism	183.0	2	0	0.0	1.0	1.0	3.0	1.0			
+rheumatoid arthritis	183.0	1	1	1.0	3.0	1.0	1.0	1.0	1.0		
+sarcoidosis	183.0	2	1	1.0	3.0	2.0	1.0	1.0			
+peripheral neuropathy	183.0	1	2	1.0	1.0	1.0	2.0	1.0			
+genetic disorder	183.0	2	2	2.0	1.0						
+anemia	183.0	1	2	1.0	2.0	1.0	0.0	1.0	2.0		
+schizophrenia	183.0	1	1	2.0	2.0	2.0	2.0				
+dementia	183.0	3	2	1.0	2.0	0.0	1.0				
+differential diagnosis	183.0	2	2	2.0	2.0	2.0					
+comorbidity	183.0	2	1	1.0	2.0	2.0	1.0	2.0	1.0	2.0	
+psychosis	183.0	2	3	2.0	2.0	2.0	2.0	1.0	2.0		
+motor neuron	184.0	3	2	2.0	3.0	3.0	2.0	2.0	3.0		
+neuron	184.0	0	0	2.0	3.0	2.0					
+dopamine	184.0	2	1	2.0	1.0						
+stimulation	184.0	2	2	3.0	0.0	3.0	1.0	2.0			
+membrane potential	184.0	2	1	2.0	2.0	3.0	2.0				
+stimulus (physiology)	184.0	2	2	3.0	3.0	3.0	2.0	2.0	3.0	3.0	
+olfactory bulb	184.0	2	0	1.0							
+synaptic plasticity	184.0	1	2	1.0	1.0	1.0	1.0	3.0	0.0	2.0	
+depolarization	184.0	2	2	1.0	1.0	2.0	1.0	1.0			
+nociception	184.0	1	1	2.0	1.0	3.0	2.0	2.0	1.0	2.0	2.0
+sympathetic nervous system	184.0	2	3	3.0	2.0	2.0	3.0	2.0			
+brain	184.0	2	2	2.0	2.0	1.0					
+action potential	184.0	2	0	1.0	1.0	1.0	2.0				
+autonomic nervous system	184.0	2	0	0.0	2.0	3.0					
+neurotransmitter	184.0	1	2	3.0	2.0	1.0	1.0				
+arousal	184.0	1	3	2.0	0.0	1.0	2.0	2.0			
+acetylcholine	184.0	2	3	2.0	2.0	2.0	1.0	1.0	1.0		
+central nervous system	184.0	2	1	2.0	3.0	3.0	2.0	2.0	2.0		
+nervous system	184.0	3	3	3.0	2.0	3.0	2.0	2.0	3.0		
+sweet potato	185.0	2	1	0.0	2.0	2.0	1.0				
+barley	185.0	1	1	1.0	1.0	1.0	1.0	2.0			
+sorghum	185.0	2	1	3.0	0.0	0.0	2.0	0.0	3.0		
+endosperm	185.0	2	1	1.0	2.0	1.0	1.0	0.0	0.0		
+cabbage	185.0	2	2	0.0	2.0						
+potato	185.0	2	0	0.0	1.0	1.0					
+legume	185.0	1	1	2.0	1.0	1.0	1.0				
+germination	185.0	1	3	1.0	3.0	1.0	1.0	3.0			
+rice	185.0	1	2	0.0	1.0	2.0	1.0	1.0			
+maize	185.0	2	2	2.0	1.0	3.0	1.0	1.0			
+tuber	185.0	1	1	1.0	1.0	1.0	0.0				
+wheat	185.0	2	2	2.0	1.0	1.0	2.0				
+fruit	185.0	0	1	1.0	2.0	1.0					
+crop	185.0	3	1	2.0	2.0	1.0	3.0				
+cassava	185.0	0	1	1.0	1.0	1.0	1.0				
+soybean	185.0	1	1	1.0	2.0	1.0	0.0	0.0			
+tomato	185.0	0	2	1.0	1.0	1.0	1.0				
+vegetable	185.0	2	2	3.0	1.0	1.0	1.0				
+seedling	185.0	3	2	3.0	2.0						
+silicon	186.0	3	2	2.0							
+nanomaterials	186.0	1	3	1.0	2.0						
+nanowire	186.0	3	1	2.0	1.0						
+nanoparticle	186.0	2	2	2.0	2.0						
+graphene	186.0	1	3	3.0	2.0	1.0					
+sol-gel	186.0	2	0	2.0	3.0	1.0	2.0	1.0			
+lipid bilayer	186.0	0	1	2.0	0.0	1.0					
+cathode	186.0	1	2	0.0	1.0	1.0	0.0				
+biosensor	186.0	3	0	0.0							
+quantum dot	186.0	0	2	1.0	1.0	1.0	1.0	1.0			
+silicon dioxide	186.0	1	1	1.0	2.0	1.0	1.0	0.0			
+polymer	186.0	1	1	1.0	2.0	1.0	0.0	2.0			
+thin film	186.0	3	0	2.0	1.0	1.0	0.0				
+carbon nanotube	186.0	3	2	3.0	2.0	1.0	3.0	2.0			
+activated carbon	186.0	2	3	0.0							
+adsorption	186.0	1	0	1.0	1.0	2.0	2.0				
+sintering	186.0	1	1	1.0	1.0	0.0	1.0	1.0			
+anode	186.0	1	2	1.0	2.0	1.0	2.0	3.0			
+plasma (physics)	186.0	1	1	1.0	1.0	1.0	1.0				
+metabolite	187.0	1	1	1.0	2.0	2.0	1.0	1.0			
+ferulic acid	187.0	0	1	0.0	1.0	1.0	1.0	1.0			
+hydrolysis	187.0	2	2	2.0	2.0	2.0	2.0	1.0			
+phenols	187.0	1	2	2.0	2.0	0.0	2.0	1.0	1.0	1.0	
+neurotoxin	187.0	0	2	0.0	3.0	1.0	1.0				
+enzyme	187.0	1	2	1.0	3.0	0.0	0.0				
+enzyme inhibitor	187.0	2	2	3.0	2.0	2.0	3.0	3.0			
+pyridine	187.0	2	0	0.0	1.0	0.0	0.0	1.0			
+antioxidant	187.0	1	2	0.0	2.0	0.0	1.0	1.0	2.0		
+metabolism	187.0	3	1	1.0	2.0	1.0					
+natural product	187.0	0	1	0.0	1.0	0.0	3.0				
+cannabinoid	187.0	1	1	0.0	0.0	1.0	2.0				
+nitric oxide	187.0	1	2	2.0	1.0	1.0	2.0	2.0	1.0		
+glutathione	187.0	1	1	1.0	3.0	1.0	1.0	0.0			
+anti-inflammatory	187.0	2	1	0.0	1.0	1.0	0.0				
+berberine	187.0	1	1	0.0	2.0	0.0	1.0	1.0	2.0		
+dopamine	187.0	3	1	3.0	3.0	1.0	1.0	2.0			
+serotonin	187.0	1	2	1.0	0.0	1.0	2.0				
+cytochrome p450	187.0	3	1	3.0	2.0	3.0	2.0				
+human genome	188.0	3	3	3.0	3.0	2.0	1.0	3.0	2.0	2.0	1.0
+gene	188.0	3	3	3.0	2.0	3.0	0.0	0.0			
+alternative splicing	188.0	3	2	1.0	1.0	1.0	1.0	1.0	1.0	1.0	
+rna	188.0	1	1	3.0	3.0	3.0	0.0	2.0	0.0		
+long non-coding rna	188.0	1	1	0.0	3.0	2.0	2.0	3.0	1.0		
+microrna	188.0	3	1	2.0	1.0	1.0	0.0	1.0			
+dna methylation	188.0	0	3	2.0	3.0						
+genomic dna	188.0	2	2	2.0	3.0	1.0	2.0				
+encode	188.0	1	2	0.0	1.0	0.0	2.0				
+messenger rna	188.0	1	3	1.0	1.0	3.0	2.0	2.0	0.0	2.0	
+gene product	188.0	2	2	1.0	2.0	1.0	2.0	2.0	3.0	3.0	3.0
+protein	188.0	2	3	3.0	2.0	2.0	1.0	1.0			
+rna-seq	188.0	2	0	1.0	2.0	1.0	2.0				
+dna repair	188.0	0	2	2.0	2.0	3.0	0.0	0.0			
+transcriptome	188.0	2	1	1.0	1.0	1.0	3.0	1.0			
+intron	188.0	1	0	0.0	2.0	2.0					
+gene expression	188.0	3	1	3.0	2.0	2.0	2.0				
+transcription factor	188.0	3	1	1.0	1.0	2.0	2.0				
+non-coding rna	188.0	3	1	2.0	1.0	2.0	2.0	3.0			
+genetic analysis	189.0	3	2	2.0	3.0	3.0	2.0	1.0			
+phylogeography	189.0	3	1	1.0	3.0	3.0	1.0	3.0	3.0		
+comparative genomics	189.0	2	2	0.0	1.0	3.0	2.0				
+mitochondrial dna	189.0	2	1	2.0	3.0	3.0	1.0	1.0	3.0		
+organism	189.0	0	1	1.0	1.0						
+eukaryote	189.0	2	1	2.0	3.0						
+speciation	189.0	2	2	2.0	2.0	0.0	0.0				
+genetics	189.0	2	2	0.0	3.0	2.0	1.0				
+dna sequencing	189.0	0	1	2.0	2.0						
+genetic variation	189.0	1	2	1.0	2.0	2.0	2.0	2.0			
+archaea	189.0	1	1	0.0	1.0	1.0					
+population genetics	189.0	3	3	2.0	1.0						
+genome size	189.0	3	2	2.0	3.0	1.0	2.0	3.0	2.0	1.0	
+genome	189.0	1	3	1.0	1.0	1.0	3.0	3.0			
+genetic diversity	189.0	2	2	2.0	1.0	2.0					
+species complex	189.0	2	2	2.0	3.0	1.0	3.0	2.0			
+phylogenetics	189.0	2	3	1.0	3.0	3.0	2.0	3.0	2.0		
+mutation	189.0	0	2	3.0	3.0						
+human genome	189.0	0	3	2.0							
+transcription factor	190.0	0	0	0.0	0.0	3.0	2.0	0.0	1.0		
+microtubule	190.0	1	2	1.0	1.0	2.0	2.0	1.0			
+actin	190.0	1	1	0.0	3.0	1.0	1.0	2.0	1.0		
+cell migration	190.0	2	0	0.0	2.0	3.0					
+cell membrane	190.0	2	3	1.0	3.0	2.0					
+extracellular	190.0	0	1	2.0	1.0	2.0	1.0	2.0			
+cytosol	190.0	2	2	2.0	0.0	1.0	1.0	1.0	1.0	1.0	
+apoptosis	190.0	0	2	0.0	1.0	1.0					
+reactive oxygen species	190.0	0	2	1.0	2.0	2.0	2.0				
+cell signaling	190.0	0	0	1.0	1.0	1.0					
+extracellular matrix	190.0	1	1	1.0	3.0	1.0	1.0	1.0			
+cell growth	190.0	0	0	2.0	2.0	1.0					
+intracellular	190.0	2	1	1.0	2.0						
+signal transduction	190.0	1	1	1.0	1.0	2.0	1.0	1.0	1.0		
+gene expression	190.0	2	2	2.0	1.0	2.0	1.0				
+mitochondrion	190.0	3	2	3.0	1.0	3.0					
+endoplasmic reticulum	190.0	3	2	2.0	1.0	2.0	1.0	2.0	1.0		
+lipid bilayer	190.0	3	2	2.0	1.0	2.0	2.0	2.0	1.0	3.0	
+lipid	190.0	0	3	1.0	3.0	1.0	3.0	1.0			
+hypoxia (medical)	191.0	1	1	2.0	1.0	1.0	2.0				
+cardiac output	191.0	1	0	3.0	1.0						
+blood flow	191.0	3	3	2.0	2.0	2.0					
+vasodilation	191.0	2	2	1.0	1.0	1.0	2.0	1.0	2.0		
+respiratory system	191.0	2	0	1.0	3.0	3.0	1.0				
+blood pressure	191.0	3	3	3.0	2.0	3.0	3.0	3.0	3.0		
+ischemia	191.0	1	1	2.0	1.0						
+nitric oxide	191.0	2	0	1.0	0.0	1.0	0.0				
+oxygen therapy	191.0	3	0	1.0	3.0	1.0					
+hemoglobin	191.0	2	2	2.0	3.0	3.0					
+acidosis	191.0	1	2	1.0							
+carbon dioxide	191.0	1	2	2.0	2.0						
+mechanical ventilation	191.0	0	1	2.0	2.0	1.0	1.0				
+vasoconstriction	191.0	1	1	1.0	3.0	2.0	3.0	2.0			
+hypoxemia	191.0	2	2	1.0	3.0	2.0					
+hyperventilation	191.0	3	2	2.0	2.0	2.0	1.0	0.0			
+intracranial pressure	191.0	2	0	2.0	1.0	1.0					
+gas exchange	191.0	1	3	3.0	2.0	0.0	2.0	1.0			
+oxygen	191.0	1	2	2.0	2.0	3.0	3.0	3.0			
+radio frequency	192.0	3	2	2.0	0.0	2.0	1.0	0.0			
+frequency	192.0	2	2	1.0	2.0	2.0	2.0	1.0			
+optics	192.0	1	3	3.0	3.0	1.0	1.0				
+radiation	192.0	2	2	2.0	2.0	0.0					
+diffraction	192.0	1	2	1.0	2.0						
+photon	192.0	1	1	2.0	1.0	1.0	3.0				
+fluorescence	192.0	2	3	2.0	1.0	0.0	1.0				
+laser	192.0	1	3	3.0	2.0	3.0	2.0	1.0			
+spectrum analyzer	192.0	2	0	0.0	2.0	2.0					
+refractive index	192.0	2	1	3.0	2.0	1.0	2.0				
+emission spectrum	192.0	1	0	2.0	2.0	3.0	3.0				
+electromagnetic spectrum	192.0	2	3	2.0	2.0	3.0	3.0				
+modulation	192.0	2	2	3.0	1.0	1.0					
+wavelength	192.0	2	1	1.0	3.0	1.0	1.0	3.0			
+infrared	192.0	0	1	0.0	2.0						
+attenuation	192.0	2	1	1.0	0.0						
+continuous wave	192.0	0	2	2.0	2.0						
+electromagnetic radiation	192.0	2	2	2.0	1.0						
+laser diode	192.0	1	2	3.0	2.0	3.0	2.0				
+molecule	193.0	2	2	1.0	2.0	1.0					
+alkyl	193.0	2	2	1.0	1.0	1.0					
+pyridine	193.0	0	1	0.0	1.0	1.0	1.0	2.0	0.0		
+dimer (chemistry)	193.0	2	3	3.0	2.0	3.0	0.0	3.0	2.0	3.0	
+alkyne	193.0	1	2	2.0	2.0	0.0	1.0	2.0	1.0	0.0	0.0
+carbonyl	193.0	1	2	2.0	2.0	1.0					
+thiol	193.0	2	1	1.0	1.0	0.0	0.0				
+divalent	193.0	3	2	1.0	2.0	3.0	1.0	2.0	1.0		
+hydrolysis	193.0	0	3	1.0	1.0	3.0	2.0	1.0	0.0	2.0	
+protonation	193.0	2	0	0.0	1.0	2.0					
+epoxide	193.0	0	2	2.0	1.0						
+aryl	193.0	0	1	2.0	1.0						
+functional group	193.0	0	2	0.0	2.0	1.0					
+ketone	193.0	2	1	0.0	2.0	2.0	2.0				
+amide	193.0	2	2	1.0	2.0	1.0	3.0				
+alkene	193.0	0	1	0.0	1.0						
+disulfide	193.0	1	1	0.0	0.0						
+aldehyde	193.0	3	2	1.0	2.0	1.0					
+chemical reaction	193.0	0	0	1.0	0.0						
+actin	194.0	1	3	1.0	2.0	1.0	1.0	1.0			
+muscle contraction	194.0	2	1	1.0	1.0	1.0	2.0	2.0	1.0		
+action potential	194.0	1	1	1.0	0.0	2.0	2.0	2.0	2.0	3.0	
+depolarization	194.0	0	0	1.0	0.0						
+skeletal muscle	194.0	1	1	2.0	1.0	0.0	3.0	1.0			
+potassium	194.0	0	2	0.0	2.0	2.0					
+acetylcholine	194.0	2	1	2.0	2.0	1.0	0.0	2.0	2.0		
+cytosol	194.0	1	0	3.0	1.0	2.0	2.0				
+nitric oxide	194.0	1	2	1.0	1.0	2.0	1.0	2.0	1.0	2.0	1.0
+membrane potential	194.0	3	2	2.0	1.0						
+adenosine triphosphate	194.0	1	3	3.0	2.0	1.0					
+reactive oxygen species	194.0	1	1	2.0	1.0	0.0	1.0	0.0			
+neurotransmitter	194.0	2	2	1.0	1.0						
+sodium channel	194.0	1	1	1.0	0.0	2.0	0.0				
+cell membrane	194.0	3	3	3.0	2.0	2.0	3.0	3.0	3.0	1.0	
+signal transduction	194.0	1	2	1.0	1.0	2.0	0.0	1.0			
+cell signaling	194.0	2	1	1.0	2.0	2.0	1.0	2.0			
+apoptosis	194.0	2	1	1.0	1.0	3.0	2.0	2.0	1.0	3.0	
+inflammation	194.0	0	0	2.0	0.0	1.0					
+programmed cell death	195.0	0	2	1.0	2.0	2.0	1.0				
+carcinogenesis	195.0	0	2	1.0	1.0	3.0	2.0	2.0			
+apoptosis	195.0	2	3	3.0	2.0	2.0	1.0	1.0			
+gene expression	195.0	2	1	1.0	0.0	1.0					
+nf-κb	195.0	2	2	0.0	2.0	0.0	1.0	0.0			
+oxidative stress	195.0	2	1	1.0	2.0	2.0					
+cancer cell	195.0	2	2	3.0	3.0	2.0	1.0	2.0			
+cell death	195.0	2	1	2.0	2.0	3.0	1.0	2.0	3.0		
+angiogenesis	195.0	1	1	1.0	2.0	1.0	1.0				
+cell cycle	195.0	2	2	2.0	1.0	1.0	1.0	1.0			
+necrosis	195.0	1	1	1.0	1.0	2.0	1.0				
+p53	195.0	0	1	0.0	1.0	0.0	0.0				
+cell growth	195.0	2	2	1.0	2.0	1.0	3.0				
+immune system	195.0	1	3	2.0	3.0	2.0					
+reactive oxygen species	195.0	2	1	1.0	2.0	1.0					
+telomerase	195.0	2	1	1.0							
+cellular differentiation	195.0	2	3	3.0	2.0	1.0	3.0	2.0	2.0	2.0	
+survivin	195.0	1	2	2.0	2.0	1.0	1.0				
+t cell	195.0	2	2	2.0	1.0	3.0					
+infidelity	196.0	2	1	1.0	2.0	0.0	1.0				
+sexual violence	196.0	2	2	1.0	1.0	2.0	3.0	3.0			
+date rape	196.0	2	2	2.0	1.0	2.0					
+child sexual abuse	196.0	0	0	2.0	0.0	1.0	1.0	0.0			
+domestic violence	196.0	1	2	1.0	3.0	3.0	2.0	2.0			
+sexual orientation	196.0	1	0	0.0	1.0	2.0	2.0				
+homosexuality	196.0	0	0	1.0	1.0	1.0	1.0	1.0			
+methamphetamine	196.0	2	1	1.0	1.0	1.0	2.0				
+pedophilia	196.0	2	0	0.0	1.0						
+alcohol abuse	196.0	2	3	1.0	2.0	2.0	3.0	2.0			
+physical abuse	196.0	2	3	3.0	2.0	2.0					
+alcoholism	196.0	1	2	2.0	1.0						
+incest	196.0	1	3	1.0	0.0	1.0	2.0	2.0			
+sexual abuse	196.0	3	2	3.0	1.0	3.0	2.0	2.0	0.0	3.0	
+sexual intercourse	196.0	0	3	2.0	1.0	3.0	1.0	2.0			
+child abuse	196.0	1	2	3.0	1.0	3.0	0.0	0.0			
+addiction	196.0	3	2	0.0	2.0	2.0	2.0	3.0	2.0	1.0	2.0
+human trafficking	196.0	3	1	2.0	1.0	3.0	3.0				
+abuse	196.0	2	1	3.0	3.0	3.0	3.0	3.0	1.0		
+sibling	197.0	3	1	2.0	1.0	1.0	1.0	1.0	2.0		
+autism spectrum	197.0	1	1	1.0	2.0	1.0	1.0	1.0	1.0		
+parenting	197.0	1	3	2.0	2.0	2.0	3.0	3.0	2.0	2.0	
+child development	197.0	3	3	2.0	2.0	3.0	2.0	2.0	3.0		
+only child	197.0	2	2	2.0	0.0	1.0	3.0	0.0			
+youth	197.0	2	2	2.0	2.0	2.0	2.0				
+toddler	197.0	1	1	1.0	2.0	3.0	2.0	2.0	2.0		
+mother	197.0	1	2	3.0	1.0	2.0	1.0	1.0	2.0		
+child	197.0	1	3	2.0	2.0						
+foster care	197.0	2	0	3.0	2.0	0.0					
+developmental psychology	197.0	1	3	2.0	3.0	0.0	3.0	0.0			
+autism	197.0	0	0	0.0	1.0	1.0	2.0				
+girl	197.0	3	1	1.0	0.0	1.0					
+early childhood	197.0	2	2	2.0	3.0	2.0					
+adolescence	197.0	3	3	1.0	3.0	3.0	2.0	3.0	3.0	2.0	
+attention deficit hyperactivity disorder	197.0	0	1	0.0	0.0	3.0					
+puberty	197.0	3	2	2.0	2.0	2.0	2.0	2.0	3.0		
+childhood	197.0	3	3	2.0	2.0	2.0	2.0				
+infant	197.0	2	1	3.0	2.0	3.0	2.0	1.0			
+medical school	198.0	3	2	2.0	3.0	3.0	2.0	1.0	1.0	2.0	
+family medicine	198.0	2	1	2.0	1.0	2.0					
+primary care	198.0	3	2	1.0	2.0	3.0	2.0	3.0	2.0	2.0	
+internal medicine	198.0	3	1	1.0							
+clinical psychology	198.0	1	1	2.0	1.0	2.0	2.0				
+emergency medicine	198.0	2	3	3.0	2.0	1.0	1.0	1.0	2.0		
+physician assistant	198.0	2	1	2.0	3.0						
+health education	198.0	2	3	1.0	3.0						
+telemedicine	198.0	1	1	2.0	2.0	2.0					
+anesthesiologist	198.0	2	1	1.0	1.0	2.0	1.0				
+doctor of medicine	198.0	1	2	2.0	2.0	2.0	2.0	2.0			
+nursing	198.0	2	3	2.0	2.0	2.0	1.0				
+medicine	198.0	2	3	2.0	2.0	3.0	1.0				
+neurology	198.0	2	1	1.0	1.0	1.0	2.0	1.0			
+pediatrics	198.0	2	1	1.0	1.0	1.0	1.0				
+health professional	198.0	3	3	2.0	2.0	2.0	3.0	3.0			
+hospital	198.0	2	3	2.0	2.0	2.0	3.0	2.0			
+medical education	198.0	3	3	3.0	1.0	2.0	2.0	2.0			
+general practitioner	198.0	2	2	1.0	2.0	3.0	2.0	1.0			
+cell signaling	199.0	0	2	0.0	2.0	1.0					
+reactive oxygen species	199.0	0	0	2.0	2.0						
+signal transduction	199.0	1	1	2.0	2.0	1.0	1.0	1.0	0.0	1.0	
+activation	199.0	1	1	2.0	0.0	1.0	1.0	1.0	1.0	0.0	1.0
+membrane potential	199.0	2	2	1.0	2.0	1.0	2.0				
+antioxidant	199.0	2	1	2.0							
+oxidative stress	199.0	1	3	1.0	1.0	3.0					
+cytosol	199.0	2	0	1.0	2.0	2.0					
+nanoparticle	199.0	0	1	1.0	3.0	1.0	1.0	1.0			
+neurotransmitter	199.0	2	2	1.0	2.0	1.0	1.0	1.0			
+cell growth	199.0	1	0	0.0	2.0	1.0					
+nitric oxide	199.0	1	1	0.0	1.0	1.0	0.0				
+cell membrane	199.0	3	0	2.0	2.0	1.0					
+active transport	199.0	1	3	2.0	1.0	1.0	1.0	2.0			
+intracellular	199.0	2	2	2.0	0.0	3.0	2.0				
+vascular permeability	199.0	1	2	1.0	1.0	0.0	3.0	2.0			
+metabolism	199.0	1	3	1.0	2.0	1.0	0.0	1.0	1.0		
+lipid	199.0	2	1	2.0	0.0						
+serotonin	199.0	0	1	0.0	3.0	2.0	1.0	0.0			
+tracheal intubation	200.0	1	2	3.0	1.0	1.0	1.0	1.0			
+glued iol	200.0	1	1	1.0	1.0	1.0	2.0	1.0			
+radiofrequency ablation	200.0	1	1	0.0	0.0	2.0	2.0				
+percutaneous	200.0	2	1	2.0	1.0	1.0	1.0				
+chest tube	200.0	3	0	0.0	1.0						
+cannula	200.0	2	1	1.0	2.0	1.0	1.0	0.0	1.0		
+central venous catheter	200.0	2	1	3.0	1.0						
+brachytherapy	200.0	2	2	1.0	0.0	2.0	1.0	1.0			
+seldinger technique	200.0	0	3	2.0	1.0						
+surgical incision	200.0	2	1	2.0	3.0	0.0	0.0				
+syringe	200.0	1	0	0.0	1.0	2.0					
+ablation	200.0	1	1	0.0	1.0	1.0	0.0				
+ultrasound	200.0	1	1	1.0	0.0	3.0	3.0	1.0			
+intubation	200.0	3	2	1.0	2.0	1.0	2.0	1.0			
+laser ablation	200.0	0	1	0.0	2.0	1.0					
+catheter	200.0	1	3	1.0	2.0	2.0	3.0				
+forceps	200.0	0	1	0.0	0.0	1.0	1.0	2.0	0.0		
+bio-mems	200.0	2	1	0.0	3.0	2.0					
+electrosurgery	200.0	1	2	1.0	3.0	2.0	1.0				
+clinical trial	201.0	1	3	1.0	3.0	3.0	2.0	0.0	0.0		
+immunotherapy	201.0	0	2	1.0							
+targeted therapy	201.0	2	2	3.0	1.0	3.0	1.0				
+personalized medicine	201.0	2	2	3.0	0.0	3.0	2.0	1.0	1.0	1.0	
+major depressive disorder	201.0	0	1	1.0	1.0	1.0					
+chemotherapy	201.0	2	2	2.0	2.0	2.0					
+drug resistance	201.0	2	3	1.0	1.0	1.0	1.0	1.0			
+addiction	201.0	1	2	1.0	2.0	3.0	1.0	2.0			
+clinical research	201.0	3	2	2.0	2.0	2.0	2.0				
+gene therapy	201.0	2	2	1.0	2.0	0.0	0.0				
+topiramate	201.0	3	2	1.0	0.0	1.0	1.0	1.0	1.0	1.0	
+drug discovery	201.0	2	2	0.0	2.0	2.0	3.0				
+antidepressant	201.0	1	2	2.0	2.0	1.0					
+pharmacotherapy	201.0	2	3	1.0	2.0	2.0	1.0				
+pain management	201.0	2	2	1.0	1.0	2.0	1.0				
+antipsychotic	201.0	2	3	1.0	1.0	1.0	2.0	2.0			
+biomarker (medicine)	201.0	2	2	2.0	2.0	2.0	0.0	2.0			
+angiogenesis	201.0	1	1	1.0	1.0	1.0	2.0	1.0			
+efficacy	201.0	2	1	1.0	0.0						
+epinephrine	202.0	0	1	1.0	2.0	2.0					
+neuropathic pain	202.0	0	0	2.0	0.0	0.0	1.0	1.0	0.0	0.0	
+serotonin	202.0	1	0	3.0	2.0	2.0					
+anti-inflammatory	202.0	1	1	1.0	2.0	1.0	1.0				
+neurotoxin	202.0	1	1	2.0	2.0	1.0	1.0	2.0			
+efficacy	202.0	0	0	2.0	0.0	0.0	0.0	3.0	1.0		
+toxicity	202.0	1	1	1.0	2.0	1.0	2.0				
+estrogen	202.0	2	0	2.0	2.0	0.0	0.0				
+glucocorticoid	202.0	1	0	1.0	2.0	2.0	3.0				
+adverse effect	202.0	2	1	1.0	1.0	2.0	1.0	2.0	2.0	1.0	
+opioid	202.0	0	2	1.0	0.0						
+xylazine	202.0	1	1	1.0	1.0	2.0	0.0	0.0			
+dopamine	202.0	0	1	3.0	1.0	1.0					
+anxiolytic	202.0	2	2	1.0	2.0	2.0	1.0				
+diazepam	202.0	1	1	1.0	1.0	2.0	1.0	1.0			
+acetylcysteine	202.0	2	0	1.0	1.0	1.0	1.0	1.0			
+self-administration	202.0	0	1	0.0	2.0	1.0	0.0				
+bioavailability	202.0	2	3	2.0	1.0	2.0	0.0	3.0	0.0	2.0	
+insulin (medication)	202.0	0	1	0.0	2.0	1.0					
+meta-analysis	203.0	1	2	1.0	1.0	1.0	3.0				
+questionnaire	203.0	1	0	2.0	3.0	3.0	0.0	1.0			
+repeatability	203.0	2	2	2.0	1.0	2.0	0.0	0.0			
+construct validity	203.0	1	1	2.0	2.0	1.0					
+self-assessment	203.0	2	1	2.0	1.0	2.0					
+measurement	203.0	3	2	3.0	2.0	1.0	2.0	3.0	2.0		
+test (assessment)	203.0	2	3	2.0	3.0	2.0					
+experiment	203.0	1	1	2.0	0.0	0.0	2.0	2.0			
+predictive validity	203.0	2	2	2.0	2.0						
+diagnostic test	203.0	1	0	1.0	3.0	2.0	1.0	2.0	2.0	3.0	1.0
+quantitative	203.0	1	0	0.0	2.0	2.0	2.0	3.0			
+likert scale	203.0	0	2	2.0	2.0	2.0	3.0	2.0	1.0		
+program evaluation	203.0	2	1	2.0	2.0	3.0	2.0				
+data collection	203.0	3	2	3.0	3.0	1.0	2.0	3.0	2.0		
+evaluation	203.0	3	3	3.0	3.0	3.0	3.0				
+reliability (research methods)	203.0	2	1	2.0	0.0	1.0	2.0	1.0			
+factor analysis	203.0	3	1	1.0	2.0	2.0	1.0	3.0	2.0		
+psychometrics	203.0	1	1	2.0	2.0	1.0	0.0	2.0	0.0		
+standardized test	203.0	3	2	3.0	3.0	2.0	1.0				
+cortisol	204.0	2	0	0.0	2.0	3.0					
+platelet	204.0	2	2	2.0	1.0	3.0	3.0	3.0			
+insulin (medication)	204.0	1	0	0.0	3.0	0.0	0.0	1.0	1.0		
+calcium	204.0	0	2	1.0	2.0	1.0	2.0	2.0			
+uric acid	204.0	1	2	1.0	1.0	1.0	2.0	0.0			
+potassium	204.0	0	2	1.0	1.0	0.0	0.0	0.0			
+bile acid	204.0	0	0	1.0	2.0	1.0					
+blood sugar	204.0	2	2	1.0	2.0	3.0	2.0	1.0			
+red blood cell	204.0	2	0	1.0	1.0	2.0	1.0				
+insulin resistance	204.0	2	2	2.0	2.0	0.0	0.0	1.0	1.0	1.0	
+hemoglobin	204.0	0	1	3.0	3.0						
+iodine	204.0	0	1	0.0							
+digestion	204.0	1	0	0.0	2.0	0.0	0.0	1.0			
+electrolyte	204.0	2	2	0.0	1.0						
+urine	204.0	0	2	0.0	0.0	0.0	2.0	0.0			
+albumin	204.0	1	2	2.0	2.0	2.0	2.0	2.0			
+metabolism	204.0	2	1	2.0	2.0	1.0	1.0				
+excretion	204.0	1	1	2.0	2.0	2.0	1.0				
+hyperkalemia	204.0	0	2	1.0	1.0	0.0	1.0	0.0			
+pancreatitis	205.0	2	1	1.0	1.0	0.0	0.0				
+complication (medicine)	205.0	0	2	3.0	1.0	2.0					
+myocardial infarction	205.0	3	2	3.0	1.0						
+respiratory disease	205.0	1	2	2.0	0.0	2.0	3.0	0.0			
+pneumonia	205.0	1	1	2.0	0.0	0.0	1.0	0.0			
+trauma	205.0	0	2	1.0	3.0	2.0	1.0	3.0			
+renal failure	205.0	2	2	2.0	1.0	2.0	1.0	1.0			
+dementia	205.0	2	1	2.0	2.0	1.0	1.0	1.0	0.0	1.0	
+exacerbation	205.0	2	0	1.0	0.0	3.0	0.0				
+cardiovascular disease	205.0	0	2	2.0	0.0						
+heart failure	205.0	1	2	1.0	3.0	3.0	1.0	3.0	2.0	3.0	
+comorbidity	205.0	1	1	2.0	2.0						
+acute (medicine)	205.0	1	2	3.0	0.0	2.0	3.0	0.0			
+cardiac arrest	205.0	1	1	2.0	2.0	3.0	2.0	2.0	2.0	2.0	
+cirrhosis	205.0	1	1	1.0	0.0	1.0	2.0				
+thrombosis	205.0	2	1	3.0	1.0	1.0	2.0	2.0	2.0		
+sepsis	205.0	3	1	1.0	3.0	0.0	2.0	1.0			
+coronary artery disease	205.0	3	0	2.0							
+intensive care unit	205.0	2	1	3.0	1.0	2.0	1.0				
+total fertility rate	206.0	3	1	0.0	0.0	2.0					
+life expectancy	206.0	1	0	1.0	3.0	3.0	0.0	1.0			
+population growth	206.0	2	2	2.0	2.0	3.0					
+risk factor	206.0	2	0	0.0	3.0	1.0					
+mortality rate	206.0	2	3	3.0	2.0	3.0	2.0	1.0			
+incidence rate	206.0	3	1	3.0	2.0	3.0	3.0				
+disease burden	206.0	1	2	0.0	2.0						
+seroprevalence	206.0	3	2	2.0	2.0	1.0	0.0	0.0			
+survival rate	206.0	3	2	3.0	2.0	0.0	3.0	2.0	3.0		
+cardiovascular disease	206.0	1	2	1.0	3.0	2.0	2.0				
+relative risk	206.0	2	2	1.0	1.0	1.0	0.0	1.0			
+population decline	206.0	3	2	3.0	2.0						
+age of onset	206.0	2	1	2.0	1.0	1.0					
+malnutrition	206.0	2	1	0.0	1.0	0.0	1.0	1.0	0.0	0.0	
+birth rate	206.0	2	2	0.0	2.0						
+infant mortality	206.0	1	1	1.0	1.0	2.0	1.0				
+maternal death	206.0	0	1	1.0	2.0	0.0	1.0				
+child mortality	206.0	2	3	2.0	3.0	0.0	2.0	0.0			
+prevalence	206.0	2	1	3.0	1.0						
+acetylcysteine	207.0	1	1	0.0	1.0	2.0	0.0	0.0			
+tapentadol	207.0	2	1	2.0	1.0	0.0					
+estradiol	207.0	2	2	1.0	2.0						
+pharmacokinetics	207.0	3	2	2.0	2.0	3.0	3.0	3.0			
+diazepam	207.0	0	0	1.0	2.0	1.0	1.0	1.0			
+fluoxetine	207.0	1	0	0.0	1.0	1.0					
+linezolid	207.0	2	2	0.0	3.0	2.0	2.0				
+methadone	207.0	0	2	0.0	2.0	2.0	1.0				
+glucocorticoid	207.0	1	2	2.0	1.0	0.0	1.0	0.0	1.0		
+benzodiazepine	207.0	1	1	1.0	1.0	1.0	0.0				
+insulin (medication)	207.0	1	2	0.0	2.0	1.0					
+ciprofloxacin	207.0	0	0	1.0	0.0	2.0	0.0				
+haloperidol	207.0	0	0	2.0	1.0						
+clozapine	207.0	1	0	1.0	0.0	1.0					
+metformin	207.0	1	1	0.0	1.0	0.0	2.0	2.0	2.0		
+erythromycin	207.0	0	0	2.0	1.0						
+bioavailability	207.0	1	2	1.0	2.0	2.0					
+moclobemide	207.0	0	1	1.0	0.0	1.0	1.0				
+bupropion	207.0	1	1	2.0	0.0	3.0	0.0				
+endometrial cancer	208.0	1	2	2.0	2.0	1.0	1.0	1.0			
+neoplasm	208.0	2	2	0.0	2.0	0.0	1.0				
+asymptomatic	208.0	0	0	2.0	1.0						
+melanoma	208.0	2	1	2.0	1.0	1.0	3.0	2.0	1.0	2.0	
+thyroid	208.0	2	2	2.0	2.0	2.0	1.0	1.0	2.0	0.0	
+differential diagnosis	208.0	2	2	2.0	2.0	3.0	1.0	1.0			
+biopsy	208.0	1	1	3.0	3.0	1.0	2.0	3.0			
+sarcoidosis	208.0	1	0	1.0	2.0						
+hepatocellular carcinoma	208.0	0	2	1.0	1.0	2.0	2.0	1.0	1.0		
+adenoma	208.0	0	0	3.0	2.0	0.0	3.0	0.0			
+metastasis	208.0	2	0	1.0	1.0	2.0	0.0	1.0			
+eosinophilia	208.0	3	1	1.0	0.0	1.0	2.0	1.0			
+multiple myeloma	208.0	1	1	1.0	3.0	1.0					
+renal cell carcinoma	208.0	2	2	2.0	1.0	3.0	2.0	1.0	2.0		
+systemic lupus erythematosus	208.0	0	1	1.0	3.0	1.0	2.0	2.0	1.0		
+ovarian cancer	208.0	2	2	2.0	1.0	1.0	2.0				
+carcinoma	208.0	3	2	1.0	1.0	1.0	2.0				
+giant cell	208.0	2	2	2.0	1.0	0.0					
+granuloma	208.0	1	1	1.0	2.0	2.0	2.0	2.0			
+database	209.0	1	2	1.0	2.0	2.0					
+data collection	209.0	1	3	2.0	3.0	2.0	1.0	2.0	2.0	2.0	
+data analysis	209.0	2	1	2.0	2.0						
+methodology	209.0	2	1	3.0	1.0	3.0	2.0	1.0	1.0	3.0	
+3d printing	209.0	2	1	2.0	1.0	0.0	1.0				
+computing	209.0	2	0	0.0	1.0	2.0	2.0	1.0			
+product lifecycle	209.0	0	0	2.0	1.0						
+automation	209.0	2	2	1.0	1.0	2.0	2.0	1.0	1.0		
+usability	209.0	1	1	2.0	2.0	0.0	0.0	1.0			
+simulation software	209.0	1	0	0.0	1.0	3.0	1.0				
+project management	209.0	2	3	2.0	2.0	1.0	1.0				
+workflow	209.0	1	2	3.0	0.0	1.0	1.0				
+system	209.0	0	2	2.0	2.0						
+software	209.0	2	2	3.0	1.0	2.0					
+geographic information system	209.0	1	1	2.0	2.0	0.0	1.0	1.0	3.0		
+smart grid	209.0	1	1	3.0	0.0	1.0	0.0				
+simulation	209.0	0	0	0.0	0.0						
+computer	209.0	2	0	2.0	0.0	2.0	3.0				
+information	209.0	3	2	3.0	2.0	2.0					
+tolerability	210.0	1	1	1.0	1.0	1.0	1.0				
+electroconvulsive therapy	210.0	2	2	1.0	2.0	1.0	1.0				
+major depressive disorder	210.0	3	2	0.0	2.0	2.0	2.0	1.0			
+therapy	210.0	3	2	3.0							
+efficacy	210.0	1	2	1.0	0.0	3.0	1.0	1.0			
+adjuvant therapy	210.0	1	2	3.0	3.0	2.0	2.0				
+hormone replacement therapy (menopause)	210.0	1	2	1.0	1.0	3.0	2.0	2.0	2.0		
+bevacizumab	210.0	1	0	2.0	0.0	1.0	2.0				
+chemotherapy	210.0	2	2	3.0	2.0	2.0	2.0	2.0			
+standard treatment	210.0	2	1	2.0	0.0	2.0					
+antipsychotic	210.0	2	2	2.0	2.0	0.0	1.0	1.0			
+radiation therapy	210.0	0	0	2.0	2.0	1.0					
+hormone therapy	210.0	3	2	3.0	1.0	1.0	2.0	2.0			
+antidepressant	210.0	1	1	1.0	2.0	1.0	1.0				
+placebo	210.0	2	1	1.0	0.0	1.0	2.0				
+pharmacotherapy	210.0	0	2	0.0	2.0	1.0					
+pain management	210.0	2	2	2.0	1.0	1.0	1.0	3.0			
+clinical trial	210.0	3	2	2.0	3.0	3.0	1.0				
+cognitive behavioral therapy	210.0	2	2	3.0	2.0	3.0					
+sol-gel	211.0	2	2	0.0	1.0	1.0	1.0	1.0	3.0		
+water content	211.0	2	2	1.0	2.0	0.0	3.0				
+ammonia	211.0	1	3	0.0	3.0	2.0	2.0	0.0			
+porosity	211.0	3	2	2.0	2.0	2.0	0.0	2.0	1.0	3.0	
+liquid	211.0	1	2	2.0	1.0	0.0	3.0				
+thermal expansion	211.0	3	2	3.0	1.0	1.0	1.0	1.0	3.0		
+calcium carbonate	211.0	2	1	1.0	0.0	1.0	1.0				
+silicon dioxide	211.0	2	2	1.0	1.0	2.0	0.0	0.0	1.0	0.0	0.0
+crystallization	211.0	3	2	1.0	1.0	2.0	2.0	1.0			
+surface energy	211.0	2	2	2.0	2.0	1.0	2.0	2.0			
+properties of water	211.0	2	2	1.0	1.0	1.0					
+hydrogen	211.0	1	0	1.0							
+urea	211.0	0	0	0.0	0.0						
+sodium chloride	211.0	2	1	2.0	2.0	0.0					
+water vapor	211.0	1	1	1.0	2.0	2.0	0.0	0.0			
+adsorption	211.0	3	2	2.0	2.0	1.0	2.0	3.0	3.0	2.0	2.0
+evaporation	211.0	2	3	2.0	2.0	1.0	1.0	3.0	2.0	2.0	
+nanoparticle	211.0	1	2	1.0	1.0	3.0	1.0	1.0			
+solubility	211.0	2	1	2.0	1.0	1.0	2.0	2.0			
+liquid	212.0	1	0	0.0	0.0	0.0	1.0	0.0	0.0		
+nanowire	212.0	2	2	1.0	2.0	0.0	0.0				
+bilayer	212.0	2	0	1.0	1.0	2.0	2.0				
+monolayer	212.0	0	2	1.0	2.0						
+surface energy	212.0	1	1	0.0							
+cell membrane	212.0	2	1	2.0	1.0	1.0	0.0	2.0			
+nanoparticle	212.0	2	2	1.0	1.0	2.0	2.0				
+nanomaterials	212.0	2	2	1.0	1.0	2.0	2.0	0.0			
+plasma (physics)	212.0	0	2	0.0	1.0	2.0					
+carbon nanotube	212.0	1	2	1.0	2.0	3.0	2.0	1.0			
+polymer	212.0	3	3	3.0	1.0						
+thin film	212.0	2	2	2.0	0.0						
+adsorption	212.0	1	1	2.0	2.0	2.0	1.0	2.0			
+lipid bilayer	212.0	1	1	1.0							
+solubility	212.0	1	1	1.0	2.0	1.0	1.0				
+nanocomposite	212.0	3	3	2.0	3.0	3.0	1.0				
+graphene	212.0	2	1	1.0	1.0	0.0	1.0				
+quantum dot	212.0	1	1	2.0	1.0	2.0	0.0				
+sol-gel	212.0	1	1	3.0	1.0	2.0					
+variance	213.0	0	2	1.0	2.0	1.0					
+quantitative	213.0	2	1	1.0	3.0						
+power law	213.0	1	0	1.0	3.0	2.0	1.0				
+regression analysis	213.0	2	1	3.0	2.0	1.0	0.0	1.0			
+meta-analysis	213.0	2	3	1.0	3.0	1.0	1.0	1.0	1.0	2.0	
+autocorrelation	213.0	3	1	1.0	2.0	2.0	2.0	2.0	1.0		
+sensitivity analysis	213.0	1	1	2.0	1.0	2.0	1.0	2.0	2.0		
+linear regression	213.0	1	1	1.0	0.0	2.0	1.0	1.0	1.0	2.0	2.0
+factor analysis	213.0	3	2	1.0	2.0	2.0	3.0	1.0	2.0		
+data analysis	213.0	3	3	3.0							
+mathematical model	213.0	2	1	1.0	1.0	2.0	3.0	1.0			
+parameter	213.0	1	1	1.0	3.0	0.0	2.0	2.0	0.0	1.0	
+confounding	213.0	1	0	0.0	0.0	1.0	1.0	0.0			
+principal component analysis	213.0	1	1	1.0	1.0	2.0	1.0	1.0	1.0	2.0	
+biomarker	213.0	2	2	2.0	1.0	1.0	1.0	2.0			
+time series	213.0	1	1	0.0	1.0						
+causality	213.0	1	0	2.0	0.0	3.0	1.0				
+standard deviation	213.0	2	1	2.0	2.0	1.0	1.0	2.0	3.0	1.0	
+logistic regression	213.0	0	2	2.0	1.0						
+serology	214.0	1	1	0.0	2.0	1.0	1.0				
+immunohistochemistry	214.0	1	1	1.0	1.0	3.0	2.0	2.0	1.0	2.0	
+blood test	214.0	1	3	2.0	2.0	2.0	3.0	1.0			
+genotyping	214.0	2	1	1.0	1.0	2.0	1.0				
+immunoassay	214.0	0	0	0.0	0.0	0.0	0.0				
+sensitivity and specificity	214.0	0	0	2.0	1.0	0.0	0.0				
+ultrasound	214.0	0	0	0.0	1.0						
+antibody	214.0	2	1	1.0	2.0	0.0	1.0				
+albumin	214.0	1	2	1.0	3.0	2.0	0.0				
+urinalysis	214.0	2	0	3.0	1.0	3.0	0.0				
+western blot	214.0	1	0	0.0	1.0	0.0	0.0	1.0			
+alkaline phosphatase	214.0	0	0	2.0	1.0	2.0	1.0	0.0			
+real-time polymerase chain reaction	214.0	2	0	1.0	1.0	1.0	1.0	0.0			
+drug test	214.0	2	1	1.0	0.0	3.0					
+biomarker	214.0	1	1	1.0	2.0	1.0					
+assay	214.0	1	1	2.0	1.0	0.0	0.0	2.0			
+genetic testing	214.0	2	1	1.0	1.0	1.0	2.0				
+diagnostic test	214.0	3	2	1.0	2.0	2.0					
+polymerase chain reaction	214.0	1	2	2.0	1.0						
+visual memory	215.0	3	2	2.0	1.0	2.0	0.0	0.0			
+implicit memory	215.0	3	1	2.0	1.0	1.0	0.0				
+eye movement	215.0	3	1	1.0	1.0	2.0	3.0				
+implicit learning	215.0	2	0	1.0	1.0	2.0					
+working memory	215.0	1	2	2.0	3.0	0.0	1.0	2.0	1.0	1.0	
+arousal	215.0	0	3	1.0	0.0	1.0	1.0	1.0			
+visual system	215.0	0	0	1.0	2.0	1.0					
+recognition memory	215.0	1	2	1.0	1.0	2.0	1.0	0.0			
+visual perception	215.0	3	2	3.0	1.0	3.0	3.0	1.0	1.0		
+perception	215.0	1	2	2.0	3.0	0.0	1.0	0.0			
+change blindness	215.0	1	1	0.0	1.0	1.0	2.0	0.0	1.0		
+explicit memory	215.0	0	1	0.0	3.0	2.0	3.0	1.0	1.0	0.0	
+attention	215.0	1	1	0.0	2.0	0.0	2.0				
+spatial memory	215.0	0	1	1.0	2.0	2.0	1.0				
+visual search	215.0	2	2	1.0	2.0	1.0					
+negative priming	215.0	2	2	2.0	0.0	0.0					
+embodied cognition	215.0	2	2	1.0							
+stimulation	215.0	0	2	0.0	3.0	2.0					
+habituation	215.0	1	1	1.0	3.0	1.0	2.0	2.0	1.0	1.0	
+differential diagnosis	216.0	2	2	2.0	1.0	2.0					
+clinical trial	216.0	3	3	3.0	3.0	3.0	2.0	3.0	2.0		
+diagnosis	216.0	2	0	2.0	0.0	2.0	3.0				
+multiple myeloma	216.0	2	1	1.0	1.0	1.0	0.0	0.0			
+efficacy	216.0	2	1	2.0	0.0	1.0	0.0				
+medical diagnosis	216.0	2	2	1.0	1.0	2.0	1.0	3.0			
+biomarker	216.0	0	2	1.0	3.0	2.0	2.0				
+c-reactive protein	216.0	3	2	1.0	1.0	2.0	1.0	0.0			
+sepsis	216.0	2	1	2.0	1.0						
+diagnostic test	216.0	1	1	1.0	1.0	2.0	1.0	1.0	1.0		
+adjuvant therapy	216.0	1	3	0.0							
+radiation therapy	216.0	2	1	3.0	2.0	1.0	1.0	2.0	3.0	1.0	
+ovarian cancer	216.0	1	2	3.0	0.0						
+comorbidity	216.0	1	1	1.0							
+chemotherapy	216.0	1	1	2.0	2.0	1.0	3.0	2.0	1.0	2.0	
+cancer	216.0	2	2	3.0	2.0	2.0	2.0	1.0			
+hepatocellular carcinoma	216.0	1	0	2.0	0.0	1.0	1.0	2.0			
+pathogenesis	216.0	1	3	0.0							
+prognosis	216.0	1	2	2.0	2.0	3.0	3.0	1.0			
+antibiotics	217.0	2	2	2.0	1.0						
+angiogenesis	217.0	1	1	2.0	1.0	2.0	0.0	3.0	0.0	0.0	0.0
+pain management	217.0	2	2	1.0	2.0	2.0	1.0				
+psoriasis	217.0	2	1	1.0	3.0	2.0	1.0				
+metronidazole	217.0	3	2	1.0	1.0	1.0	1.0	1.0			
+anti-inflammatory	217.0	3	2	1.0	1.0	2.0					
+hyaluronic acid	217.0	1	3	1.0	0.0	1.0					
+extravasation (intravenous)	217.0	2	2	1.0	3.0	1.0	1.0				
+lidocaine	217.0	0	1	1.0	0.0	2.0	1.0	2.0			
+inflammation	217.0	1	1	1.0	1.0	1.0	0.0	1.0			
+wound healing	217.0	2	2	3.0	2.0	3.0	1.0	2.0	1.0	1.0	
+tacrolimus	217.0	1	2	1.0	1.0	0.0					
+dermatitis	217.0	2	2	1.0	2.0	2.0	2.0	2.0	2.0	1.0	
+acetylcysteine	217.0	1	0	1.0	1.0	2.0	3.0	1.0			
+analgesic	217.0	2	1	1.0	2.0	0.0	1.0	1.0	1.0		
+ibuprofen	217.0	0	2	2.0	2.0	0.0					
+chemotherapy	217.0	1	0	1.0	0.0	3.0	2.0	1.0			
+mucositis	217.0	1	2	0.0	1.0	1.0	1.0	1.0	2.0		
+aspirin	217.0	1	2	1.0	2.0	1.0	1.0	2.0			
+brain	218.0	3	2	1.0	3.0	2.0					
+cerebral cortex	218.0	0	0	3.0	3.0						
+limbic system	218.0	1	2	3.0	1.0	3.0	1.0	2.0			
+working memory	218.0	1	2	2.0	2.0	3.0	3.0				
+semantic memory	218.0	2	2	2.0	2.0	1.0	3.0				
+prefrontal cortex	218.0	0	0	2.0	1.0	1.0	3.0	2.0			
+executive functions	218.0	0	0	0.0	0.0	1.0	1.0				
+nervous system	218.0	0	0	0.0	1.0						
+spatial memory	218.0	2	1	1.0	3.0	2.0	0.0				
+explicit memory	218.0	0	3	2.0	1.0	3.0					
+visual memory	218.0	0	3	2.0	3.0						
+visual cortex	218.0	3	3	2.0	2.0	1.0	0.0				
+human brain	218.0	0	2	0.0	2.0	3.0					
+episodic memory	218.0	2	1	2.0	2.0	1.0	2.0	1.0	2.0		
+cognition	218.0	3	2	2.0	3.0						
+implicit memory	218.0	2	2	2.0	2.0	1.0	2.0	2.0	2.0		
+neuroplasticity	218.0	2	0	3.0	1.0	1.0	1.0				
+hippocampus	218.0	3	1	3.0	1.0	1.0	3.0	2.0	0.0	2.0	
+recognition memory	218.0	2	2	3.0	2.0	1.0	2.0	2.0			
+hyperlipidemia	219.0	0	0	2.0	3.0	2.0	2.0	2.0	2.0	3.0	
+hypertension	219.0	2	1	2.0	2.0	2.0	1.0	2.0			
+blood sugar	219.0	0	2	2.0	0.0	2.0	1.0				
+glucocorticoid	219.0	1	1	1.0	1.0	1.0	1.0	2.0			
+insulin (medication)	219.0	2	2	1.0	2.0	1.0	2.0	3.0			
+blood pressure	219.0	2	2	3.0	2.0	2.0	1.0				
+anemia	219.0	1	0	2.0	2.0	1.0	0.0	1.0	0.0	1.0	
+biomarker	219.0	1	2	1.0	3.0	1.0					
+hyperglycemia	219.0	2	2	2.0	1.0	2.0	3.0	1.0			
+c-reactive protein	219.0	0	2	1.0	2.0	0.0					
+prolactin	219.0	1	2	1.0	1.0	2.0	1.0	2.0	1.0	2.0	
+bioavailability	219.0	2	0	1.0	3.0	0.0	0.0				
+cortisol	219.0	2	1	1.0	2.0	3.0	1.0				
+cholesterol	219.0	1	2	1.0	1.0	0.0	3.0				
+hypothyroidism	219.0	2	1	1.0	2.0	3.0					
+hypoglycemia	219.0	3	2	1.0	2.0	2.0	1.0	0.0			
+biomarker (medicine)	219.0	2	2	1.0	2.0	2.0					
+biomarker (cell)	219.0	0	2	0.0	2.0	1.0	1.0				
+insulin resistance	219.0	1	1	2.0	1.0	2.0					
+physical strength	220.0	0	0	3.0	3.0	0.0	3.0	0.0			
+heart rate	220.0	3	2	1.0	1.0	3.0	1.0	1.0	1.0	1.0	
+stimulation	220.0	2	2	2.0	1.0	1.0	0.0	1.0			
+body composition	220.0	2	2	2.0	2.0	0.0	3.0	0.0			
+physical fitness	220.0	3	3	2.0	3.0	0.0	1.0	0.0			
+endurance training	220.0	2	2	2.0	3.0						
+effectiveness	220.0	1	2	1.0	2.0	1.0	2.0				
+muscle tone	220.0	3	2	3.0	2.0	2.0	3.0				
+aerobic exercise	220.0	2	2	1.0	1.0	2.0	3.0	2.0			
+weakness	220.0	0	1	1.0	1.0	2.0	3.0	1.0			
+range of motion	220.0	3	0	1.0							
+muscle	220.0	2	1	1.0	3.0	2.0	2.0				
+muscle fatigue	220.0	0	1	1.0							
+muscle atrophy	220.0	0	1	1.0	0.0	2.0	1.0	0.0			
+skeletal muscle	220.0	0	2	2.0	3.0						
+weight training	220.0	2	2	2.0	3.0	2.0	1.0	1.0			
+agility	220.0	2	3	3.0	2.0						
+strength training	220.0	3	3	3.0	3.0	3.0					
+physical exercise	220.0	3	3	2.0	3.0	1.0	3.0	2.0			
+methodology	221.0	3	2	1.0	1.0	2.0	3.0				
+cluster analysis	221.0	0	0	3.0	1.0						
+data analysis	221.0	1	3	1.0	3.0	2.0	2.0	3.0			
+time series	221.0	2	2	1.0	2.0	1.0	2.0				
+logistic regression	221.0	3	1	1.0	1.0	2.0	1.0	1.0	1.0		
+system	221.0	1	1	2.0	1.0	0.0	0.0				
+dynamic programming	221.0	1	2	1.0	2.0	2.0	2.0	2.0	2.0		
+image segmentation	221.0	2	1	1.0	1.0	0.0	2.0	0.0			
+mutual information	221.0	2	1	1.0	2.0	2.0	1.0	1.0	1.0		
+computation	221.0	2	3	3.0	3.0	1.0	1.0				
+principal component analysis	221.0	3	2	1.0							
+sensitivity analysis	221.0	0	0	1.0	2.0	2.0					
+heuristic	221.0	1	1	2.0	0.0	2.0	2.0				
+finite element method	221.0	2	2	2.0	3.0	3.0	2.0	2.0	1.0	1.0	
+machine learning	221.0	2	2	1.0	3.0	0.0	2.0				
+statistical inference	221.0	0	0	2.0	2.0						
+logarithm	221.0	1	2	1.0	3.0	1.0	0.0	3.0	0.0		
+mathematical model	221.0	1	0	0.0	3.0	1.0					
+quantitative	221.0	3	2	1.0	2.0	2.0	1.0				
+potassium	222.0	2	0	2.0	1.0						
+chemical reaction	222.0	0	3	3.0	3.0	2.0	0.0	2.0	2.0	2.0	
+ethanol	222.0	0	0	1.0							
+water content	222.0	0	1	1.0	3.0	0.0	2.0	1.0	0.0		
+ph	222.0	0	0	1.0	3.0	1.0					
+solubility	222.0	1	3	1.0	1.0	1.0	1.0				
+urea	222.0	1	1	2.0	2.0	1.0	0.0	2.0	3.0		
+acetic acid	222.0	1	3	1.0	1.0	1.0	2.0	2.0	1.0		
+bioavailability	222.0	2	1	1.0	2.0	1.0	0.0				
+ammonia	222.0	0	0	2.0	1.0	1.0	0.0				
+sulfur dioxide	222.0	1	1	1.0	1.0	2.0	2.0				
+carbon dioxide	222.0	0	1	1.0	0.0						
+sodium hydroxide	222.0	1	1	1.0							
+activated carbon	222.0	0	1	1.0	1.0	1.0	1.0	1.0	2.0	1.0	
+alkalinity	222.0	2	1	1.0	0.0	3.0	2.0	1.0	2.0		
+evaporation	222.0	1	3	1.0	2.0	2.0	1.0	1.0			
+hydrolysis	222.0	1	1	2.0	2.0						
+nitrogen	222.0	1	1	0.0	1.0	1.0	1.0	1.0	2.0	2.0	1.0
+sodium chloride	222.0	1	0	1.0	0.0	1.0	0.0				
+larva	223.0	3	2	2.0	1.0	2.0	3.0	2.0			
+anopheles	223.0	1	0	1.0	2.0	1.0	0.0	2.0	1.0	0.0	0.0
+helicoverpa zea	223.0	0	3	0.0	2.0	1.0	0.0				
+fungus	223.0	1	0	1.0	2.0	1.0	1.0				
+hymenoptera	223.0	3	2	1.0	1.0	1.0	3.0	2.0	1.0	0.0	
+arthropod	223.0	0	2	2.0	1.0	1.0	2.0	1.0	1.0		
+parasitoid	223.0	1	3	2.0	3.0						
+parthenogenesis	223.0	3	1	2.0	1.0	2.0	1.0	1.0	2.0	1.0	
+nematode	223.0	3	0	1.0	2.0	3.0	2.0	1.0			
+parasitism	223.0	3	1	2.0	1.0	0.0	1.0	1.0	1.0		
+thrips	223.0	1	0	0.0	1.0	1.0	3.0				
+lepidoptera	223.0	1	0	0.0	1.0						
+brood parasite	223.0	3	1	2.0	1.0	0.0	1.0				
+aphid	223.0	0	1	1.0	2.0	2.0	2.0	1.0	3.0	0.0	3.0
+sexual reproduction	223.0	2	2	3.0	3.0	2.0	3.0				
+sperm competition	223.0	2	2	3.0							
+insect	223.0	3	1	3.0	2.0	3.0					
+sexual dimorphism	223.0	1	1	2.0	1.0	2.0	1.0	1.0			
+asexual reproduction	223.0	3	2	2.0	1.0	2.0	2.0	0.0			
+adolescence	224.0	1	2	3.0	3.0	2.0	0.0	3.0	2.0	1.0	1.0
+social isolation	224.0	2	1	2.0	1.0	2.0	2.0	2.0			
+clinical psychology	224.0	2	1	2.0	3.0	2.0	2.0				
+sociology of the family	224.0	2	2	1.0	2.0	0.0	0.0				
+social competence	224.0	0	1	2.0	3.0						
+developmental psychology	224.0	1	2	1.0	2.0	1.0	2.0	2.0			
+child development	224.0	2	3	1.0	2.0	3.0	2.0	1.0	3.0	1.0	
+prosocial behavior	224.0	3	2	2.0	3.0						
+empathy	224.0	1	3	1.0	2.0	0.0	2.0				
+psychology	224.0	2	2	2.0	2.0	3.0	3.0	3.0	3.0		
+social support	224.0	2	2	2.0							
+well-being	224.0	1	1	2.0	1.0	1.0	2.0	3.0			
+psychological research	224.0	0	2	3.0	2.0	3.0					
+parenting	224.0	2	2	2.0	1.0						
+social behavior	224.0	3	1	3.0	1.0	3.0	3.0	1.0	3.0		
+sociology	224.0	2	3	2.0	3.0	3.0	1.0	3.0			
+socialization	224.0	3	3	2.0	3.0	2.0	1.0	1.0			
+self-esteem	224.0	2	0	3.0	1.0	1.0	0.0	0.0			
+education	224.0	3	2	3.0	2.0						
+system	225.0	0	3	0.0	3.0	2.0	1.0				
+implementation	225.0	1	1	1.0	2.0	2.0	1.0	3.0			
+responsiveness	225.0	0	1	2.0	2.0	1.0	0.0	0.0	2.0	1.0	1.0
+information flow	225.0	1	1	2.0	1.0	2.0	2.0				
+gene regulatory network	225.0	1	0	3.0							
+information	225.0	0	2	2.0	2.0	3.0	0.0	2.0	3.0		
+structure	225.0	2	1	0.0	1.0	1.0	1.0	2.0			
+dynamics	225.0	0	0	2.0	3.0	1.0					
+principle	225.0	0	1	1.0	0.0	2.0	1.0				
+complexity	225.0	2	2	1.0	1.0	2.0	2.0	2.0			
+communication	225.0	1	1	1.0	2.0	2.0	0.0	0.0			
+complex system	225.0	2	2	3.0	3.0	1.0					
+self-organization	225.0	1	0	3.0	2.0	0.0	2.0	1.0	2.0	1.0	
+cell signaling	225.0	1	2	0.0	1.0	1.0	2.0	1.0			
+activation	225.0	1	1	1.0	1.0	1.0	1.0				
+interaction	225.0	2	0	1.0	2.0	2.0	0.0				
+emergence	225.0	1	1	1.0	1.0	0.0	1.0	0.0	2.0		
+the mechanism	225.0	2	1	2.0	1.0	2.0	1.0	2.0	3.0	1.0	
+concept	225.0	2	0	1.0	0.0	2.0					
+mathematical model	226.0	3	2	2.0	3.0	0.0	1.0	3.0			
+standard deviation	226.0	0	2	1.0	0.0	1.0					
+stochastic	226.0	2	1	2.0	1.0						
+quantitative	226.0	1	1	1.0	1.0	1.0	1.0	1.0			
+data analysis	226.0	2	2	1.0	1.0	2.0	3.0	2.0	2.0		
+variance	226.0	1	2	1.0	2.0	0.0	0.0				
+computer simulation	226.0	2	2	3.0	2.0						
+parameter	226.0	2	2	2.0	3.0	3.0	3.0	0.0			
+normal distribution	226.0	1	1	1.0	0.0	2.0	1.0	1.0	2.0		
+logistic regression	226.0	1	1	1.0	0.0	1.0	0.0	1.0			
+linear regression	226.0	2	2	0.0	3.0	0.0					
+statistical model	226.0	0	2	1.0	2.0	3.0	2.0	1.0			
+logarithm	226.0	0	2	2.0	1.0	2.0	2.0	1.0	1.0	2.0	
+regression analysis	226.0	3	1	1.0	2.0	3.0	2.0	3.0			
+time series	226.0	3	0	0.0	1.0	1.0	2.0	1.0	1.0	2.0	
+estimation	226.0	2	2	2.0	1.0	3.0					
+sensitivity analysis	226.0	1	2	0.0	2.0	2.0	1.0	2.0			
+approximation	226.0	0	1	3.0	2.0	0.0	1.0	2.0			
+power law	226.0	1	1	1.0	0.0	1.0	1.0	1.0	2.0	0.0	
+ozone	227.0	2	2	2.0	2.0	2.0	2.0				
+leachate	227.0	1	2	3.0	2.0	3.0	3.0	1.0	0.0		
+water pollution	227.0	1	1	1.0	2.0	2.0	3.0	2.0			
+sulfur dioxide	227.0	1	3	2.0	1.0	1.0	1.0	1.0	1.0		
+soil	227.0	3	3	1.0	2.0	2.0					
+nitrogen	227.0	0	1	3.0	0.0	2.0					
+pollution	227.0	3	1	1.0	3.0	3.0	0.0	1.0	0.0	2.0	
+water vapor	227.0	1	3	1.0	1.0	2.0	3.0	1.0			
+turbidity	227.0	2	1	2.0	1.0	0.0	1.0	0.0	1.0	1.0	
+activated carbon	227.0	2	0	0.0	1.0	1.0					
+particulates	227.0	2	1	0.0	2.0	1.0					
+eutrophication	227.0	0	2	2.0	2.0						
+water content	227.0	2	2	1.0	1.0	2.0	1.0				
+groundwater	227.0	2	2	1.0	1.0	2.0	1.0	2.0	2.0		
+water quality	227.0	1	2	2.0	2.0	2.0	1.0	2.0			
+aerosol	227.0	1	1	1.0	1.0	1.0	1.0	1.0			
+ammonia	227.0	1	0	1.0							
+carbon dioxide	227.0	2	1	0.0	1.0	1.0					
+leaching	227.0	2	1	2.0	1.0	2.0	0.0	1.0			
