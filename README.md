@@ -42,10 +42,10 @@ Train the System.
 * Download and Exttract the Standford Parser, WikiExtractor.py, word2vec phrase List from the URLs provided above.
 * Place Stanford parser(the whole directory) and WikiExtractor.py in training/support_packages.
 * Place word2vec phrase List file in training/additional_files.
-* Run main_train.py "python main_train.py -e -td -ng -dv -wv". 
+* Run main_train.py "python main_train.py -e -td -dv -ng -wv". 
 * Word2vec and Doc2vec models will be saved in training/trained_models and additional tokenised documents and other documents will be placed in training/processed_documents.
 
-* If you need your own word2vec phrase file can run word2vec_phrase.py but will need to alter the procedure a bit. Run "python main_train.py -e -td" and then run word2vec_phrases.py. After that again run "python main_train.py -ng -dv -wv" 
+* If you need your own word2vec phrase file can run word2vec_phrase.py but will need to alter the procedure a bit. Run "python main_train.py -e -td" and then run word2vec_phrases.py. After that again run "python main_train.py -dv -ng -wv" 
 
 Input Format
 =============================
