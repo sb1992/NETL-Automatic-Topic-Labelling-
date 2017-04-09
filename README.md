@@ -1,6 +1,6 @@
 # NETL-Automatic-Topic-Labelling-
 
-This package contains script, code files and tools to compute labels for topics automatically using Doc2vec and Word2vec (over phrases) models. URLs to Pre-trained models along with annotated datasets are also present over here.
+This package contains script, code files and tools to compute labels for topics automatically using Doc2vec and Word2vec (over phrases) models as part of the publication "Automatic labeeling of topics using neural embeddings". URLs to Pre-trained models along with annotated datasets are also given here.
 
 Pre-Trained Models
 ==========================
@@ -93,7 +93,7 @@ Some additional code files:
 * word2vec_phrases.py: This is also similar to pruned_documents.py but since output of this file is used in generating word2vec file we remove any brackets from the wikipedia title and tokenise it using StanFord tokeniser. Again if you need a pre computed one URL is given above word2vec phrase list. These labels are only considered to get a potential label from word2vec model. Output will be in training/additional_files
 *  get_indices.py: This model takes outputfiles of pruned_documents.py and word2vec_phrase.py and just gives the index position of those labels in the respective models. Again for ease of just running the model they are already computed and placed in model_run/support_files(doc2vec_indices,word2vec_indices).
 
-NOTE: While running the training models make sure that you move all previously generated directories to other location or chage the name of output files in main_train.py else files or directories may be over written.
+NOTE: While running the training models make sure that you move all previously generated directories to other location or change the name of output files in main_train.py else files or directories may be over written.
 
 Wikipedia internal pageRank were calculated using the help of https://www.nayuki.io/page/computing-wikipedias-internal-pageranks
 
@@ -104,4 +104,4 @@ Datasets
 
 Publication
 ==========================
-Coming soon
+Bhatia, Shraey, Jey Han Lau and Timothy Baldwin (2016) Automatic Labelling of Topics with Neural Embeddings, In Proceedings of the 26th International Conference on Computational Linguistics (COLING 2016), Osaka, Japan, 953–963.
