@@ -105,3 +105,20 @@ Datasets
 Publication
 ==========================
 Bhatia, Shraey, Jey Han Lau and Timothy Baldwin (2016) Automatic Labelling of Topics with Neural Embeddings, In Proceedings of the 26th International Conference on Computational Linguistics (COLING 2016), Osaka, Japan, 953–963.
+
+Known Issues:
+==========================
+It has been brought to my notice that a few people have faced issue with running out of memory. Well this could have been due to parallelization. It is a trade off between speed and memory. So if you get that problem, follow the fololwing:
+
+In file model_run/cand_generation.py comment out (or replace) line 191 and line 192.
+
+#pool = mp.Pool(processes=cores)
+#result = pool.map(get_labels, range(0,len(topic_list))
+
+Add the follwing
+
+result=[]
+for i in range(0,len(topic_list)):
+    result.append(get_labels(i))
+
+Ofcourse it will make it slower as is processed just on one core now. 
