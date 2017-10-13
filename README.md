@@ -116,9 +116,9 @@ In file model_run/cand_generation.py comment out (or replace) line 191 and line 
 #result = pool.map(get_labels, range(0,len(topic_list))
 
 Add the follwing
-
+```
 result=[]
 for i in range(0,len(topic_list)):
     result.append(get_labels(i))
-
+```
 Ofcourse it will make it slower as is processed just on one core now. 
