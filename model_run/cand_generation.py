@@ -10,6 +10,7 @@ word2vec and doc2vec labels. These pickle files are in support_files.
 """
 
 import os
+import traceback
 import gensim
 import pandas as pd
 from gensim.models import Doc2Vec
@@ -51,19 +52,19 @@ with open(args.word2vec_indices,'rb') as n:
     w_indices =pickle.load(n)
 
 # Models loaded
-model1 =Doc2Vec.load(args.doc2vecmodel)
+model1 = Doc2Vec.load(args.doc2vecmodel)
 model2 = Word2Vec.load(args.word2vecmodel)
 print "models loaded"
 
 # Loading the data file
 topics = pd.read_csv(args.data)
+
 try:
     new_frame= topics.drop('domain',1)
     topic_list = new_frame.set_index('topic_id').T.to_dict('list')
 except:
     topic_list = topics.set_index('topic_id').T.to_dict('list')
 print "Data Gathered"
-
 
 w_indices = list(set(w_indices))
 d_indices = list(set(d_indices))
@@ -94,13 +95,17 @@ def get_labels(topic_num):
     valword2vec =0.0
     cnt = 0
     store_indices =[]
-    
+
     print "Processing Topic number " +str(topic_num)
+
+    # Process topic terms, skipping the ones that do not exist in the models
     for item in topic_list[topic_num]:
         try: 
             tempdoc2vec = model1.syn0norm[model1.vocab[item].index] # The word2vec value of topic word from doc2vec trained model
-        except:
-            pass
+        except KeyError:
+            continue
+        except Exception as e:
+            traceback.print_exc()
         else:
             meandoc2vec = matutils.unitvec(tempdoc2vec).astype(REAL)    # Getting the unit vector
             distsdoc2vec = dot(model1.docvecs.doctag_syn0norm, meandoc2vec) # The dot product of all labels in doc2vec with the unit vector of topic word
@@ -108,8 +113,10 @@ def get_labels(topic_num):
 
         try:
             tempword2vec = model2.syn0norm[model2.vocab[item].index]  # The word2vec value of topic word from word2vec trained model
-        except:
-            pass
+        except KeyError:
+            continue
+        except Exception as e:
+            traceback.print_exc()
         else:
             meanword2vec = matutils.unitvec(tempword2vec).astype(REAL) # Unit vector 
 
@@ -123,8 +130,8 @@ def get_labels(topic_num):
             """
               
             if (model2.vocab[item].index) in w_indices:
-                
                 i_val = w_indices.index(model2.vocab[item].index)
+
       		store_indices.append(i_val)
                 distsword2vec[i_val] =0.0
             valword2vec = valword2vec + distsword2vec
@@ -134,12 +141,18 @@ def get_labels(topic_num):
 
     bestdoc2vec = matutils.argsort(avgdoc2vec, topn = 100, reverse=True) # argsort and get top 100 doc2vec label indices 
     resultdoc2vec =[]
+
     # Get the doc2vec labels from indices
     for elem in bestdoc2vec:
-        ind = d_indices[elem]
-        temp = model1.docvecs.index_to_doctag(ind)
-        resultdoc2vec.append((temp,float(avgdoc2vec[elem])))
-   
+        try:
+            ind = d_indices[elem]
+            temp = model1.docvecs.index_to_doctag(ind)
+            resultdoc2vec.append((temp,float(avgdoc2vec[elem])))
+        except TypeError:
+            continue
+        except Exception as e:
+            traceback.print_exc()
+
     # This modifies the average word2vec vector for cases in which the word2vec label was same as topic word.
     for element in store_indices:
         avgword2vec[element] = (avgword2vec[element]*len(topic_list[topic_num]))/(float(len(topic_list[topic_num])-1))
@@ -148,33 +161,45 @@ def get_labels(topic_num):
     # Get the word2vec labels from indices
     resultword2vec =[]
     for element in bestword2vec:
-        ind = w_indices[element]
-        temp = model2.index2word[ind]
-        resultword2vec.append((temp,float(avgword2vec[element])))
-    
+        try:
+            ind = w_indices[element]
+            temp = model2.index2word[ind]
+            resultword2vec.append((temp,float(avgword2vec[element])))
+        except TypeError:
+            continue
+        except Exception as e:
+            traceback.print_exc()
+
     # Get the combined set of both doc2vec labels and word2vec labels
     comb_labels = list(set([i[0] for i in resultdoc2vec]+[i[0] for i in resultword2vec]))
     newlist_doc2vec = []
-    newlist_word2vec =[]
+    newlist_word2vec = []
 
-    # Get indices from combined labels 
+    # Get indices from combined labels
     for elem in comb_labels:
         try:
-            
             newlist_doc2vec.append(d_indices.index(model1.docvecs.doctags[elem].offset))
             temp = get_word(elem)
             newlist_word2vec.append(w_indices.index(model2.vocab[temp].index))
-            
-        except:
-            pass
+        except KeyError:
+            continue
+        except ValueError:
+            continue
+        except Exception as e:
+            traceback.print_exc()
+
     newlist_doc2vec = list(set(newlist_doc2vec))
     newlist_word2vec = list(set(newlist_word2vec))
 
     # Finally again get the labels from indices. We searched for the score from both doctvec and word2vec models
-    resultlist_doc2vecnew =[(model1.docvecs.index_to_doctag(d_indices[elem]),float(avgdoc2vec[elem])) for elem in newlist_doc2vec]
-    resultlist_word2vecnew =[(model2.index2word[w_indices[elem]],float(avgword2vec[elem])) for elem in newlist_word2vec]
-    
-    # Finally get the combined score with the label. The label used will be of doc2vec not of word2vec. 
+    try:
+        resultlist_doc2vecnew =[(model1.docvecs.index_to_doctag(d_indices[elem]),float(avgdoc2vec[elem])) for elem in newlist_doc2vec]
+        resultlist_word2vecnew =[(model2.index2word[w_indices[elem]],float(avgword2vec[elem])) for elem in newlist_word2vec]
+    except Exception as e:
+        traceback.print_exc()
+        pass
+
+    # Finally get the combined score with the label. The label used will be of doc2vec not of word2vec.
     new_score =[]
     for item in resultlist_word2vecnew:
         k,v =item
@@ -184,11 +209,13 @@ def get_labels(topic_num):
             if k==k3:
                 v3 = v+v2
                 new_score.append((k2,v3))
+
     new_score = sorted(new_score,key =lambda x:x[1], reverse =True)
     return new_score[:(int(args.num_cand_labels))]
 
 cores = mp.cpu_count()
 pool = mp.Pool(processes=cores)
+
 result = pool.map(get_labels, range(0,len(topic_list)))
 
 # The output file for candidates.

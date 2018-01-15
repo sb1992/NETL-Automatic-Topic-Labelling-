@@ -170,11 +170,21 @@ def prepare_features(letter_tg_dict,page_rank_dict,cols,feature_names):
             new_list.append(com_word_length)
             new_list.append(3) #This could be just any value appended for the sake of giving a column for annotator rating neeeded in SVM Ranker classify
             temp = pd.Series(new_list,index =cols)
-            temp_frame = temp_frame.append(temp,ignore_index =True)
-            temp_frame = temp_frame.fillna(0) # Just filling in case a label does not have a pagerank value. Generally should not happen
+
+            try:
+                temp_frame = temp_frame.append(temp, ignore_index=True)
+                temp_frame = temp_frame.fillna(
+                    0)  # Just filling in case a label does not have a pagerank value. Generally should not happen
+            except KeyError as e:
+                continue
+
         for item in feature_names:
-            temp_frame[item] = (temp_frame[item] - temp_frame[item].mean())/\
-            (temp_frame[item].max() - temp_frame[item].min())  # feature Normalization per topic.
+            try:
+                temp_frame[item] = (temp_frame[item] - temp_frame[item].mean()) / \
+                                   (temp_frame[item].max() - temp_frame[item].min())  # feature Normalization per topic.
+            except KeyError as e:
+                continue
+
         frame = frame.append(temp_frame,ignore_index =True)
         frame = frame.fillna(0)
     return frame
