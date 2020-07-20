@@ -22,9 +22,9 @@ Some Python Library Requirements
 Additional Libraries and Tools Needed
 ==========================
 To run NETL there are some other libraries invloved to process wikipedia dump, tokenisation and for supervised learning.
-* [WIkiExtractor Tool] (https://github.com/attardi/wikiextractor)
-* [Stanford Parser] (http://nlp.stanford.edu/software/stanford-parser-full-2014-08-27.zip)
-* [SVM Rank]  (http://download.joachims.org/svm_rank/current/svm_rank_linux64.tar.gz)
+* [WIkiExtractor Tool](https://github.com/attardi/wikiextractor)
+* [Stanford Parser](http://nlp.stanford.edu/software/stanford-parser-full-2014-08-27.zip)
+* [SVM Rank](http://download.joachims.org/svm_rank/current/svm_rank_linux64.tar.gz)
 
 
 Running the System
