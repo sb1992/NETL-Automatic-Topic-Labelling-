@@ -4,14 +4,14 @@ This package contains script, code files and tools to compute labels for topics 
 
 Pre-Trained Models
 ==========================
-* [Doc2Vec trained model (6.8GB)](https://cloudstor.aarnet.edu.au/plus/s/vAjUzKOYyR67Vvl)
-* [Word2vec trained model(ngrams) (2.3GB)](https://cloudstor.aarnet.edu.au/plus/s/dBnYKY2PjwCQC1V)
+* [Doc2Vec trained model (6.8GB)](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/jeyhan_lau_unimelb_edu_au/EgzpOQsDqjJIqN8Pd0DksgUBGXr6oW4NX1csPPWBjYFr-Q?e=3dqgGg): 2016-coling-topic-label/doc2vec.tgz
+* [Word2vec trained model(ngrams) (2.3GB)](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/jeyhan_lau_unimelb_edu_au/EgzpOQsDqjJIqN8Pd0DksgUBGXr6oW4NX1csPPWBjYFr-Q?e=3dqgGg): 2016-coling-topic-label/word2vec.tgz
 
 Additional support files
 ==========================
-* [Pre computed PageRank](https://cloudstor.aarnet.edu.au/plus/s/v8jnMgT563gf5ei) 
-* [Wordvec Phrase list](https://cloudstor.aarnet.edu.au/plus/s/nQhFHUgpyF7rmEw)
-* [Filtered/Short Document titles](https://cloudstor.aarnet.edu.au/plus/s/N0WktTtnVih5GTm)
+* [Pre computed PageRank](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/jeyhan_lau_unimelb_edu_au/EgzpOQsDqjJIqN8Pd0DksgUBGXr6oW4NX1csPPWBjYFr-Q?e=3dqgGg): 2016-coling-topic-label/pagerank-titles-sorted.txt.gz
+* [Wordvec Phrase list](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/jeyhan_lau_unimelb_edu_au/EgzpOQsDqjJIqN8Pd0DksgUBGXr6oW4NX1csPPWBjYFr-Q?e=3dqgGg): 2016-coling-topic-label/word2vec_phrases_list_tokenized.txt.gz
+* [Filtered/Short Document titles](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/jeyhan_lau_unimelb_edu_au/EgzpOQsDqjJIqN8Pd0DksgUBGXr6oW4NX1csPPWBjYFr-Q?e=3dqgGg): 2016-coling-topic-label/short_label_documents.gz
 
 Some Python Library Requirements
 ============
