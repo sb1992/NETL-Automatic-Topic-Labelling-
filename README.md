@@ -4,14 +4,16 @@ This package contains script, code files and tools to compute labels for topics 
 
 Pre-Trained Models
 ==========================
-* [Doc2Vec trained model (6.8GB)](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/jeyhan_lau_unimelb_edu_au/EgzpOQsDqjJIqN8Pd0DksgUBGXr6oW4NX1csPPWBjYFr-Q?e=3dqgGg): 2016-coling-topic-label/doc2vec.tgz
-* [Word2vec trained model(ngrams) (2.3GB)](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/jeyhan_lau_unimelb_edu_au/EgzpOQsDqjJIqN8Pd0DksgUBGXr6oW4NX1csPPWBjYFr-Q?e=3dqgGg): 2016-coling-topic-label/word2vec.tgz
+* All data can be downloaded [here](https://mediaflux.researchsoftware.unimelb.edu.au:443/mflux/share.mfjp?_token=UwLcmNg727RZoQxdGo5a112828720&browser=true&filename=2016-coling-topic-label.zip).
+* Doc2Vec trained model (6.8GB): 2016-coling-topic-label/doc2vec.tgz
+* Word2vec trained model(ngrams) (2.3GB): 2016-coling-topic-label/word2vec.tgz
 
 Additional support files
 ==========================
-* [Pre computed PageRank](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/jeyhan_lau_unimelb_edu_au/EgzpOQsDqjJIqN8Pd0DksgUBGXr6oW4NX1csPPWBjYFr-Q?e=3dqgGg): 2016-coling-topic-label/pagerank-titles-sorted.txt.gz
-* [Wordvec Phrase list](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/jeyhan_lau_unimelb_edu_au/EgzpOQsDqjJIqN8Pd0DksgUBGXr6oW4NX1csPPWBjYFr-Q?e=3dqgGg): 2016-coling-topic-label/word2vec_phrases_list_tokenized.txt.gz
-* [Filtered/Short Document titles](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/jeyhan_lau_unimelb_edu_au/EgzpOQsDqjJIqN8Pd0DksgUBGXr6oW4NX1csPPWBjYFr-Q?e=3dqgGg): 2016-coling-topic-label/short_label_documents.gz
+* All data can be downloaded [here](https://mediaflux.researchsoftware.unimelb.edu.au:443/mflux/share.mfjp?_token=UwLcmNg727RZoQxdGo5a112828720&browser=true&filename=2016-coling-topic-label.zip).
+* Pre computed PageRank: 2016-coling-topic-label/pagerank-titles-sorted.txt.gz
+* Wordvec Phrase list: 2016-coling-topic-label/word2vec_phrases_list_tokenized.txt.gz
+* Filtered/Short Document titles: 2016-coling-topic-label/short_label_documents.gz
 
 Some Python Library Requirements
 ============
