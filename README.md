@@ -4,13 +4,13 @@ This package contains script, code files and tools to compute labels for topics 
 
 Pre-Trained Models
 ==========================
-* All data can be downloaded [here](https://mediaflux.researchsoftware.unimelb.edu.au/mflux/data/mover/index.html?token=kg48rxcqq76v15kvwwsfj2iqkvmijugyydjrqr2jq8gseyh4ojrt1nw0rg3dq2k70l23lv5klxose7z8nrm7eccvx47plvyr8dsliiry471d6nxfq6pd5g1e1jxo78u3uxrmgxn8ms77l6l4gz8scde190vzmj9rf0u19dtgjj1r5nm1h2qqrpxfj6g1wge06vb7wste21etgx73b0ci6sejigv0kwhes2agmb1l) (note: you'll be prompted to download a program called "Mediaflux Data Mover" - after installing it, click the link again and open Mediaflux Daata Mover and you'll be able to download the data via the program).
+* All data can be downloaded [here](https://mediaflux.researchsoftware.unimelb.edu.au/mflux/data/mover/index.html?token=kg48rxcqq76v15kvwwsfj2iqkvmijugyydjrqr2jq8gseyh4ojrt1nw0rg3dq2k70l23lv5klxose7z8nrm7eccvx47plvyr8dsliiry471d6nxfq6pd5g1e1jxo78u3uxrmgxn8ms77l6l4gz8scde190vzmj9rf0u19dtgjj1r5nm1h2qqrpxfj6g1wge06vb7wste21etgx73b0ci6sejigv0kwhes2agmb1l) (note: you'll be prompted to download a program called "Mediaflux Data Mover" - after installing it, click the link again and open Mediaflux Data Mover and you'll be able to download the data via the program).
 * Doc2Vec trained model (6.8GB): 2016-coling-topic-label/doc2vec.tgz
 * Word2vec trained model(ngrams) (2.3GB): 2016-coling-topic-label/word2vec.tgz
 
 Additional support files
 ==========================
-* All data can be downloaded [here](https://mediaflux.researchsoftware.unimelb.edu.au/mflux/data/mover/index.html?token=kg48rxcqq76v15kvwwsfj2iqkvmijugyydjrqr2jq8gseyh4ojrt1nw0rg3dq2k70l23lv5klxose7z8nrm7eccvx47plvyr8dsliiry471d6nxfq6pd5g1e1jxo78u3uxrmgxn8ms77l6l4gz8scde190vzmj9rf0u19dtgjj1r5nm1h2qqrpxfj6g1wge06vb7wste21etgx73b0ci6sejigv0kwhes2agmb1l) (note: you'll be prompted to download a program called "Mediaflux Data Mover" - after installing it, click the link again and open Mediaflux Daata Mover and you'll be able to download the data via the program).
+* All data can be downloaded [here](https://mediaflux.researchsoftware.unimelb.edu.au/mflux/data/mover/index.html?token=kg48rxcqq76v15kvwwsfj2iqkvmijugyydjrqr2jq8gseyh4ojrt1nw0rg3dq2k70l23lv5klxose7z8nrm7eccvx47plvyr8dsliiry471d6nxfq6pd5g1e1jxo78u3uxrmgxn8ms77l6l4gz8scde190vzmj9rf0u19dtgjj1r5nm1h2qqrpxfj6g1wge06vb7wste21etgx73b0ci6sejigv0kwhes2agmb1l) (note: you'll be prompted to download a program called "Mediaflux Data Mover" - after installing it, click the link again and open Mediaflux Data Mover and you'll be able to download the data via the program).
 * Pre computed PageRank: 2016-coling-topic-label/pagerank-titles-sorted.txt.gz
 * Wordvec Phrase list: 2016-coling-topic-label/word2vec_phrases_list_tokenized.txt.gz
 * Filtered/Short Document titles: 2016-coling-topic-label/short_label_documents.gz
